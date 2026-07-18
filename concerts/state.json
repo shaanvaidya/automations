@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T11:26:33.597292-07:00",
+  "last_updated": "2026-07-18T15:09:50.403916-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -1748,15 +1748,6 @@
       "url": "https://cafedunord.com/tm-event/the-charities-with-mae-powell/",
       "venue": "Cafe du Nord"
     },
-    "cafe-du-nord:2026-08-29:private-event": {
-      "date": "2026-08-29",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://cafedunord.com/tm-event/private-event-25/",
-      "venue": "Cafe du Nord"
-    },
     "cafe-du-nord:2026-09-02:lenka": {
       "date": "2026-09-02",
       "first_seen": "2026-07-18",
@@ -2259,15 +2250,6 @@
       "reminder_notified": false,
       "title": "Fenix Flexin",
       "url": "https://wl.seetickets.us/event/fenix-flexin/697339?afflky=GreatAmericanMusicHall",
-      "venue": "Great American Music Hall"
-    },
-    "great-american-music-hall:2026-08-15:private-event": {
-      "date": "2026-08-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "PRIVATE EVENT",
-      "url": "https://wl.seetickets.us/event/private-event/698542?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
     },
     "greek-theatre:2026-07-18:rainbow-kitten-surprise": {
@@ -3251,15 +3233,6 @@
       "url": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel",
       "venue": "The Chapel"
     },
-    "the-chapel:2026-07-18:watch-france-vs-england-in-curio-bar": {
-      "date": "2026-07-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Watch France vs. England in Curio Bar",
-      "url": "https://wl.seetickets.us/event/watch-france-vs-england-in-curio-bar/699523?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
     "the-chapel:2026-07-19:babe-rainbow": {
       "date": "2026-07-19",
       "first_seen": "2026-07-18",
@@ -3276,15 +3249,6 @@
       "reminder_notified": true,
       "title": "LOVE SUPREME Summer Day Party Series",
       "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-07-19:watch-spain-vs-argentina-on-the-chapel-s-big-screen": {
-      "date": "2026-07-19",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Watch Spain vs. Argentina on The Chapel's Big Screen",
-      "url": "https://wl.seetickets.us/event/watch-spain-vs-argentina-on-the-chapels-big-screen/698948?afflky=TheChapel",
       "venue": "The Chapel"
     },
     "the-chapel:2026-07-22:friendship": {
@@ -3411,15 +3375,6 @@
       "reminder_notified": false,
       "title": "LOVE SUPREME Summer Day Party Series",
       "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-08-16:private-event": {
-      "date": "2026-08-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://thechapelsf.com/private-events/",
       "venue": "The Chapel"
     },
     "the-chapel:2026-08-17:valerie-june": {
@@ -3665,15 +3620,6 @@
       "url": "https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel",
       "venue": "The Chapel"
     },
-    "the-chapel:2026-10-03:private-event": {
-      "date": "2026-10-03",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://thechapelsf.com/private-events/",
-      "venue": "The Chapel"
-    },
     "the-chapel:2026-10-04:rum-jungle": {
       "date": "2026-10-04",
       "first_seen": "2026-07-18",
@@ -3701,15 +3647,6 @@
       "url": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
       "venue": "The Chapel"
     },
-    "the-chapel:2026-10-10:private-event": {
-      "date": "2026-10-10",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://thechapelsf.com/private-events/",
-      "venue": "The Chapel"
-    },
     "the-chapel:2026-10-13:militarie-gun": {
       "date": "2026-10-13",
       "first_seen": "2026-07-18",
@@ -3735,15 +3672,6 @@
       "reminder_notified": false,
       "title": "Am\u00e9lie Farren, Lilith Max, Rabbitology",
       "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-17:private-event": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://thechapelsf.com/private-events/",
       "venue": "The Chapel"
     },
     "the-chapel:2026-10-18:love-supreme-summer-day-party-series": {
@@ -3924,24 +3852,6 @@
       "reminder_notified": false,
       "title": "Buck Meek",
       "url": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-12-11:private-event": {
-      "date": "2026-12-11",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://thechapelsf.com/private-events/",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-12-12:private-event": {
-      "date": "2026-12-12",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": false,
-      "title": "Private Event",
-      "url": "https://thechapelsf.com/private-events/",
       "venue": "The Chapel"
     },
     "the-chapel:2027-01-15:book-of-love-40th-anniversary-tour": {
