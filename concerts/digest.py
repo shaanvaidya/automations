@@ -528,15 +528,24 @@ def main() -> None:
         if 0 <= days_until <= REMINDER_WINDOW_DAYS and not entry.get("reminder_notified"):
             reminder_due.append((sid, entry))
 
+    # Everything below is sent as a single combined push rather than one per
+    # category: rapid back-to-back pushes to the same device risk getting
+    # silently coalesced by the phone's push-delivery layer before they're
+    # ever seen, so one run == at most one notification.
+    sections = []
+    title_parts = []
+
     if new_shows:
         lines = [format_show_line(s) for s in sorted(new_shows, key=lambda s: s["date"])]
-        send_ntfy("\n\n".join(lines), f"New Concerts ({len(new_shows)})")
+        sections.append(f"NEW SHOWS ({len(new_shows)})\n" + "\n\n".join(lines))
+        title_parts.append(f"{len(new_shows)} new")
         for s in new_shows:
             shows_state[show_id(s)]["new_notified"] = True
 
     if reminder_due:
         lines = [format_show_line(entry) for _, entry in sorted(reminder_due, key=lambda p: p[1]["date"])]
-        send_ntfy("\n\n".join(lines), f"Concert Reminder ({len(reminder_due)})")
+        sections.append(f"REMINDERS ({len(reminder_due)})\n" + "\n\n".join(lines))
+        title_parts.append(f"{len(reminder_due)} reminders")
         for sid, entry in reminder_due:
             shows_state[sid]["reminder_notified"] = True
 
@@ -544,10 +553,16 @@ def main() -> None:
     save_state(state)
 
     if failures:
-        msg = "Some venues failed to fetch this run (others succeeded, state was still updated):\n" + \
-              "\n".join(f"- {label}: {e}" for label, e in failures)
-        send_ntfy(msg, "Concerts Digest - Partial Failure")
-        print(msg)
+        sections.append(
+            f"FAILURES ({len(failures)})\n" + "\n".join(f"- {label}: {e}" for label, e in failures)
+        )
+        title_parts.append(f"{len(failures)} failed")
+        print("Some venues failed to fetch this run (others succeeded, state was still updated):")
+        for label, e in failures:
+            print(f"- {label}: {e}")
+
+    if sections:
+        send_ntfy("\n\n===\n\n".join(sections), "Concerts Digest: " + ", ".join(title_parts))
 
     print(f"New: {len(new_shows)}, Reminders: {len(reminder_due)}, Failures: {len(failures)}")
 
