@@ -55,6 +55,19 @@ MONTHS = {
     "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
 }
 
+# Some venue calendars mix in non-concert filler: private room rentals with
+# no public performer, and sports-screening "watch parties" on the venue's
+# TV/big screen. Filtered by title pattern since they come through the same
+# feeds as real shows and have no separate event type field to key off of.
+NOISE_TITLE_PATTERNS = [
+    re.compile(r"^private event$", re.I),
+    re.compile(r"^watch\b", re.I),
+]
+
+
+def is_noise_title(title: str) -> bool:
+    return any(p.search(title.strip()) for p in NOISE_TITLE_PATTERNS)
+
 LIVE_NATION_VENUES = {
     "The Fillmore": "https://www.livenation.com/venue/KovZpZAE6eeA/the-fillmore-events",
     "August Hall": "https://www.livenation.com/venue/KovZ917ALXF/august-hall-events",
@@ -493,7 +506,7 @@ def main() -> None:
     # into shows_state even briefly would make it look "new" again on every
     # future run once it gets pruned back out.
     today_iso = today.isoformat()
-    all_shows = [s for s in all_shows if s["date"] >= today_iso]
+    all_shows = [s for s in all_shows if s["date"] >= today_iso and not is_noise_title(s["title"])]
 
     if not all_shows:
         msg = "Every venue source failed to fetch this run:\n" + "\n".join(f"- {label}: {e}" for label, e in failures)
@@ -502,7 +515,10 @@ def main() -> None:
         sys.exit(1)
 
     state = load_state()
-    shows_state = state["shows"]
+    # Purge any noise entries a prior run already committed before this
+    # filter existed - not just future ones caught by the all_shows filter
+    # above.
+    shows_state = {sid: e for sid, e in state["shows"].items() if not is_noise_title(e["title"])}
 
     new_shows = []
     for show in all_shows:
