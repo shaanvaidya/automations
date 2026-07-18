@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T15:17:35.455038-07:00",
+  "last_updated": "2026-07-18T15:42:28.165520-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -6301,6 +6301,474 @@
       "title": "Jeff Arcuri: The Road Trip Tour",
       "url": "https://www.livenation.com/event/G5vYZ_u6K779b/jeff-arcuri-the-road-trip-tour",
       "venue": "The Masonic"
+    },
+    "the-midway:2026-07-18:bed-by-10pm": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Bed By 10PM",
+      "url": "https://www.tixr.com/groups/midwaysf/events/bed-by-10pm-185830",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-18:intimate-night-with-pixel": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Intimate Night with Pixel",
+      "url": "https://www.tixr.com/groups/midwaysf/events/intimate-night-with-pixel-194118",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-18:uncle-waffles-the-midway-s-9-year-anniversary": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Uncle Waffles - The Midway's 9 Year Anniversary",
+      "url": "https://www.tixr.com/groups/midwaysf/events/uncle-waffles-the-midway-s-9-year-anniversary-186889",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-19:super-perreo-latin-rave-experience": {
+      "date": "2026-07-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Super Perreo - Latin Rave Experience",
+      "url": "https://www.tixr.com/groups/midwaysf/events/super-perreo-latin-rave-experience-193469",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-24:deb-bailar-m-s-perreo-bad-bunny-more-dance-night": {
+      "date": "2026-07-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Deb\u00ed BaiLAr M\u00e1S PerrEO (Bad Bunny + More - Dance Night)",
+      "url": "https://www.tixr.com/groups/midwaysf/events/deb-bailar-m-s-perreo-bad-bunny-more-dance-night--191364",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-24:dirtwire-savej-thug-shells-at-888-garage": {
+      "date": "2026-07-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Dirtwire, Savej & Thug Shells at 888 Garage",
+      "url": "https://www.tixr.com/groups/midwaysf/events/dirtwire-savej-thug-shells-at-888-garage-195240",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-25:niiko-x-swae": {
+      "date": "2026-07-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "NIIKO X SWAE",
+      "url": "https://www.tixr.com/groups/midwaysf/events/niiko-x-swae-187871",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-25:party-pupils-x-goshfather-disco-house-vs-yacht-house": {
+      "date": "2026-07-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Party Pupils x Goshfather - Disco House vs . Yacht House",
+      "url": "https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-disco-house-vs-yacht-house-190125",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-25:perreoland-the-ultimate-reggaeton-experience": {
+      "date": "2026-07-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "PERREOLAND - The Ultimate Reggaeton Experience",
+      "url": "https://www.tixr.com/groups/midwaysf/events/perreoland-the-ultimate-reggaeton-experience-193284",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-31:emmit-fenn": {
+      "date": "2026-07-31",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Emmit Fenn",
+      "url": "https://www.tixr.com/groups/midwaysf/events/emmit-fenn-194640",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-07-31:house-of-joy-sanjoy-arini": {
+      "date": "2026-07-31",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "House of Joy: Sanjoy + ARINI",
+      "url": "https://www.tixr.com/groups/midwaysf/events/house-of-joy-sanjoy-arini-199004",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-01:ero808": {
+      "date": "2026-08-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ero808",
+      "url": "https://www.tixr.com/groups/midwaysf/events/ero808-195341",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-01:r-b-fest": {
+      "date": "2026-08-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "R&B Fest",
+      "url": "https://www.tixr.com/groups/midwaysf/events/r-b-fest-186654",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-02:beyond-the-fence-playa-bound-trunk-show": {
+      "date": "2026-08-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Beyond The Fence Playa Bound Trunk Show",
+      "url": "https://www.tixr.com/groups/midwaysf/events/beyond-the-fence-playa-bound-trunk-show-195506",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-06:zack-fox": {
+      "date": "2026-08-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Zack Fox",
+      "url": "https://www.tixr.com/groups/midwaysfgv/events/zack-fox-182813",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-07:circus-aeternus": {
+      "date": "2026-08-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "CIRCUS AETERNUS",
+      "url": "https://www.tixr.com/groups/midwaysf/events/circus-aeternus-198666",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-07:project-52-wrap-party-w-anjali-asha": {
+      "date": "2026-08-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Project 52 Wrap Party w/ Anjali Asha",
+      "url": "https://www.tixr.com/groups/midwaysf/events/project-52-wrap-party-w-anjali-asha-196011",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-08:dmc-usa-finals-2026-san-francisco": {
+      "date": "2026-08-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "DMC USA FINALS 2026 - SAN FRANCISCO",
+      "url": "https://www.tixr.com/groups/midwaysf/events/dmc-usa-finals-2026-san-francisco-188791",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-08:vini-vici": {
+      "date": "2026-08-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Vini Vici",
+      "url": "https://www.tixr.com/groups/midwaysf/events/vini-vici-194353",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-14:monstercat-15-year": {
+      "date": "2026-08-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Monstercat 15 Year",
+      "url": "https://www.tixr.com/groups/midwaysf/events/monstercat-15-year-198021",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-14:reggaeton-rave": {
+      "date": "2026-08-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Reggaeton Rave",
+      "url": "https://www.tixr.com/groups/midwaysf/events/reggaeton-rave-195526",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-15:2000-s-rave": {
+      "date": "2026-08-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "2000's Rave",
+      "url": "https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-15:bass-brunch-by-thematic-entertainment": {
+      "date": "2026-08-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Bass Brunch by Thematic Entertainment",
+      "url": "https://www.tixr.com/groups/midwaysf/events/bass-brunch-by-thematic-entertainment-192386",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-15:fight-night-live-wrestling-rave-cage-match": {
+      "date": "2026-08-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "FIGHT NIGHT: LIVE WRESTLING RAVE - CAGE MATCH",
+      "url": "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-cage-match-198643",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-16:caravan-oasis": {
+      "date": "2026-08-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Caravan Oasis",
+      "url": "https://www.tixr.com/groups/midwaysf/events/caravan-oasis-197994",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-21:thank-u-next-ariana-grande-dance-night": {
+      "date": "2026-08-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "THANK U NEXT (Ariana Grande Dance Night)",
+      "url": "https://www.tixr.com/groups/midwaysf/events/thank-u-next-ariana-grande-dance-night--199030",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-22:discip": {
+      "date": "2026-08-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "DISCIP",
+      "url": "https://www.tixr.com/groups/midwaysf/events/discip-189250",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-23:5th-annual-green-party": {
+      "date": "2026-08-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "5th Annual Green Party",
+      "url": "https://www.tixr.com/groups/midwaysf/events/5th-annual-green-party-196640",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-25:molly-santana-x-north-west-kimokawaii-tour": {
+      "date": "2026-08-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "MOLLY SANTANA X NORTH WEST KIMOKAWAII TOUR",
+      "url": "https://www.tixr.com/groups/midwaysf/events/molly-santana-x-north-west-kimokawaii-tour-194651",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-29:bradeazy": {
+      "date": "2026-08-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "bradeazy",
+      "url": "https://www.tixr.com/groups/midwaysf/events/bradeazy-194330",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-29:bresh": {
+      "date": "2026-08-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "BRESH",
+      "url": "https://www.tixr.com/groups/midwaysf/events/bresh-194319",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-29:madvktm-amalgamation": {
+      "date": "2026-08-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "MADVKTM - AMALGAMATION",
+      "url": "https://www.tixr.com/groups/midwaysf/events/madvktm-amalgamation-178537",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-08-30:kasbo-labyrinth-tour": {
+      "date": "2026-08-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "KASBO Labyrinth Tour",
+      "url": "https://www.tixr.com/groups/midwaysf/events/kasbo-labyrinth-tour-188803",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-04:black-tiger-sex-machine-kai-wachi-block-party": {
+      "date": "2026-09-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Black Tiger Sex Machine & Kai Wachi Block Party",
+      "url": "https://www.tixr.com/groups/midwaysf/events/black-tiger-sex-machine-kai-wachi-block-party-193518",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-04:costa": {
+      "date": "2026-09-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Costa",
+      "url": "https://www.tixr.com/groups/midwaysf/events/costa-195355",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-05:electroluxx-block-party-purple-disco-machine-rupaul-more": {
+      "date": "2026-09-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Electroluxx Block Party: Purple Disco Machine, RuPaul + MORE",
+      "url": "https://www.tixr.com/groups/midwaysf/events/electroluxx-block-party-purple-disco-machine-rupaul-more-188276",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-06:r-b-and-ribs-block-party-with-lloyd-keri-hilson-soulja-boy": {
+      "date": "2026-09-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "R&B and RIBS Block Party with Lloyd, Keri Hilson, Soulja Boy",
+      "url": "https://www.tixr.com/groups/midwaysf/events/r-b-and-ribs-block-party-with-lloyd-keri-hilson-soulja-boy-197276",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-07:hiero-day": {
+      "date": "2026-09-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "HIERO DAY",
+      "url": "https://www.tixr.com/groups/midwaysf/events/hiero-day-189661",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-11:flux-pavilion": {
+      "date": "2026-09-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Flux Pavilion",
+      "url": "https://www.tixr.com/groups/midwaysf/events/flux-pavilion-188802",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-12:chai-beats-san-francisco": {
+      "date": "2026-09-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chai & Beats: San Francisco",
+      "url": "https://www.tixr.com/groups/midwaysf/events/chai-beats-san-francisco-193865",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-12:whales": {
+      "date": "2026-09-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Whales",
+      "url": "https://www.tixr.com/groups/midwaysf/events/whales-196023",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-09-19:satin-jackets": {
+      "date": "2026-09-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Satin Jackets",
+      "url": "https://www.tixr.com/groups/midwaysf/events/satin-jackets-194168",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-02:taiwan-golden-melody-night": {
+      "date": "2026-10-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Taiwan Golden Melody Night",
+      "url": "https://www.tixr.com/groups/midwaysf/events/taiwan-golden-melody-night-196850",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-09:whipped-cream": {
+      "date": "2026-10-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Whipped Cream",
+      "url": "https://www.tixr.com/groups/midwaysf/events/whipped-cream-189011",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-10:polo-pan-americas-tour-block-party": {
+      "date": "2026-10-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Polo & Pan - Americas Tour Block Party",
+      "url": "https://www.tixr.com/groups/midwaysf/events/polo-pan-americas-tour-block-party-191131",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-10:tinlicker-live": {
+      "date": "2026-10-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tinlicker Live",
+      "url": "https://www.tixr.com/groups/midwaysfgv/events/tinlicker-live-186833",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-17:yheti-toadface-present-sleight-of-sound-tour": {
+      "date": "2026-10-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Yheti & Toadface present Sleight of Sound Tour",
+      "url": "https://www.tixr.com/groups/midwaysf/events/yheti-toadface-present-sleight-of-sound-tour-197309",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-23:chief-keef": {
+      "date": "2026-10-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chief Keef",
+      "url": "https://www.tixr.com/groups/midwaysf/events/chief-keef-197581",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-10-24:marc-rebillet-franc-moody-chromeo-block-party": {
+      "date": "2026-10-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Marc Rebillet, Franc Moody & Chromeo Block Party",
+      "url": "https://www.tixr.com/groups/midwaysf/events/marc-rebillet-franc-moody-chromeo-block-party-195529",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-11-13:mono-music-conference-2026": {
+      "date": "2026-11-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "MONO Music Conference 2026",
+      "url": "https://www.tixr.com/groups/midwaysf/events/mono-music-conference-2026-194158",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-11-13:valentino-khan": {
+      "date": "2026-11-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Valentino Khan",
+      "url": "https://www.tixr.com/groups/midwaysf/events/valentino-khan-192686",
+      "venue": "The Midway"
+    },
+    "the-midway:2026-12-05:zingara-the-aliens-are-making-sounds": {
+      "date": "2026-12-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "ZINGARA - The Aliens Are Making Sounds",
+      "url": "https://www.tixr.com/groups/midwaysf/events/zingara-the-aliens-are-making-sounds-198168",
+      "venue": "The Midway"
     },
     "the-warfield:2026-08-11:interpol": {
       "date": "2026-08-11",
