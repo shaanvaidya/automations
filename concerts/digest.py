@@ -6,8 +6,8 @@ with no self-serve path) via each venue's own public calendar:
   1. Live Nation venues (The Fillmore, August Hall, The Masonic): JSON-LD
      MusicEvent blocks embedded in plain HTML.
   2. Another Planet Entertainment venues (The Independent, Bill Graham Civic
-     Auditorium, Fox Theater, Greek Theatre): one combined calendar fetch,
-     filtered by venue name, using schema.org microdata.
+     Auditorium, Fox Theater, Greek Theatre, The Castro): one combined
+     calendar fetch, filtered by venue name, using schema.org microdata.
   3. Independent venue sites (The Warfield, Great American Music Hall, The
      Chapel, Rickshaw Stop, Cafe du Nord, Neck of the Woods, Bimbo's 365
      Club): bespoke per-site HTML parsers.
@@ -82,7 +82,7 @@ LIVE_NATION_VENUES = {
 }
 
 APE_CALENDAR_URL = "https://apeconcerts.com/calendar/"
-APE_VENUES = {"The Independent", "Bill Graham Civic Auditorium", "Fox Theater", "Greek Theatre"}
+APE_VENUES = {"The Independent", "Bill Graham Civic Auditorium", "Fox Theater", "Greek Theatre", "The Castro"}
 
 WARFIELD_URL = "https://www.thewarfieldtheatre.com/events"
 GAMH_URL = "https://gamh.com/calendar/"
