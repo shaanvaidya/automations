@@ -45,5 +45,9 @@ jobs:
             echo "No state changes to commit"
           else
             git commit -m "Update concerts state"
-            git push
+            for i in 1 2 3; do
+              git push && break
+              echo "Push rejected (likely a concurrent commit to master) - rebasing and retrying"
+              git pull --rebase
+            done
           fi
