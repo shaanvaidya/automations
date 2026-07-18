@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T15:09:50.403916-07:00",
+  "last_updated": "2026-07-18T15:14:21.034100-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -604,6 +604,186 @@
       "title": "The Neighbourhood",
       "url": "https://apeconcerts.com/events/the-neighbourhood-261202/",
       "venue": "Bill Graham Civic Auditorium"
+    },
+    "bimbo-s-365-club:2026-08-06:balu-brigada": {
+      "date": "2026-08-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Balu Brigada",
+      "url": "https://bimbos365club.com/tm-event/balu-brigada/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-08-14:lady-camden-s-the-peach-pit-cabaret-with-suzie-toot-special-guests": {
+      "date": "2026-08-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lady Camden's The Peach Pit Cabaret with Suzie Toot & Special Guests",
+      "url": "https://bimbos365club.com/tm-event/lady-camdens-the-peach-pit-cabaret-with-suzie-toot-special-guests/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-08-21:mustache-harbor": {
+      "date": "2026-08-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Mustache Harbor",
+      "url": "https://bimbos365club.com/tm-event/mustache-harbor-8/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-09-11:super-diamond": {
+      "date": "2026-09-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Super Diamond",
+      "url": "https://bimbos365club.com/tm-event/super-diamond-5/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-09-14:haute-freddy-moved-to-the-castro-theatre": {
+      "date": "2026-09-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Haute & Freddy \u2013 MOVED TO THE CASTRO THEATRE",
+      "url": "https://bimbos365club.com/tm-event/haute-freddy/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-09-18:lido-pimienta": {
+      "date": "2026-09-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lido Pimienta",
+      "url": "https://bimbos365club.com/tm-event/lido-pimienta/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-09-24:elder-island": {
+      "date": "2026-09-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elder Island",
+      "url": "https://bimbos365club.com/tm-event/elder-island/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-09-28:tokyo-tea-room": {
+      "date": "2026-09-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tokyo Tea Room",
+      "url": "https://bimbos365club.com/tm-event/tokyo-tea-room/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-09-30:emei": {
+      "date": "2026-09-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Emei",
+      "url": "https://bimbos365club.com/tm-event/emei/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-10-09:domi-jd-beck-who-asked-tour": {
+      "date": "2026-10-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "DOMi\u00a0&\u00a0JD\u00a0BECK\u00a0\u2013 WHO ASKED? Tour",
+      "url": "https://bimbos365club.com/tm-event/domi-jd-beck-who-asked-tour/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-10-12:maro-moved-from-the-castro": {
+      "date": "2026-10-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "MARO \u2013 (MOVED FROM THE CASTRO)",
+      "url": "https://bimbos365club.com/tm-event/maro-moved-from-the-castro/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-10-14:fightmaster": {
+      "date": "2026-10-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "FIGHTMASTER",
+      "url": "https://bimbos365club.com/tm-event/fightmaster/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-10-15:world-famous-pets": {
+      "date": "2026-10-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "World Famous Pets",
+      "url": "https://bimbos365club.com/tm-event/world-famous-pets/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-10-17:lewis-ofman": {
+      "date": "2026-10-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lewis OfMan",
+      "url": "https://bimbos365club.com/tm-event/lewis-ofman/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-10-30:stella-lefty": {
+      "date": "2026-10-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Stella Lefty",
+      "url": "https://bimbos365club.com/tm-event/stella-lefty/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-11-08:murray-hill": {
+      "date": "2026-11-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Murray Hill",
+      "url": "https://bimbos365club.com/tm-event/murray-hill/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-11-12:ezra-collective-here-because-of-hope-tour": {
+      "date": "2026-11-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ezra Collective \u2013 Here Because of Hope Tour",
+      "url": "https://bimbos365club.com/tm-event/ezra-collective-here-because-of-hope-tour/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-11-20:hug-feat-gyan-riley-devendra-banhart-noah-georgeson": {
+      "date": "2026-11-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "HUG feat. Gyan Riley, Devendra Banhart, Noah Georgeson",
+      "url": "https://bimbos365club.com/tm-event/hug-gyan-riley-devendra-banhart-noah-georgeson/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-12-06:an-evening-with-squirrel-nut-zippers-christmas-caravan-2026": {
+      "date": "2026-12-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "An Evening with Squirrel Nut Zippers: Christmas Caravan 2026",
+      "url": "https://bimbos365club.com/tm-event/an-evening-with-squirrel-nut-zippers-christmas-caravan-2026/",
+      "venue": "Bimbo's 365 Club"
+    },
+    "bimbo-s-365-club:2026-12-16:pokey-lafarge": {
+      "date": "2026-12-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Pokey LaFarge",
+      "url": "https://bimbos365club.com/tm-event/pokey-lafarge/",
+      "venue": "Bimbo's 365 Club"
     },
     "bottom-of-the-hill:2026-07-18:the-good-luck-thrift-store-outfit": {
       "date": "2026-07-18",
