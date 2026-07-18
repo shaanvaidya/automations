@@ -460,10 +460,14 @@ def save_state(state: dict) -> None:
 def send_ntfy(message: str, title: str) -> None:
     if len(message) > 4000:
         message = message[:3980] + "\n…(truncated)"
+    # The Title header must be Latin-1-encodable (HTTP header restriction,
+    # unlike the UTF-8 body below) - fall back rather than let a stray
+    # non-ASCII character in a title crash the whole run.
+    safe_title = title.encode("ascii", errors="replace").decode("ascii")
     requests.post(
         f"https://ntfy.sh/{CONCERTS_NTFY_TOPIC}",
         data=message.encode("utf-8"),
-        headers={"Title": title},
+        headers={"Title": safe_title},
         timeout=15,
     )
 
@@ -493,7 +497,7 @@ def main() -> None:
 
     if not all_shows:
         msg = "Every venue source failed to fetch this run:\n" + "\n".join(f"- {label}: {e}" for label, e in failures)
-        send_ntfy(msg, "Concerts Digest — Total Failure")
+        send_ntfy(msg, "Concerts Digest - Total Failure")
         print(msg)
         sys.exit(1)
 
@@ -542,7 +546,7 @@ def main() -> None:
     if failures:
         msg = "Some venues failed to fetch this run (others succeeded, state was still updated):\n" + \
               "\n".join(f"- {label}: {e}" for label, e in failures)
-        send_ntfy(msg, "Concerts Digest — Partial Failure")
+        send_ntfy(msg, "Concerts Digest - Partial Failure")
         print(msg)
 
     print(f"New: {len(new_shows)}, Reminders: {len(reminder_due)}, Failures: {len(failures)}")
