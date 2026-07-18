@@ -86,13 +86,18 @@ NECK_OF_THE_WOODS_URL = "https://www.neckofthewoodssf.com/calendar/"
 BIMBOS_365_URL = "https://bimbos365club.com/shows/"
 BOTTOM_OF_THE_HILL_RSS_URL = "https://bottomofthehill.com/RSS.xml"
 
+# These must be the Discovery API's own alphanumeric venue IDs (as seen in
+# _embedded.venues[].id on a real API response), not the numeric IDs in
+# ticketmaster.com's website URLs (e.g. .../venue/230012) - those are a
+# different, legacy ID scheme and silently return zero events if used here.
+# Resolve a new venue's real ID via a one-off keyword search first.
 TICKETMASTER_VENUE_IDS = {
-    "Chase Center": "230012",
-    "Frost Amphitheatre": "230180",
-    "SF Symphony (Davies Symphony Hall)": "229526",
+    "Chase Center": "KovZ917Ah1H",
+    "Frost Amphitheatre": "ZFr9jZdA76",
+    "SF Symphony (Davies Symphony Hall)": "Z6r9jZAAAe",
+    "Regency Ballroom": "ZFr9jZ7kv6",
 }
 TICKETMASTER_KEYWORD_VENUES = {
-    "Regency Ballroom": ["Regency Ballroom"],
     "SFJAZZ": ["SFJAZZ", "Miner Auditorium"],
 }
 
