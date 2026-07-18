@@ -15,11 +15,12 @@ with no self-serve path) via each venue's own public calendar:
   5. Ticketmaster Discovery API (Chase Center, Frost Amphitheatre, SF
      Symphony/Davies Symphony Hall, Regency Ballroom): venues that are
      bot-walled on their own sites.
-  6. SFJAZZ: Playwright drives a real browser past a Cloudflare managed
-     challenge that blocks plain HTTP requests, then reads the calendar
-     page's own internal JSON API (one page load per lookahead month, since
-     that's what reliably passes the challenge - a reused session with an
-     injected fetch call does not).
+  6. SFJAZZ, The Midway: both behind a Cloudflare managed challenge that
+     blocks plain HTTP requests, so Playwright drives a real browser past it
+     and reads each site's own internal JSON API. SFJAZZ needs one fresh
+     page load per lookahead month (a reused session with an injected fetch
+     call doesn't pass the challenge); The Midway's single page load +
+     WordPress REST endpoint is cheaper.
 
 State (which shows have already triggered a notification) is tracked in
 concerts/state.json, committed back to the repo by the GitHub Actions
@@ -67,6 +68,7 @@ MONTHS = {
 NOISE_TITLE_PATTERNS = [
     re.compile(r"^private event$", re.I),
     re.compile(r"^watch\b", re.I),
+    re.compile(r"\bwatch party$", re.I),
 ]
 
 
@@ -502,6 +504,62 @@ def fetch_sfjazz_events() -> list[dict]:
     return shows
 
 
+THE_MIDWAY_CALENDAR_URL = "https://themidwaysf.com/calendar/"
+
+
+def fetch_the_midway_events() -> list[dict]:
+    """Also behind a Cloudflare managed challenge, but unlike SFJAZZ a
+    single fresh page load reliably passes it (no per-month retry dance
+    needed), and the page's own JS calls a plain WordPress REST endpoint
+    (wp-json/showfeed/v1/events) that returns every upcoming event, paged -
+    the API rejects any limit over 100 with a 400. That feed actually spans
+    several venues under the same promoter (Envelop SF, 888 Garage, etc.)
+    plus a recurring non-event "Midway Rewards App" filler entry, so
+    filtered down to venue == "The Midway" with a real start_time."""
+    from playwright.sync_api import sync_playwright
+
+    events: list[dict] = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(user_agent=USER_AGENT)
+        page.goto(THE_MIDWAY_CALENDAR_URL, timeout=30000, wait_until="networkidle")
+        page.wait_for_timeout(1500)
+
+        offset = 0
+        while True:
+            page_events = page.evaluate(f"""
+                async () => {{
+                    const resp = await fetch("https://themidwaysf.com/wp-json/showfeed/v1/events?limit=100&offset={offset}", {{
+                        headers: {{ "Accept": "application/json" }}
+                    }});
+                    if (!resp.ok) return null;
+                    return await resp.json();
+                }}
+            """)
+            if not page_events:
+                break
+            events.extend(page_events)
+            if len(page_events) < 100:
+                break
+            offset += 100
+        browser.close()
+
+    if not events:
+        raise ValueError("no events captured from The Midway's showfeed API - Cloudflare challenge or API shape may have changed")
+
+    shows = []
+    for ev in events:
+        if ev.get("venue") != "The Midway":
+            continue
+        name = (ev.get("name") or "").strip()
+        event_date = (ev.get("start_time") or "")[:10]
+        if not (name and event_date):
+            continue
+        url = ev.get("url") or THE_MIDWAY_CALENDAR_URL
+        shows.append({"venue": "The Midway", "title": name, "date": event_date, "url": url})
+    return shows
+
+
 def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
     fetchers: list[tuple[str, Callable[[], list[dict]]]] = []
 
@@ -521,6 +579,7 @@ def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
     for venue_name, venue_id in TICKETMASTER_VENUE_IDS.items():
         fetchers.append((venue_name, lambda v=venue_name, i=venue_id: fetch_ticketmaster_by_venue_id(v, i)))
     fetchers.append(("SFJAZZ", fetch_sfjazz_events))
+    fetchers.append(("The Midway", fetch_the_midway_events))
 
     return fetchers
 
