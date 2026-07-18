@@ -13,8 +13,13 @@ with no self-serve path) via each venue's own public calendar:
      Club): bespoke per-site HTML parsers.
   4. Bottom of the Hill: a plain RSS feed.
   5. Ticketmaster Discovery API (Chase Center, Frost Amphitheatre, SF
-     Symphony/Davies Symphony Hall, Regency Ballroom, SFJAZZ best-effort):
-     venues that are bot-walled on their own sites or AXS-only.
+     Symphony/Davies Symphony Hall, Regency Ballroom): venues that are
+     bot-walled on their own sites.
+  6. SFJAZZ: Playwright drives a real browser past a Cloudflare managed
+     challenge that blocks plain HTTP requests, then reads the calendar
+     page's own internal JSON API (one page load per lookahead month, since
+     that's what reliably passes the challenge - a reused session with an
+     injected fetch call does not).
 
 State (which shows have already triggered a notification) is tracked in
 concerts/state.json, committed back to the repo by the GitHub Actions
@@ -97,10 +102,6 @@ TICKETMASTER_VENUE_IDS = {
     "SF Symphony (Davies Symphony Hall)": "Z6r9jZAAAe",
     "Regency Ballroom": "ZFr9jZ7kv6",
 }
-TICKETMASTER_KEYWORD_VENUES = {
-    "SFJAZZ": ["SFJAZZ", "Miner Auditorium"],
-}
-
 
 def local_today() -> date:
     return datetime.now(ZoneInfo("America/Los_Angeles")).date()
@@ -422,30 +423,83 @@ def fetch_ticketmaster_by_venue_id(venue_name: str, venue_id: str) -> list[dict]
     return _ticketmaster_events_to_shows(all_events, venue_name)
 
 
-def fetch_ticketmaster_by_keyword(venue_name: str, name_filters: list[str]) -> list[dict]:
-    """Best-effort: no dedicated Ticketmaster venue ID is known/reliable, so
-    search by keyword per filter term and keep only results whose venue name
-    actually matches. Will only catch shows Ticketmaster also lists."""
-    seen_ids = set()
-    events = []
-    for kw in name_filters:
-        resp = requests.get(
-            "https://app.ticketmaster.com/discovery/v2/events.json",
-            params={"keyword": kw, "city": "San Francisco", "apikey": TICKETMASTER_API_KEY, "size": 200},
-            timeout=20,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        for ev in data.get("_embedded", {}).get("events", []):
-            ev_id = ev.get("id")
-            if not ev_id or ev_id in seen_ids:
-                continue
-            venues = ev.get("_embedded", {}).get("venues", [{}])
-            vname = venues[0].get("name", "") if venues else ""
-            if any(nf.lower() in vname.lower() for nf in name_filters):
-                seen_ids.add(ev_id)
-                events.append(ev)
-    return _ticketmaster_events_to_shows(events, venue_name)
+SFJAZZ_CALENDAR_URL = "https://www.sfjazz.org/calendar/"
+SFJAZZ_LOOKAHEAD_MONTHS = 9
+SFJAZZ_EXCLUDED_EVENT_TYPES = {"Education", "Classes & Workshops", "Digital Lab"}
+
+
+def fetch_sfjazz_events() -> list[dict]:
+    """SFJAZZ's site sits behind a Cloudflare managed challenge that a plain
+    HTTP request can't pass, but a real browser can. Its calendar page's own
+    JS calls an internal JSON API (sfjazz.org/ace-api/events/) per calendar
+    month - a fresh full page navigation per month (not a reused session
+    with an injected fetch call) is what reliably gets past the challenge,
+    since the site's own JS constructs whatever per-request token Cloudflare
+    is checking for. This makes SFJAZZ far more expensive than every other
+    source here (a full browser launch, ~9 page loads instead of one HTTP
+    request) - only worth it because it's a real venue with no other clean
+    coverage path (AXS-primary, no public API)."""
+    from playwright.sync_api import sync_playwright
+
+    today = local_today()
+    month_starts = []
+    y, m = today.year, today.month
+    for _ in range(SFJAZZ_LOOKAHEAD_MONTHS):
+        month_starts.append(date(y, m, 15))  # mid-month, safely inside the range regardless of today's day-of-month
+        m += 1
+        if m > 12:
+            m = 1
+            y += 1
+
+    events_by_id: dict[str, dict] = {}
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        for month_date in month_starts:
+            page = browser.new_page(user_agent=USER_AGENT)
+            captured: list[dict] = []
+
+            def on_response(response, captured=captured):
+                if "ace-api/events/?startDate" in response.url and response.status == 200:
+                    try:
+                        captured.append(response.json())
+                    except Exception:
+                        pass
+
+            page.on("response", on_response)
+            try:
+                page.goto(
+                    f"{SFJAZZ_CALENDAR_URL}?date={month_date.isoformat()}&layout=A",
+                    timeout=30000,
+                    wait_until="networkidle",
+                )
+                page.wait_for_timeout(3000)
+            except Exception:
+                pass  # one bad month shouldn't sink the whole fetch; falls through with whatever was captured
+            finally:
+                page.close()
+
+            for batch in captured:
+                for ev in batch:
+                    ev_id = ev.get("id")
+                    if ev_id:
+                        events_by_id[ev_id] = ev
+        browser.close()
+
+    if not events_by_id:
+        raise ValueError("no SFJAZZ events captured across any lookahead month - Cloudflare challenge or API shape may have changed")
+
+    shows = []
+    for ev in events_by_id.values():
+        if SFJAZZ_EXCLUDED_EVENT_TYPES.intersection(ev.get("eventTypes", [])):
+            continue
+        name = ev.get("name", "").strip()
+        event_date = (ev.get("eventDate") or "")[:10]
+        detail_path = ev.get("viewDetailCtaUrl") or ev.get("buyTicketCtaUrl") or ""
+        if not (name and event_date):
+            continue
+        url = f"https://www.sfjazz.org{detail_path}" if detail_path.startswith("/") else (detail_path or SFJAZZ_CALENDAR_URL)
+        shows.append({"venue": "SFJAZZ", "title": name, "date": event_date, "url": url})
+    return shows
 
 
 def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
@@ -466,8 +520,7 @@ def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
 
     for venue_name, venue_id in TICKETMASTER_VENUE_IDS.items():
         fetchers.append((venue_name, lambda v=venue_name, i=venue_id: fetch_ticketmaster_by_venue_id(v, i)))
-    for venue_name, keywords in TICKETMASTER_KEYWORD_VENUES.items():
-        fetchers.append((venue_name, lambda v=venue_name, k=keywords: fetch_ticketmaster_by_keyword(v, k)))
+    fetchers.append(("SFJAZZ", fetch_sfjazz_events))
 
     return fetchers
 
