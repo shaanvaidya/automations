@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T15:14:21.034100-07:00",
+  "last_updated": "2026-07-18T15:17:35.455038-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -1955,6 +1955,276 @@
       "url": "https://cafedunord.com/tm-event/zoh-amba/",
       "venue": "Cafe du Nord"
     },
+    "chase-center:2026-07-18:golden-state-valkyries-vs-washington-mystics": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Golden State Valkyries vs. Washington Mystics",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-washington-mystics-san-francisco-california-07-18-2026/event/1C006435CB51373E",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-07-20:golden-state-valkyries-vs-washington-mystics": {
+      "date": "2026-07-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Golden State Valkyries vs. Washington Mystics",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-washington-mystics-san-francisco-california-07-20-2026/event/1C006435CB56378A",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-02:golden-state-valkyries-vs-toronto-tempo": {
+      "date": "2026-08-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Toronto Tempo",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-toronto-tempo-san-francisco-california-08-02-2026/event/1C006435CB5B37A8",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-04:golden-state-valkyries-vs-toronto-tempo": {
+      "date": "2026-08-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Toronto Tempo",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-toronto-tempo-san-francisco-california-08-04-2026/event/1C006435CB6037C2",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-06:lionel-richie-and-earth-wind-fire-sing-a-song-all-night-long": {
+      "date": "2026-08-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lionel Richie and Earth, Wind & Fire - Sing a Song All Night Long",
+      "url": "https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-san-francisco-california-08-06-2026/event/1C006433C5EEB4F9",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-08:meghan-trainor-the-get-in-girl-tour": {
+      "date": "2026-08-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Meghan Trainor: The Get In Girl Tour",
+      "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-san-francisco-california-08-08-2026/event/1C00636AC761CDDB",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-12:golden-state-valkyries-vs-chicago-sky": {
+      "date": "2026-08-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Chicago Sky",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-chicago-sky-san-francisco-california-08-12-2026/event/1C006435CB6537D9",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-15:hot-wheels-monster-trucks-live-glow-n-fire": {
+      "date": "2026-08-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "HOT WHEELS MONSTER TRUCKS LIVE \u0099 GLOW-N-FIRE",
+      "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-san-francisco-california-08-15-2026/event/1C006453BF3C3943",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-16:hot-wheels-monster-trucks-live-glow-n-fire": {
+      "date": "2026-08-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "HOT WHEELS MONSTER TRUCKS LIVE \u0099 GLOW-N-FIRE",
+      "url": "https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-san-francisco-california-08-16-2026/event/1C006453BF403948",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-17:golden-state-valkyries-vs-dallas-wings": {
+      "date": "2026-08-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Dallas Wings",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-dallas-wings-san-francisco-california-08-17-2026/event/1C006435CB6B380B",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-19:golden-state-valkyries-vs-minnesota-lynx": {
+      "date": "2026-08-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Minnesota Lynx",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-minnesota-lynx-san-francisco-california-08-19-2026/event/1C006435CB70384D",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-20:daniel-caesar-son-of-spergy-tour": {
+      "date": "2026-08-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Daniel Caesar - Son Of Spergy Tour",
+      "url": "https://www.ticketmaster.com/daniel-caesar-son-of-spergy-tour-san-francisco-california-08-20-2026/event/1C006384A9E7AAFD",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-08-21:daniel-caesar-son-of-spergy-tour": {
+      "date": "2026-08-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Daniel Caesar - Son Of Spergy Tour",
+      "url": "https://www.ticketmaster.com/daniel-caesar-son-of-spergy-tour-san-francisco-california-08-21-2026/event/1C006482AEA36B74",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-09-02:zayn-the-konnakol-tour": {
+      "date": "2026-09-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "ZAYN: The Konnakol Tour",
+      "url": "https://www.ticketmaster.com/zayn-the-konnakol-tour-san-francisco-california-09-02-2026/event/1C00643CBD728809",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-09-08:childish-gambino-the-new-world-tour": {
+      "date": "2026-09-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Childish Gambino - The New World Tour",
+      "url": "https://www.ticketmaster.com/childish-gambino-the-new-world-tour-san-francisco-california-09-08-2026/event/1C0060A2A7C0628F",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-09-09:live-105-presents-weezer-the-gathering": {
+      "date": "2026-09-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "LIVE 105 Presents WEEZER: The Gathering",
+      "url": "https://www.ticketmaster.com/live-105-presents-weezer-the-gathering-san-francisco-california-09-09-2026/event/1C00646C950B9949",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-09-18:golden-state-valkyries-vs-portland-fire": {
+      "date": "2026-09-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Portland Fire",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-portland-fire-san-francisco-california-09-18-2026/event/1C006435CB763885",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-09-19:golden-state-valkyries-vs-seattle-storm": {
+      "date": "2026-09-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Golden State Valkyries vs. Seattle Storm",
+      "url": "https://www.ticketmaster.com/golden-state-valkyries-vs-seattle-storm-san-francisco-california-09-19-2026/event/1C006435CB7B38AA",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-09-23:lily-allen-performs-west-end-girl": {
+      "date": "2026-09-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lily Allen Performs West End Girl",
+      "url": "https://www.ticketmaster.com/lily-allen-performs-west-end-girl-san-francisco-california-09-23-2026/event/1C006477ED77ED53",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-03:disney-descendants-zombies-camp-rock-worlds-collide-concert-tour": {
+      "date": "2026-10-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-san-francisco-california-10-03-2026/event/1C00646A12E4DE0C",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-07:rod-wave-don-t-look-down-tour": {
+      "date": "2026-10-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rod Wave: Don't Look Down Tour",
+      "url": "https://www.ticketmaster.com/rod-wave-dont-look-down-tour-san-francisco-california-10-07-2026/event/1C0064D09CBD9C82",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-11:chayanne-bailemos-otra-vez-tour": {
+      "date": "2026-10-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chayanne - Bailemos Otra Vez Tour",
+      "url": "https://www.ticketmaster.com/chayanne-bailemos-otra-vez-tour-san-francisco-california-10-11-2026/event/1C006465C33D245E",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-15:young-miko-late-checkout-tour": {
+      "date": "2026-10-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Young Miko - Late Checkout Tour",
+      "url": "https://www.ticketmaster.com/young-miko-late-checkout-tour-san-francisco-california-10-15-2026/event/1C00647FF914B4FF",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-19:doja-cat-tour-ma-vie-world-tour": {
+      "date": "2026-10-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Doja Cat - Tour Ma Vie World Tour",
+      "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-francisco-california-10-19-2026/event/1C0063390D157FFD",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-27:phoebe-bridgers-the-lost-tour": {
+      "date": "2026-10-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Phoebe Bridgers: The Lost Tour",
+      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-san-francisco-california-10-27-2026/event/1C0064B9DBA0E43F",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-28:phoebe-bridgers-the-lost-tour": {
+      "date": "2026-10-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Phoebe Bridgers: The Lost Tour",
+      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-san-francisco-california-10-28-2026/event/1C0064C59A9BFAED",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-11-10:teddy-swims-the-ugly-tour": {
+      "date": "2026-11-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Teddy Swims: The UGLY Tour",
+      "url": "https://www.ticketmaster.com/teddy-swims-the-ugly-tour-san-francisco-california-11-10-2026/event/1C00648ABCA0F080",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-11-28:journey-final-frontier-tour-an-evening-with": {
+      "date": "2026-11-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "JOURNEY - Final Frontier Tour (An Evening With)",
+      "url": "https://www.ticketmaster.com/journey-final-frontier-tour-an-evening-san-francisco-california-11-28-2026/event/1C006499E0B535ED",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-12-20:invisalign-bay-area-womens-classic-cal-v-nebraska-stanford-v-ohio-st": {
+      "date": "2026-12-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Invisalign Bay Area Womens Classic:Cal V Nebraska & Stanford V Ohio St",
+      "url": "https://www.ticketmaster.com/invisalign-bay-area-womens-classiccal-v-san-francisco-california-12-20-2026/event/1C0064EDDB7A18DA",
+      "venue": "Chase Center"
+    },
+    "chase-center:2027-05-25:niall-horan-dinner-party-live-on-tour": {
+      "date": "2027-05-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Niall Horan: Dinner Party Live On Tour",
+      "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
+      "venue": "Chase Center"
+    },
     "fox-theater:2026-07-18:widespread-panic": {
       "date": "2026-07-18",
       "first_seen": "2026-07-18",
@@ -2332,6 +2602,42 @@
       "title": "Nothing But Thieves",
       "url": "https://apeconcerts.com/events/nothing-but-thieves-270403/",
       "venue": "Fox Theater"
+    },
+    "frost-amphitheatre:2026-08-15:goose": {
+      "date": "2026-08-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Goose",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OVaO",
+      "venue": "Frost Amphitheatre"
+    },
+    "frost-amphitheatre:2026-09-19:brandi-carlile": {
+      "date": "2026-09-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Brandi Carlile",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-S14",
+      "venue": "Frost Amphitheatre"
+    },
+    "frost-amphitheatre:2026-10-09:slightly-stoopid-w-the-elovaters": {
+      "date": "2026-10-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Slightly Stoopid w/ The Elovaters",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pdj6",
+      "venue": "Frost Amphitheatre"
+    },
+    "frost-amphitheatre:2026-10-10:taking-back-sunday-w-thrice": {
+      "date": "2026-10-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Taking Back Sunday w/ Thrice",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70AFV",
+      "venue": "Frost Amphitheatre"
     },
     "great-american-music-hall:2026-07-18:gabe-bondoc-jeremy-passion": {
       "date": "2026-07-18",
@@ -2782,6 +3088,267 @@
       "title": "Karaoke Tuesday",
       "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-5/",
       "venue": "Neck of the Woods"
+    },
+    "regency-ballroom:2026-08-04:charles-wesley-godwin-w-lily-fitts": {
+      "date": "2026-08-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Charles Wesley Godwin w/ Lily Fitts",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70zfU",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-08-05:zack-fox-dj": {
+      "date": "2026-08-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Zack Fox - DJ",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70N1_",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-08-17:tangerine-dream": {
+      "date": "2026-08-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tangerine Dream",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70grk",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-08-18:los-mirlos": {
+      "date": "2026-08-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Los Mirlos",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70IGg",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-08-19:the-sword-w-red-fang": {
+      "date": "2026-08-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Sword w/ Red Fang",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70734",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-08-21:anees": {
+      "date": "2026-08-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "anees",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70-F4",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-02:noname": {
+      "date": "2026-09-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Noname",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7POjy",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-03:hayla-18-and-over": {
+      "date": "2026-09-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hayla (18 and Over)",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A708rk",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-04:nitzer-ebb": {
+      "date": "2026-09-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Nitzer Ebb",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o-J",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-08:slayyyter-w-pearly-drops": {
+      "date": "2026-09-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Slayyyter w/ Pearly Drops",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xvZS",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-11:altin-gun": {
+      "date": "2026-09-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Altin Gun",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-y0k",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-12:moms-feelin-themselves-21-and-over": {
+      "date": "2026-09-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Moms Feelin' Themselves (21 and Over)",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70yJd",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-15:starbomb-w-epic-rap-battles-of-history": {
+      "date": "2026-09-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Starbomb w/ Epic Rap Battles of History",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70SA8",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-18:citizen-w-hotline-tnt": {
+      "date": "2026-09-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Citizen w/ Hotline TNT",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70ovy",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-21:uncle-acid-and-the-deadbeats-w-messa": {
+      "date": "2026-09-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Uncle Acid and The Deadbeats w/ Messa",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PfAF",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-09-30:chat-pile-w-soul-glo": {
+      "date": "2026-09-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chat Pile w/ Soul Glo",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PfZI",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-10-13:mico": {
+      "date": "2026-10-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Mico",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70I80",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-10-16:moe": {
+      "date": "2026-10-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "moe.",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P8qK",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-10-18:she-wants-revenge": {
+      "date": "2026-10-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "She Wants Revenge",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70OaI",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-10-31:medium-build-w-the-scratch": {
+      "date": "2026-10-31",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Medium Build w/ The Scratch",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PV4I",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-01:the-musical-box": {
+      "date": "2026-11-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Musical Box",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70OaE",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-05:black-angels-w-ghostwoman": {
+      "date": "2026-11-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Black Angels w/ GHOSTWOMAN",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x9k7",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-12:band-of-horses": {
+      "date": "2026-11-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Band of Horses",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70E19",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-13:l7": {
+      "date": "2026-11-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "L7",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70O4f",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-14:headache": {
+      "date": "2026-11-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Headache",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70M7M",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-16:manic-street-preachers": {
+      "date": "2026-11-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Manic Street Preachers",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70zfg",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-20:layton-giordani-18-and-over": {
+      "date": "2026-11-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Layton Giordani (18 and Over)",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P379",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2026-11-23:gary-numan": {
+      "date": "2026-11-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Gary Numan",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A708Fp",
+      "venue": "Regency Ballroom"
+    },
+    "regency-ballroom:2027-02-18:blue-october": {
+      "date": "2027-02-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Blue October",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_4z",
+      "venue": "Regency Ballroom"
     },
     "rickshaw-stop:2026-07-18:emo-nite-at-rickshaw-stop-san-francisco-ca": {
       "date": "2026-07-18",
@@ -3403,6 +3970,87 @@
       "title": "VALENCIA GRACE",
       "url": "https://wl.seetickets.us/event/valencia-grace/697858?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
+    },
+    "sf-symphony-davies-symphony-hall:2026-07-18:sutton-foster-w-kelli-o-hara": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Sutton Foster w/ Kelli O'Hara",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70-_P",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-07-24:san-francisco-symphony-presents-james-bond-forever": {
+      "date": "2026-07-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "San Francisco Symphony presents James Bond Forever",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jd1_",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-07-25:san-francisco-symphony-presents-matilda": {
+      "date": "2026-07-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "San Francisco Symphony presents Matilda",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdFS",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-07-26:san-francisco-symphony-presents-matilda": {
+      "date": "2026-07-26",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "San Francisco Symphony presents Matilda",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdFU",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-08-01:andrew-bird": {
+      "date": "2026-08-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Andrew Bird",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-9jZ",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-08-17:herbie-hancock": {
+      "date": "2026-08-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Herbie Hancock",
+      "url": "https://www.ticketmaster.com/herbie-hancock-san-francisco-california-08-17-2026/event/1C006464D22A5AC8",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-08:samara-joy-w-san-francisco-symphony": {
+      "date": "2026-09-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Samara Joy w/ San Francisco Symphony",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdFy",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-15:gregory-alan-isakov-w-san-francisco-symphony": {
+      "date": "2026-09-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Gregory Alan Isakov w/ San Francisco Symphony",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdaZ",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-12:ludovico-einaudi-solo-piano": {
+      "date": "2026-10-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ludovico Einaudi: Solo Piano",
+      "url": "https://www.ticketmaster.com/ludovico-einaudi-solo-piano-san-francisco-california-10-12-2026/event/1C006436A77D8A09",
+      "venue": "SF Symphony (Davies Symphony Hall)"
     },
     "the-chapel:2026-07-18:futurebirds": {
       "date": "2026-07-18",
