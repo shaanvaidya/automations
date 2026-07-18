@@ -9,8 +9,8 @@ with no self-serve path) via each venue's own public calendar:
      Auditorium, Fox Theater, Greek Theatre): one combined calendar fetch,
      filtered by venue name, using schema.org microdata.
   3. Independent venue sites (The Warfield, Great American Music Hall, The
-     Chapel, Rickshaw Stop, Cafe du Nord, Neck of the Woods): bespoke
-     per-site HTML parsers.
+     Chapel, Rickshaw Stop, Cafe du Nord, Neck of the Woods, Bimbo's 365
+     Club): bespoke per-site HTML parsers.
   4. Bottom of the Hill: a plain RSS feed.
   5. Ticketmaster Discovery API (Chase Center, Frost Amphitheatre, SF
      Symphony/Davies Symphony Hall, Regency Ballroom, SFJAZZ best-effort):
@@ -83,6 +83,7 @@ CHAPEL_URL = "https://thechapelsf.com/calendar/"
 RICKSHAW_URL = "https://rickshawstop.com/calendar/"
 CAFE_DU_NORD_URL = "https://cafedunord.com/calendar/"
 NECK_OF_THE_WOODS_URL = "https://www.neckofthewoodssf.com/calendar/"
+BIMBOS_365_URL = "https://bimbos365club.com/shows/"
 BOTTOM_OF_THE_HILL_RSS_URL = "https://bottomofthehill.com/RSS.xml"
 
 TICKETMASTER_VENUE_IDS = {
@@ -324,21 +325,32 @@ def _parse_ticketweb_date(text: str, today: date) -> date | None:
 
 
 def fetch_ticketweb_events(venue_name: str, url: str) -> list[dict]:
-    """TicketWeb 'tw-' widget, used by Cafe du Nord and Neck of the Woods.
-    Each date span (one per event, though several events can share one date)
-    is immediately followed in document order by that event's name div."""
+    """TicketWeb 'tw-' widget, used by Cafe du Nord, Neck of the Woods, and
+    Bimbo's 365 Club. Each date marker (one per event, though several events
+    can share one date) is immediately followed in document order by that
+    event's name div. Bimbo's variant splits the date across a separate
+    tw-event-month span ("August") and a bare-number tw-event-date span
+    ("6"), rather than a single self-contained date string."""
     html = get(url).text
     soup = BeautifulSoup(html, "html.parser")
-    nodes = soup.select("span.tw-event-date, div.tw-name")
+    nodes = soup.select("span.tw-event-month, span.tw-event-date, div.tw-name")
     if not nodes:
         raise ValueError(f"no TicketWeb events found for {venue_name} - page structure may have changed")
 
     today = local_today()
     shows = []
     current_date: date | None = None
+    pending_month: int | None = None
     for node in nodes:
-        if "tw-event-date" in node.get("class", []):
-            current_date = _parse_ticketweb_date(node.get_text(strip=True), today)
+        classes = node.get("class", [])
+        if "tw-event-month" in classes:
+            pending_month = MONTHS.get(node.get_text(strip=True)[:3])
+            continue
+        if "tw-event-date" in classes:
+            text = node.get_text(strip=True)
+            current_date = _parse_ticketweb_date(text, today)
+            if current_date is None and pending_month and text.isdigit():
+                current_date = roll_year_if_past(pending_month, int(text), today)
             continue
         a = node.select_one("a")
         title = a.get_text(strip=True) if a else None
@@ -444,6 +456,7 @@ def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
     fetchers.append(("Rickshaw Stop", lambda: fetch_seetickets_calendar_events("Rickshaw Stop", RICKSHAW_URL)))
     fetchers.append(("Cafe du Nord", lambda: fetch_ticketweb_events("Cafe du Nord", CAFE_DU_NORD_URL)))
     fetchers.append(("Neck of the Woods", lambda: fetch_ticketweb_events("Neck of the Woods", NECK_OF_THE_WOODS_URL)))
+    fetchers.append(("Bimbo's 365 Club", lambda: fetch_ticketweb_events("Bimbo's 365 Club", BIMBOS_365_URL)))
     fetchers.append(("Bottom of the Hill", fetch_bottom_of_the_hill_events))
 
     for venue_name, venue_id in TICKETMASTER_VENUE_IDS.items():
