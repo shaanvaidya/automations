@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T15:42:28.165520-07:00",
+  "last_updated": "2026-07-18T16:13:44.774159-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -3089,6 +3089,15 @@
       "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-5/",
       "venue": "Neck of the Woods"
     },
+    "neck-of-the-woods:2026-08-05:neck-of-the-woods-sf-open-mic-wednesdays": {
+      "date": "2026-08-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Neck of the Woods SF Open Mic Wednesdays",
+      "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-31/",
+      "venue": "Neck of the Woods"
+    },
     "regency-ballroom:2026-08-04:charles-wesley-godwin-w-lily-fitts": {
       "date": "2026-08-04",
       "first_seen": "2026-07-18",
@@ -4051,6 +4060,555 @@
       "title": "Ludovico Einaudi: Solo Piano",
       "url": "https://www.ticketmaster.com/ludovico-einaudi-solo-piano-san-francisco-california-10-12-2026/event/1C006436A77D8A09",
       "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "the-castro:2026-07-18:san-francisco-jewish-film-festival-46": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "San Francisco Jewish Film Festival 46",
+      "url": "https://apeconcerts.com/events/san-francisco-jewish-film-festival-46/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-19:hook": {
+      "date": "2026-07-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Hook",
+      "url": "https://apeconcerts.com/events/hook-260719/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-19:mrs-doubtfire": {
+      "date": "2026-07-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Mrs. Doubtfire",
+      "url": "https://apeconcerts.com/events/mrs-doubtfire-260719/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-22:totally-tubular-festival": {
+      "date": "2026-07-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Totally Tubular Festival",
+      "url": "https://apeconcerts.com/events/totally-tubular-festival-260722/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-23:the-birdcage": {
+      "date": "2026-07-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "The Birdcage",
+      "url": "https://apeconcerts.com/events/the-birdcage-260723/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-25:masters-of-the-universe": {
+      "date": "2026-07-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Masters of the Universe",
+      "url": "https://apeconcerts.com/events/masters-of-the-universe-260725/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-26:but-i-m-a-cheerleader": {
+      "date": "2026-07-26",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "But I\u2019m a Cheerleader",
+      "url": "https://apeconcerts.com/events/but-im-a-cheerleader-260726/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-29:kim-gordon": {
+      "date": "2026-07-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Kim Gordon",
+      "url": "https://apeconcerts.com/events/kim-gordon-260729/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-07-31:glitter-25th-anniversary": {
+      "date": "2026-07-31",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Glitter 25th Anniversary",
+      "url": "https://apeconcerts.com/events/glitter-260731/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-01:the-fixx": {
+      "date": "2026-08-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Fixx",
+      "url": "https://apeconcerts.com/events/the-fixx-260801/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-06:modest-mouse": {
+      "date": "2026-08-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Modest Mouse",
+      "url": "https://apeconcerts.com/events/modest-mouse-260806/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-12:comedy-bang-bang-ground-beefing-tour-2026": {
+      "date": "2026-08-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Comedy Bang! Bang! Ground Beefing Tour 2026",
+      "url": "https://apeconcerts.com/events/comedy-bang-bang-260812/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-13:hedwig-and-the-angry-inch": {
+      "date": "2026-08-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hedwig and the Angry Inch",
+      "url": "https://apeconcerts.com/events/hedwig-and-the-angry-inch-260813/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-15:quicksand-bane": {
+      "date": "2026-08-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Quicksand & Bane",
+      "url": "https://apeconcerts.com/events/quicksand-bane-260815/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-22:the-breeders": {
+      "date": "2026-08-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Breeders",
+      "url": "https://apeconcerts.com/events/the-breeders-260822/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-23:the-breeders": {
+      "date": "2026-08-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Breeders",
+      "url": "https://apeconcerts.com/events/the-breeders-260823/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-08-28:the-greyboy-allstars": {
+      "date": "2026-08-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Greyboy Allstars",
+      "url": "https://apeconcerts.com/events/greyboy-allstars-260828/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-02:lp": {
+      "date": "2026-09-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "LP",
+      "url": "https://apeconcerts.com/events/lp-260902/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-07:the-charlatans-uk": {
+      "date": "2026-09-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Charlatans UK",
+      "url": "https://apeconcerts.com/events/the-charlatans-260907/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-10:naomi-sharon": {
+      "date": "2026-09-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Naomi Sharon",
+      "url": "https://apeconcerts.com/events/naomi-sharon-260910/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-14:haute-freddy": {
+      "date": "2026-09-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Haute & Freddy",
+      "url": "https://apeconcerts.com/events/haute-freddy-260914/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-15:jeff-bernat": {
+      "date": "2026-09-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Jeff Bernat",
+      "url": "https://apeconcerts.com/events/jeff-bernat-260915/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-17:josh-thomas-jiggle-jiggle": {
+      "date": "2026-09-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "JOSH THOMAS: JIGGLE, JIGGLE",
+      "url": "https://apeconcerts.com/events/josh-thomas-260917/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-18:the-growlers": {
+      "date": "2026-09-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Growlers",
+      "url": "https://apeconcerts.com/events/the-growlers-260918/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-19:the-growlers": {
+      "date": "2026-09-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Growlers",
+      "url": "https://apeconcerts.com/events/the-growlers-260919/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-22:melanie-c": {
+      "date": "2026-09-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Melanie C",
+      "url": "https://apeconcerts.com/events/melanie-c-260922/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-23:s-bastien-tellier": {
+      "date": "2026-09-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "S\u00e9bastien Tellier",
+      "url": "https://apeconcerts.com/events/sebastien-tellier-260923/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-09-28:aldous-harding": {
+      "date": "2026-09-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Aldous Harding",
+      "url": "https://apeconcerts.com/events/aldous-harding-260928/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-01:michelle-branch": {
+      "date": "2026-10-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Michelle Branch",
+      "url": "https://apeconcerts.com/events/michelle-branch-261001/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-02:michelle-branch": {
+      "date": "2026-10-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Michelle Branch",
+      "url": "https://apeconcerts.com/events/michelle-branch-261002/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-03:geordie-greep": {
+      "date": "2026-10-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Geordie Greep",
+      "url": "https://apeconcerts.com/events/geordie-greep-261003/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-05:she-him": {
+      "date": "2026-10-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "She & Him",
+      "url": "https://apeconcerts.com/events/she-him-261005/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-06:sammy-rae-the-friends": {
+      "date": "2026-10-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sammy Rae & The Friends",
+      "url": "https://apeconcerts.com/events/sammy-rae-261006/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-07:sammy-rae-the-friends": {
+      "date": "2026-10-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sammy Rae & The Friends",
+      "url": "https://apeconcerts.com/events/sammy-rae-and-the-friends-261007/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-08:mon-rov-a": {
+      "date": "2026-10-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Mon Rov\u00eea",
+      "url": "https://apeconcerts.com/events/mon-rovia-261008/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-10:jacob-collier": {
+      "date": "2026-10-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Jacob Collier",
+      "url": "https://apeconcerts.com/events/jacob-collier-261010/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-14:finn-wolfhard": {
+      "date": "2026-10-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Finn Wolfhard",
+      "url": "https://apeconcerts.com/events/finn-wolfhard-261014/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-16:iron-wine": {
+      "date": "2026-10-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Iron & Wine",
+      "url": "https://apeconcerts.com/events/iron-and-wine-261016/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-17:blondshell": {
+      "date": "2026-10-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Blondshell",
+      "url": "https://apeconcerts.com/events/blondshell-261017/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-18:dinosaur-jr": {
+      "date": "2026-10-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dinosaur Jr.",
+      "url": "https://apeconcerts.com/events/dinosaur-jr-261018/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-19:almost-monday": {
+      "date": "2026-10-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "almost monday",
+      "url": "https://apeconcerts.com/events/almost-monday-261019/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-20:shakey-graves": {
+      "date": "2026-10-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Shakey Graves",
+      "url": "https://apeconcerts.com/events/shakey-graves-261020/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-21:todd-rundgren": {
+      "date": "2026-10-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Todd Rundgren",
+      "url": "https://apeconcerts.com/events/todd-rundgren-261021/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-23:julia-jacklin": {
+      "date": "2026-10-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Julia Jacklin",
+      "url": "https://apeconcerts.com/events/julia-jacklin-261023/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-24:julia-jacklin": {
+      "date": "2026-10-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Julia Jacklin",
+      "url": "https://apeconcerts.com/events/julia-jacklin-261024/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-27:fred-armisen-comedy-for-musicians-but-everyone-is-welcome": {
+      "date": "2026-10-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "url": "https://apeconcerts.com/events/fred-armisen-261027/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-28:fred-armisen-comedy-for-musicians-but-everyone-is-welcome": {
+      "date": "2026-10-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
+      "url": "https://apeconcerts.com/events/fred-armisen-261028/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-10-29:da-i-freyr": {
+      "date": "2026-10-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Da\u00f0i Freyr",
+      "url": "https://apeconcerts.com/events/dadi-freyr-261029/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-06:syml": {
+      "date": "2026-11-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "SYML",
+      "url": "https://apeconcerts.com/events/syml-261106/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-07:pj-morton": {
+      "date": "2026-11-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "PJ Morton",
+      "url": "https://apeconcerts.com/events/pj-morton-261107/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-09:sienna-spiro": {
+      "date": "2026-11-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sienna Spiro",
+      "url": "https://apeconcerts.com/events/sienna-spiro-261109/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-11:lafur-arnalds": {
+      "date": "2026-11-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "\u00d3lafur Arnalds",
+      "url": "https://apeconcerts.com/events/olafur-arnalds-261111/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-12:lafur-arnalds": {
+      "date": "2026-11-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "\u00d3lafur Arnalds",
+      "url": "https://apeconcerts.com/events/olafur-arnalds-261112/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-14:paul-cauthen": {
+      "date": "2026-11-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Paul Cauthen",
+      "url": "https://apeconcerts.com/events/paul-cauthen-261114/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-15:rodrigo-y-gabriela": {
+      "date": "2026-11-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rodrigo y Gabriela",
+      "url": "https://apeconcerts.com/events/rodrigo-y-gabriela-261115/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-21:bertha-grateful-drag": {
+      "date": "2026-11-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "BERTHA: Grateful Drag",
+      "url": "https://apeconcerts.com/events/bertha-grateful-drag-261121/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-29:dweezil-zappa": {
+      "date": "2026-11-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dweezil Zappa",
+      "url": "https://apeconcerts.com/events/dweezil-zappa-261129/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-12-03:sandra-bernhard": {
+      "date": "2026-12-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sandra Bernhard",
+      "url": "https://apeconcerts.com/events/sandra-bernhard-261203/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-12-07:angine-de-poitrine": {
+      "date": "2026-12-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Angine de Poitrine",
+      "url": "https://apeconcerts.com/events/angine-de-poitrine-261207/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-12-12:tiny-habits": {
+      "date": "2026-12-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tiny Habits",
+      "url": "https://apeconcerts.com/events/tiny-habits-261212/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-12-13:yaelokre": {
+      "date": "2026-12-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Yaelokre",
+      "url": "https://apeconcerts.com/events/yaelokre-261213/",
+      "venue": "The Castro"
     },
     "the-chapel:2026-07-18:futurebirds": {
       "date": "2026-07-18",
