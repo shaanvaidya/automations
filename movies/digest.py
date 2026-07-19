@@ -133,48 +133,7 @@ def parse_movies(text: str) -> list[dict]:
     return movies
 
 
-def omdb_lookup(title: str) -> dict | None:
-    # A bare `t=` lookup returns OMDb's "most popular" match for the title,
-    # which for common names is often an older, unrelated film/show (e.g. "The
-    # Odyssey" -> a 1997 TV miniseries, "Supergirl" -> the CW series). Since
-    # everything on today's AMC schedule is a current theatrical release,
-    # search and prefer the most recent match instead.
-    current_year = datetime.now().year
-    search_resp = requests.get(
-        "http://www.omdbapi.com/",
-        params={"s": title, "type": "movie", "apikey": OMDB_API_KEY},
-        timeout=15,
-    )
-    search_data = search_resp.json()
-    imdb_id = None
-    possible_stale_match = False
-    if search_data.get("Response") == "True":
-        results = search_data.get("Search", [])
-        dated = []
-        for item in results:
-            year_str = re.match(r"\d{4}", item.get("Year", ""))
-            if year_str:
-                dated.append((int(year_str.group()), item["Title"], item["imdbID"]))
-
-        # Primary: a genuinely recent release (this is what we expect for
-        # something currently in first-run theaters).
-        recent = [c for c in dated if c[0] >= current_year - 1]
-        if recent:
-            recent.sort(reverse=True)
-            imdb_id = recent[0][2]
-        else:
-            # Fallback: an exact title match of any age. Covers legitimate
-            # theatrical re-releases (e.g. a re-run of the 2016 "Moana").
-            # Flagged as possibly-stale since it can also mean the real
-            # current release just isn't in OMDb's database yet.
-            exact = [c for c in dated if c[1].lower() == title.lower()]
-            if exact:
-                exact.sort(reverse=True)
-                imdb_id = exact[0][2]
-                possible_stale_match = True
-
-    if not imdb_id:
-        return None
+def _omdb_by_id(imdb_id: str) -> dict | None:
     resp = requests.get(
         "http://www.omdbapi.com/",
         params={"i": imdb_id, "apikey": OMDB_API_KEY},
@@ -195,8 +154,51 @@ def omdb_lookup(title: str) -> dict | None:
         "rt_rating": rt,
         "plot": data.get("Plot", ""),
         "year": data.get("Year", ""),
-        "possible_stale_match": possible_stale_match,
     }
+
+
+def omdb_lookup(title: str) -> dict | None:
+    # `s=` search ranks by popularity, not exact match, which buries a
+    # brand-new release (few IMDb votes yet) behind older, unrelated films
+    # sharing the same common title -- e.g. "The Odyssey" resolving to the
+    # 1997 TV miniseries or the 2016 Jérôme Salle Cousteau biopic instead of
+    # the actual new theatrical release. `t=<title>&y=<year>` does an exact
+    # title+year resolution instead, so try that first for this year and
+    # last (a release can span the new year boundary).
+    current_year = datetime.now().year
+    for year in (current_year, current_year - 1):
+        resp = requests.get(
+            "http://www.omdbapi.com/",
+            params={"t": title, "y": year, "type": "movie", "apikey": OMDB_API_KEY},
+            timeout=15,
+        )
+        data = resp.json()
+        if data.get("Response") == "True":
+            result = _omdb_by_id(data["imdbID"])
+            if result:
+                return result
+
+    # Fallback: fuzzy search, but only accept a genuinely recent match. An
+    # old exact-title match (e.g. a decades-old film with the same name) is
+    # deliberately not used here -- showing its cast/plot as if it were the
+    # current release is more misleading than showing nothing.
+    search_resp = requests.get(
+        "http://www.omdbapi.com/",
+        params={"s": title, "type": "movie", "apikey": OMDB_API_KEY},
+        timeout=15,
+    )
+    search_data = search_resp.json()
+    if search_data.get("Response") == "True":
+        dated = []
+        for item in search_data.get("Search", []):
+            year_str = re.match(r"\d{4}", item.get("Year", ""))
+            if year_str and int(year_str.group()) >= current_year - 1:
+                dated.append((int(year_str.group()), item["imdbID"]))
+        if dated:
+            dated.sort(reverse=True)
+            return _omdb_by_id(dated[0][1])
+
+    return None
 
 
 def slugify(title: str) -> str:
@@ -239,8 +241,7 @@ def build_entry(movie: dict) -> str:
     lines = [f"{movie['title']} ({movie['rating']}, {movie['runtime']})"]
 
     if omdb:
-        stale_note = f" (matched: {omdb['year']}, unverified year)" if omdb["possible_stale_match"] else ""
-        lines.append(f"Dir: {omdb['director']} | Cast: {omdb['cast']}{stale_note}")
+        lines.append(f"Dir: {omdb['director']} | Cast: {omdb['cast']}")
         lines.append(f"Genre: {omdb['genre']}")
         lines.append(one_line_premise(omdb["plot"]))
         scores = f"IMDb {omdb['imdb_rating']}/10"
