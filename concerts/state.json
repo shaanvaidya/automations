@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T16:51:23.493920-07:00",
+  "last_updated": "2026-07-18T17:13:21.938700-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -1946,6 +1946,15 @@
       "url": "https://cafedunord.com/tm-event/the-mainliners/",
       "venue": "Cafe du Nord"
     },
+    "cafe-du-nord:2026-09-02:vacation-manor-with-jettee-and-nolen-durham": {
+      "date": "2026-09-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Vacation Manor with Jettee, and Nolen Durham",
+      "url": "https://cafedunord.com/tm-event/vacation-manor-with-jettee-and-nolen-durham/",
+      "venue": "Cafe du Nord"
+    },
     "cafe-du-nord:2026-09-02:zoh-amba": {
       "date": "2026-09-02",
       "first_seen": "2026-07-18",
@@ -3098,6 +3107,15 @@
       "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-31/",
       "venue": "Neck of the Woods"
     },
+    "neck-of-the-woods:2026-08-07:weathy-women-failed-sun-shr-ud-field-of-fear": {
+      "date": "2026-08-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Weathy Women/ Failed Sun/ SHR\u00d8UD/ Field of Fear",
+      "url": "https://www.neckofthewoodssf.com/tm-event/weathy-women-failed-sun-shroud-field-of-fear/",
+      "venue": "Neck of the Woods"
+    },
     "regency-ballroom:2026-08-04:charles-wesley-godwin-w-lily-fitts": {
       "date": "2026-08-04",
       "first_seen": "2026-07-18",
@@ -3980,6 +3998,15 @@
       "url": "https://wl.seetickets.us/event/valencia-grace/697858?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
     },
+    "sf-symphony-davies-symphony-hall:2026-07-18:an-evening-with-sutton-foster-kelli-o-hara": {
+      "date": "2026-07-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "An Evening with Sutton Foster & Kelli O\u2019Hara",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2025-26/Sutton-Foster-Kelli-OHara",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
     "sf-symphony-davies-symphony-hall:2026-07-18:sutton-foster-w-kelli-o-hara": {
       "date": "2026-07-18",
       "first_seen": "2026-07-18",
@@ -3998,6 +4025,15 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jd1_",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
+    "sf-symphony-davies-symphony-hall:2026-07-25:matilda": {
+      "date": "2026-07-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Matilda",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2025-26/Matilda",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
     "sf-symphony-davies-symphony-hall:2026-07-25:san-francisco-symphony-presents-matilda": {
       "date": "2026-07-25",
       "first_seen": "2026-07-18",
@@ -4005,6 +4041,15 @@
       "reminder_notified": true,
       "title": "San Francisco Symphony presents Matilda",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdFS",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-07-26:matilda": {
+      "date": "2026-07-26",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": true,
+      "title": "Matilda",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2025-26/Matilda",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
     "sf-symphony-davies-symphony-hall:2026-07-26:san-francisco-symphony-presents-matilda": {
@@ -4016,6 +4061,15 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdFU",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
+    "sf-symphony-davies-symphony-hall:2026-07-30:st-vincent-with-the-san-francisco-symphony": {
+      "date": "2026-07-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "St. Vincent with the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2025-26/St-Vincent",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
     "sf-symphony-davies-symphony-hall:2026-08-01:andrew-bird": {
       "date": "2026-08-01",
       "first_seen": "2026-07-18",
@@ -4023,6 +4077,15 @@
       "reminder_notified": false,
       "title": "Andrew Bird",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-9jZ",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-08-01:andrew-bird-with-the-san-francisco-symphony": {
+      "date": "2026-08-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Andrew Bird with the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2025-26/Andrew-Bird",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
     "sf-symphony-davies-symphony-hall:2026-08-17:herbie-hancock": {
@@ -4043,6 +4106,33 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdFy",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
+    "sf-symphony-davies-symphony-hall:2026-09-08:samara-joy-with-the-sf-symphony": {
+      "date": "2026-09-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Samara Joy with the SF Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Samara-Joy",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-10:star-wars-return-of-the-jedi": {
+      "date": "2026-09-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Star Wars: Return of the Jedi",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Return-of-the-Jedi",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-12:star-wars-return-of-the-jedi": {
+      "date": "2026-09-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Star Wars: Return of the Jedi",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Return-of-the-Jedi",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
     "sf-symphony-davies-symphony-hall:2026-09-15:gregory-alan-isakov-w-san-francisco-symphony": {
       "date": "2026-09-15",
       "first_seen": "2026-07-18",
@@ -4052,13 +4142,1282 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JdaZ",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
+    "sf-symphony-davies-symphony-hall:2026-09-15:gregory-alan-isakov-with-the-sf-symphony": {
+      "date": "2026-09-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Gregory Alan Isakov with the SF\u00a0Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Gregory-Alan-Isakov",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-18:garrick-ohlsson-plays-brahms": {
+      "date": "2026-09-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Garrick Ohlsson Plays Brahms",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Garrick-Ohlsson-Plays-Brahms",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-19:garrick-ohlsson-plays-brahms": {
+      "date": "2026-09-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Garrick Ohlsson Plays Brahms",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Garrick-Ohlsson-Plays-Brahms",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-20:chamber-music-at-davies-symphony-hall": {
+      "date": "2026-09-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chamber Music at Davies Symphony Hall",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Chamber-DHS-Sep",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-24:opening-gala-with-hilary-hahn": {
+      "date": "2026-09-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Opening Gala with Hilary Hahn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Opening-Gala",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-09-26:fantastic-negrito-with-the-sf-symphony": {
+      "date": "2026-09-26",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Fantastic Negrito with the SF Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Fantastic-Negrito",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-01:ren-e-fleming-sings-strauss": {
+      "date": "2026-10-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ren\u00e9e Fleming Sings Strauss",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Renee-Fleming-Strauss",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-02:a-concert-for-mtt": {
+      "date": "2026-10-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "A Concert for MTT",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/A-Concert-for-MTT",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-03:ren-e-fleming-sings-strauss": {
+      "date": "2026-10-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ren\u00e9e Fleming Sings Strauss",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Renee-Fleming-Strauss",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-04:lang-lang-in-recital": {
+      "date": "2026-10-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lang Lang in Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Lang-Lang-Recital",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-04:ren-e-fleming-sings-strauss": {
+      "date": "2026-10-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ren\u00e9e Fleming Sings Strauss",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Renee-Fleming-Strauss",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-09:rachmaninoff-symphonic-dances": {
+      "date": "2026-10-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rachmaninoff Symphonic Dances",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Symphonic-Dances",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-10:rachmaninoff-symphonic-dances": {
+      "date": "2026-10-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rachmaninoff Symphonic Dances",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Symphonic-Dances",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-11:rachmaninoff-symphonic-dances": {
+      "date": "2026-10-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rachmaninoff Symphonic Dances",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Symphonic-Dances",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
     "sf-symphony-davies-symphony-hall:2026-10-12:ludovico-einaudi-solo-piano": {
       "date": "2026-10-12",
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
       "title": "Ludovico Einaudi: Solo Piano",
-      "url": "https://www.ticketmaster.com/ludovico-einaudi-solo-piano-san-francisco-california-10-12-2026/event/1C006436A77D8A09",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Ludovico-Einaudi",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-15:batiashvili-capu-on-thibaudet-trio": {
+      "date": "2026-10-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Batiashvili/Capu\u00e7on/Thibaudet Trio",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Batiashvili-Capucon-Thibaudet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-16:dvo-k-symphony-no-8": {
+      "date": "2026-10-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dvo\u0159\u00e1k Symphony No. 8",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dvorak-Symphony-8",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-17:dvo-k-symphony-no-8": {
+      "date": "2026-10-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dvo\u0159\u00e1k Symphony No. 8",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dvorak-Symphony-8",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-18:dvo-k-symphony-no-8": {
+      "date": "2026-10-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dvo\u0159\u00e1k Symphony No. 8",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dvorak-Symphony-8",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-20:the-ring-film-with-live-orchestra": {
+      "date": "2026-10-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Ring\u2014Film with Live Orchestra",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/The-Ring",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-22:hisaishi-conducts-hisaishi": {
+      "date": "2026-10-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hisaishi Conducts Hisaishi",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hisaishi-Conducts-Hisaishi",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-23:hisaishi-conducts-hisaishi": {
+      "date": "2026-10-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hisaishi Conducts Hisaishi",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hisaishi-Conducts-Hisaishi",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-24:hisaishi-conducts-hisaishi": {
+      "date": "2026-10-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hisaishi Conducts Hisaishi",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hisaishi-Conducts-Hisaishi",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-24:music-for-families": {
+      "date": "2026-10-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Music for Families",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Music-for-Families-Oct",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-25:orchestre-symphonique-de-montr-al": {
+      "date": "2026-10-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Orchestre Symphonique de Montr\u00e9al",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Montreal-Symphony-Orchestra",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-29:elim-chan-conducts-adams-and-mendelssohn": {
+      "date": "2026-10-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elim Chan Conducts Adams and Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Doctor-Atomic-and-Mendelssohn",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-29:open-rehearsal-elim-chan-conducts-adams-and-mendelssohn": {
+      "date": "2026-10-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Open Rehearsal: Elim Chan Conducts Adams and Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Doctor-Atomic-and-Mendelssohn-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-30:elim-chan-conducts-adams-and-mendelssohn": {
+      "date": "2026-10-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elim Chan Conducts Adams and Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Doctor-Atomic-and-Mendelssohn",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-10-31:elim-chan-conducts-adams-and-mendelssohn": {
+      "date": "2026-10-31",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elim Chan Conducts Adams and Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Doctor-Atomic-and-Mendelssohn",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-01:chamber-music-at-davies-symphony-hall": {
+      "date": "2026-11-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chamber Music at Davies Symphony Hall",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Chamber-DHS-Nov",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-06:isabel-leonard-sings-ravel": {
+      "date": "2026-11-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Isabel Leonard Sings Ravel",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Isabel-Leonard-Sings-Ravel",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-07:d-a-de-los-muertos": {
+      "date": "2026-11-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "D\u00eda de los Muertos",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dia-de-los-Muertos",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-08:isabel-leonard-sings-ravel": {
+      "date": "2026-11-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Isabel Leonard Sings Ravel",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Isabel-Leonard-Sings-Ravel",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-10:h-l-ne-grimaud-piano-recital": {
+      "date": "2026-11-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "H\u00e9l\u00e8ne Grimaud Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Helene-Grimaud-Piano-Recital",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-13:prokofiev-romeo-and-juliet": {
+      "date": "2026-11-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Prokofiev Romeo and Juliet",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Romeo-and-Juliet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-14:prokofiev-romeo-and-juliet": {
+      "date": "2026-11-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Prokofiev Romeo and Juliet",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Romeo-and-Juliet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-15:prokofiev-romeo-and-juliet": {
+      "date": "2026-11-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Prokofiev Romeo and Juliet",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Romeo-and-Juliet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-19:alonzo-king-lines-ballet-and-appalachian-spring": {
+      "date": "2026-11-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Alonzo King LINES Ballet and Appalachian Spring",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Alonzo-King-LINES-Ballet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-20:alonzo-king-lines-ballet-and-appalachian-spring": {
+      "date": "2026-11-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Alonzo King LINES Ballet and Appalachian Spring",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Alonzo-King-LINES-Ballet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-21:alonzo-king-lines-ballet-and-appalachian-spring": {
+      "date": "2026-11-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Alonzo King LINES Ballet and Appalachian Spring",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Alonzo-King-LINES-Ballet",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-24:the-nightmare-before-christmas": {
+      "date": "2026-11-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "The Nightmare Before Christmas",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/The-Nightmare-Before-Christmas",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-27:hook-in-concert": {
+      "date": "2026-11-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hook in Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hook",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-28:hook-in-concert": {
+      "date": "2026-11-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hook in Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hook",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-11-30:hilary-hahn-trio": {
+      "date": "2026-11-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Hilary Hahn Trio",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hilary-Hahn-Trio",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-02:pink-martini-with-the-sf-symphony": {
+      "date": "2026-12-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Pink Martini with the SF Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Pink-Martini",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-04:handel-messiah": {
+      "date": "2026-12-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Handel Messiah",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Handel-Messiah",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-05:handel-messiah": {
+      "date": "2026-12-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Handel Messiah",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Handel-Messiah",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-06:deck-the-hall-holiday-concert": {
+      "date": "2026-12-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Deck the Hall Holiday Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Deck-The-Hall",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-06:holiday-brass": {
+      "date": "2026-12-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Holiday Brass",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Holiday-Brass",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-09:home-for-the-holidays": {
+      "date": "2026-12-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Home for the Holidays",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Home-for-the-Holidays",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-10:dr-seuss-s-how-the-grinch-stole-christmas": {
+      "date": "2026-12-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dr. Seuss\u2019s How the Grinch Stole Christmas",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Grinch",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-11:dr-seuss-s-how-the-grinch-stole-christmas": {
+      "date": "2026-12-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dr. Seuss\u2019s How the Grinch Stole Christmas",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Grinch",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-13:a-merry-achi-christmas": {
+      "date": "2026-12-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "A Merry-Achi Christmas",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/A-Merry-Achi-Christmas",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-13:peter-and-the-wolf": {
+      "date": "2026-12-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Peter and the Wolf",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Peter-and-the-Wolf",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-15:holidays-with-bernadette-peters-and-the-san-francisco-symphony": {
+      "date": "2026-12-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Holidays with Bernadette Peters and the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bernadette-Peters",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-17:holiday-gaiety": {
+      "date": "2026-12-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Holiday Gaiety",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Holiday-Gaiety",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-18:elf-in-concert": {
+      "date": "2026-12-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elf\u2014In Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-19:elf-in-concert": {
+      "date": "2026-12-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elf\u2014In Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-20:elf-in-concert": {
+      "date": "2026-12-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Elf\u2014In Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Elf",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-22:holidays-with-the-tommy-dorsey-orchestra": {
+      "date": "2026-12-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Holidays with the Tommy Dorsey Orchestra",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Tommy-Dorsey-Orchestra",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2026-12-23:holly-jolly-pops-with-the-sf-symphony": {
+      "date": "2026-12-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Holly Jolly Pops with the SF Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Holly-Jolly-Pops",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-08:avatar-live-in-concert": {
+      "date": "2027-01-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Avatar Live in Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Avatar",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-09:avatar-live-in-concert": {
+      "date": "2027-01-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Avatar Live in Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Avatar",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-10:emanuel-ax-piano-recital": {
+      "date": "2027-01-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Emanuel Ax Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Emanuel-Ax-Piano-Recital",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-14:celebrating-herbert-blomstedt": {
+      "date": "2027-01-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Celebrating Herbert Blomstedt",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Herbert-Blomstedt",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-15:celebrating-herbert-blomstedt": {
+      "date": "2027-01-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Celebrating Herbert Blomstedt",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Herbert-Blomstedt",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-16:celebrating-herbert-blomstedt": {
+      "date": "2027-01-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Celebrating Herbert Blomstedt",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Herbert-Blomstedt",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-17:chamber-music-at-davies-symphony-hall": {
+      "date": "2027-01-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chamber Music at Davies Symphony Hall",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Chamber-DHS-Jan",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-19:an-evening-with-itzhak-perlman": {
+      "date": "2027-01-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "An Evening with Itzhak Perlman",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Itzhak-Perlman",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-22:alsop-conducts-shostakovich-5": {
+      "date": "2027-01-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Alsop Conducts Shostakovich 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Alsop-Shostakovich-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-24:alsop-conducts-shostakovich-5": {
+      "date": "2027-01-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Alsop Conducts Shostakovich 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Alsop-Shostakovich-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-29:seong-jin-cho-plays-mendelssohn": {
+      "date": "2027-01-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Seong-Jin Cho Plays Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Seong-Jin-Cho-Plays-Mendelssohn",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-30:seong-jin-cho-plays-mendelssohn": {
+      "date": "2027-01-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Seong-Jin Cho Plays Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Seong-Jin-Cho-Plays-Mendelssohn",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-01-31:seong-jin-cho-plays-mendelssohn": {
+      "date": "2027-01-31",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Seong-Jin Cho Plays Mendelssohn",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Seong-Jin-Cho-Plays-Mendelssohn",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-03:dmitry-shishkin-piano-recital": {
+      "date": "2027-02-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Dmitry Shishkin Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dmitry-Shishkin",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-06:lunar-new-year": {
+      "date": "2027-02-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Lunar New Year",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Lunar-New-Year",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-11:open-rehearsal-rachmaninoff-piano-concerto-2": {
+      "date": "2027-02-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Open Rehearsal: Rachmaninoff Piano Concerto 2",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Piano-Concerto-2-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-11:rachmaninoff-piano-concerto-no-2": {
+      "date": "2027-02-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rachmaninoff Piano Concerto No.\u00a02",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Piano-Concerto-2",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-12:rachmaninoff-piano-concerto-no-2": {
+      "date": "2027-02-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rachmaninoff Piano Concerto No.\u00a02",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Piano-Concerto-2",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-13:rachmaninoff-piano-concerto-no-2": {
+      "date": "2027-02-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Rachmaninoff Piano Concerto No.\u00a02",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Rachmaninoff-Piano-Concerto-2",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-18:van-zweden-conducts-beethoven-5": {
+      "date": "2027-02-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Van Zweden Conducts Beethoven 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Van-Zweden-Beethoven-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-19:van-zweden-conducts-beethoven-5": {
+      "date": "2027-02-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Van Zweden Conducts Beethoven 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Van-Zweden-Beethoven-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-20:van-zweden-conducts-beethoven-5": {
+      "date": "2027-02-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Van Zweden Conducts Beethoven 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Van-Zweden-Beethoven-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-21:chamber-music-at-davies-symphony-hall": {
+      "date": "2027-02-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chamber Music at Davies Symphony Hall",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Chamber-DHS-Feb",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-25:jaap-van-zweden-and-the-san-francisco-symphony": {
+      "date": "2027-02-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Jaap van Zweden and the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-conducts",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-25:open-rehearsal-jaap-van-zweden-and-the-san-francisco-symphony": {
+      "date": "2027-02-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Open Rehearsal: Jaap van Zweden and the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-27:jaap-van-zweden-and-the-san-francisco-symphony": {
+      "date": "2027-02-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Jaap van Zweden and the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-conducts",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-01:seong-jin-cho-piano-recital": {
+      "date": "2027-03-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Seong-Jin Cho Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Seong-Jin-Cho-Piano-Recital",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-02:teen-day": {
+      "date": "2027-03-02",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Teen Day",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Teen-Day",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-05:tchaikovsky-path-tique": {
+      "date": "2027-03-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tchaikovsky Path\u00e9tique",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Tchaikovsky-Pathetique",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-06:tchaikovsky-path-tique": {
+      "date": "2027-03-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tchaikovsky Path\u00e9tique",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Tchaikovsky-Pathetique",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-07:tchaikovsky-path-tique": {
+      "date": "2027-03-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Tchaikovsky Path\u00e9tique",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Tchaikovsky-Pathetique",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-10:kebra-seyoun-charles-bass-recital": {
+      "date": "2027-03-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Kebra-Seyoun Charles Bass Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Kebra-Seyoun-Charles",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-12:augustin-hadelich-plays-brahms": {
+      "date": "2027-03-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Augustin Hadelich Plays Brahms",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hadelich-Plays-Brahms",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-13:augustin-hadelich-plays-brahms": {
+      "date": "2027-03-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Augustin Hadelich Plays Brahms",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hadelich-Plays-Brahms",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-14:augustin-hadelich-plays-brahms": {
+      "date": "2027-03-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Augustin Hadelich Plays Brahms",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hadelich-Plays-Brahms",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-18:open-rehearsal-sibelius-2-and-gabriella-smith": {
+      "date": "2027-03-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Open Rehearsal: Sibelius 2 and Gabriella Smith",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Sibelius-2-Gabriella-Smith-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-18:sibelius-2-and-gabriella-smith": {
+      "date": "2027-03-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sibelius 2 and Gabriella Smith",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Sibelius-2-Gabriella-Smith",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-19:sibelius-2-and-gabriella-smith": {
+      "date": "2027-03-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sibelius 2 and Gabriella Smith",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Sibelius-2-Gabriella-Smith",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-20:sibelius-2-and-gabriella-smith": {
+      "date": "2027-03-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Sibelius 2 and Gabriella Smith",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Sibelius-2-Gabriella-Smith",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-03-30:joshua-bell-plays-beethoven": {
+      "date": "2027-03-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Joshua Bell Plays Beethoven",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Joshua-Bell-Beethoven",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-03:haydn-creation": {
+      "date": "2027-04-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Haydn Creation",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Haydn-Creation",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-04:haydn-creation": {
+      "date": "2027-04-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Haydn Creation",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Haydn-Creation",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-08:metropolis": {
+      "date": "2027-04-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Metropolis",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Metropolis",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-09:la-la-land-in-concert": {
+      "date": "2027-04-09",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "La La Land in Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/La-La-Land",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-10:la-la-land-in-concert": {
+      "date": "2027-04-10",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "La La Land in Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/La-La-Land",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-11:carmina-burana-with-the-sf-symphony-chorus": {
+      "date": "2027-04-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Carmina burana\u00a0with the SF Symphony Chorus",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Carmina-burana",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-14:zlatomir-fung-cello-recital": {
+      "date": "2027-04-14",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Zlatomir Fung Cello Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Zlatomir-Fung",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-18:yuja-wang-piano-recital": {
+      "date": "2027-04-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Yuja Wang Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Yuja-Wang",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-19:evgeny-kissin-piano-recital": {
+      "date": "2027-04-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Evgeny Kissin Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Evgeny-Kissin-Piano-Recital",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-22:salonen-conducts-symphonie-fantastique": {
+      "date": "2027-04-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Salonen Conducts Symphonie fantastique",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Salonen-and-the-SF-Symphony",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-23:salonen-conducts-symphonie-fantastique": {
+      "date": "2027-04-23",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Salonen Conducts Symphonie fantastique",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Salonen-and-the-SF-Symphony",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-24:salonen-conducts-symphonie-fantastique": {
+      "date": "2027-04-24",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Salonen Conducts Symphonie fantastique",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Salonen-and-the-SF-Symphony",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-25:chamber-music-at-davies-symphony-hall": {
+      "date": "2027-04-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chamber Music at Davies Symphony Hall",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Chamber-DHS-Apr",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-29:luisi-conducts-mahler-5": {
+      "date": "2027-04-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Luisi Conducts Mahler 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Luisi-Conducts-Mahler-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-29:open-rehearsal-luisi-conducts-mahler-5": {
+      "date": "2027-04-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Open Rehearsal: Luisi Conducts Mahler 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Luisi-Conducts-Mahler-5-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-04-30:luisi-conducts-mahler-5": {
+      "date": "2027-04-30",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Luisi Conducts Mahler 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Luisi-Conducts-Mahler-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-01:luisi-conducts-mahler-5": {
+      "date": "2027-05-01",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Luisi Conducts Mahler 5",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Luisi-Conducts-Mahler-5",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-06:ray-chen-plays-sibelius": {
+      "date": "2027-05-06",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ray Chen Plays Sibelius",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Ray-Chen-Plays-Sibelius",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-07:ray-chen-plays-sibelius": {
+      "date": "2027-05-07",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ray Chen Plays Sibelius",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Ray-Chen-Plays-Sibelius",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-08:ray-chen-plays-sibelius": {
+      "date": "2027-05-08",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Ray Chen Plays Sibelius",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Ray-Chen-Plays-Sibelius",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-15:music-for-families": {
+      "date": "2027-05-15",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Music for Families",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Music-for-Families-May",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-16:alisa-weilerstein-and-inon-barnatan-in-recital": {
+      "date": "2027-05-16",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Alisa Weilerstein and Inon Barnatan in Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Weilerstein-and-Barnatan",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-19:eva-gevorgyan-piano-recital": {
+      "date": "2027-05-19",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Eva Gevorgyan Piano Recital",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Eva-Gevorgyan",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-21:disney-and-pixar-s-up-in-concert": {
+      "date": "2027-05-21",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Disney and Pixar\u2019s UP: In Concert",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/UP",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-22:bloch-sacred-service-with-the-sf-symphony-and-chorus": {
+      "date": "2027-05-22",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Bloch Sacred Service with the SF\u00a0Symphony and Chorus",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bloch-Sacred-Service",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-27:an-alpine-symphony": {
+      "date": "2027-05-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "An Alpine Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/An-Alpine-Symphony",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-27:open-rehearsal-an-alpine-symphony": {
+      "date": "2027-05-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Open Rehearsal: An Alpine Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/An-Alpine-Symphony-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-28:an-alpine-symphony": {
+      "date": "2027-05-28",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "An Alpine Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/An-Alpine-Symphony",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-05-29:an-alpine-symphony": {
+      "date": "2027-05-29",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "An Alpine Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/An-Alpine-Symphony",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-03:stravinsky-firebird-staged": {
+      "date": "2027-06-03",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Stravinsky Firebird Staged",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Stravinsky-Firebird",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-04:stravinsky-firebird-staged": {
+      "date": "2027-06-04",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Stravinsky Firebird Staged",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Stravinsky-Firebird",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-05:stravinsky-firebird-staged": {
+      "date": "2027-06-05",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Stravinsky Firebird Staged",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Stravinsky-Firebird",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-11:bart-k-concerto-for-orchestra-and-jean-yves-thibaudet": {
+      "date": "2027-06-11",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Bart\u00f3k Concerto for Orchestra and Jean-Yves Thibaudet",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bartok-Concerto",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-12:bart-k-concerto-for-orchestra-and-jean-yves-thibaudet": {
+      "date": "2027-06-12",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Bart\u00f3k Concerto for Orchestra and Jean-Yves Thibaudet",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bartok-Concerto",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-13:bart-k-concerto-for-orchestra-and-jean-yves-thibaudet": {
+      "date": "2027-06-13",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Bart\u00f3k Concerto for Orchestra and Jean-Yves Thibaudet",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bartok-Concerto",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-17:john-adams-the-dharma-at-big-sur": {
+      "date": "2027-06-17",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "John Adams The\u00a0Dharma at Big Sur",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/John-Adams-Dharma-at-Big-Sur",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-18:john-adams-the-dharma-at-big-sur": {
+      "date": "2027-06-18",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "John Adams The\u00a0Dharma at Big Sur",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/John-Adams-Dharma-at-Big-Sur",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-20:chamber-music-at-davies-symphony-hall": {
+      "date": "2027-06-20",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Chamber Music at Davies Symphony Hall",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Chamber-DHS-Jun",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-25:yefim-bronfman-plays-rachmaninoff": {
+      "date": "2027-06-25",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Yefim Bronfman Plays Rachmaninoff",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bronfman-Plays-Rachmaninoff",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-26:yefim-bronfman-plays-rachmaninoff": {
+      "date": "2027-06-26",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Yefim Bronfman Plays Rachmaninoff",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bronfman-Plays-Rachmaninoff",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-06-27:yefim-bronfman-plays-rachmaninoff": {
+      "date": "2027-06-27",
+      "first_seen": "2026-07-18",
+      "new_notified": true,
+      "reminder_notified": false,
+      "title": "Yefim Bronfman Plays Rachmaninoff",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bronfman-Plays-Rachmaninoff",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
     "the-castro:2026-07-18:san-francisco-jewish-film-festival-46": {
