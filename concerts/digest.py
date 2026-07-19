@@ -189,7 +189,8 @@ def fetch_ape_events() -> list[dict]:
         url = url_el["href"] if url_el else APE_CALENDAR_URL
         if not (title and raw_date):
             continue
-        shows.append({"venue": venue, "title": title, "date": raw_date[:10], "url": url})
+        sold_out = art.select_one("a.soldout") is not None
+        shows.append({"venue": venue, "title": title, "date": raw_date[:10], "url": url, "sold_out": sold_out})
 
     if not shows:
         raise ValueError("APE calendar fetched but no events matched our 4 tracked venue names")
@@ -244,7 +245,9 @@ def fetch_seetickets_list_events(venue_name: str, url: str) -> list[dict]:
             continue
         url_ = title_el["href"] if title_el.has_attr("href") else url
         d = roll_year_if_past(month, int(m.group(2)), today)
-        shows.append({"venue": venue_name, "title": title, "date": d.isoformat(), "url": url_})
+        buy_el = item.select_one(".seetickets-buy-btn")
+        sold_out = bool(buy_el and "button-soldout" in (buy_el.get("class") or []) and "sold out" in buy_el.get_text(strip=True).lower())
+        shows.append({"venue": venue_name, "title": title, "date": d.isoformat(), "url": url_, "sold_out": sold_out})
     return shows
 
 
@@ -315,7 +318,9 @@ def fetch_seetickets_calendar_events(venue_name: str, url: str) -> list[dict]:
             if not title:
                 continue
             url_ = title_el["href"] if title_el.has_attr("href") else url
-            shows.append({"venue": venue_name, "title": title, "date": d.isoformat(), "url": url_})
+            buy_el = ev.select_one(".seetickets-buy-btn")
+            sold_out = bool(buy_el and "button-soldout" in (buy_el.get("class") or []) and "sold out" in buy_el.get_text(strip=True).lower())
+            shows.append({"venue": venue_name, "title": title, "date": d.isoformat(), "url": url_, "sold_out": sold_out})
 
     if not shows:
         raise ValueError(f"calendar grid parsed but no events found for {venue_name}")
@@ -337,14 +342,16 @@ def _parse_ticketweb_date(text: str, today: date) -> date | None:
 
 def fetch_ticketweb_events(venue_name: str, url: str) -> list[dict]:
     """TicketWeb 'tw-' widget, used by Cafe du Nord, Neck of the Woods, and
-    Bimbo's 365 Club. Each date marker (one per event, though several events
-    can share one date) is immediately followed in document order by that
-    event's name div. Bimbo's variant splits the date across a separate
-    tw-event-month span ("August") and a bare-number tw-event-date span
-    ("6"), rather than a single self-contained date string."""
+    Bimbo's 365 Club. Each event is a clean, consistently-ordered triplet in
+    the DOM: a date marker, then the name div, then the buy button (whose
+    class/text also carries sold-out status) - so a pending show is held
+    until its buy button confirms availability, then emitted. Bimbo's
+    variant splits the date across a separate tw-event-month span
+    ("August") and a bare-number tw-event-date span ("6"), rather than a
+    single self-contained date string."""
     html = get(url).text
     soup = BeautifulSoup(html, "html.parser")
-    nodes = soup.select("span.tw-event-month, span.tw-event-date, div.tw-name")
+    nodes = soup.select("span.tw-event-month, span.tw-event-date, div.tw-name, a.tw-buy-tix-btn")
     if not nodes:
         raise ValueError(f"no TicketWeb events found for {venue_name} - page structure may have changed")
 
@@ -352,23 +359,42 @@ def fetch_ticketweb_events(venue_name: str, url: str) -> list[dict]:
     shows = []
     current_date: date | None = None
     pending_month: int | None = None
+    pending_show: dict | None = None
+
+    def flush_pending(sold_out: bool) -> None:
+        if pending_show is not None:
+            shows.append({**pending_show, "sold_out": sold_out})
+
     for node in nodes:
         classes = node.get("class", [])
         if "tw-event-month" in classes:
+            flush_pending(False)
+            pending_show = None
             pending_month = MONTHS.get(node.get_text(strip=True)[:3])
             continue
         if "tw-event-date" in classes:
+            flush_pending(False)
+            pending_show = None
             text = node.get_text(strip=True)
             current_date = _parse_ticketweb_date(text, today)
             if current_date is None and pending_month and text.isdigit():
                 current_date = roll_year_if_past(pending_month, int(text), today)
             continue
-        a = node.select_one("a")
-        title = a.get_text(strip=True) if a else None
-        if not (title and current_date):
+        if "tw-name" in classes:
+            flush_pending(False)
+            pending_show = None
+            a = node.select_one("a")
+            title = a.get_text(strip=True) if a else None
+            if title and current_date:
+                url_ = a["href"] if a.has_attr("href") else url
+                pending_show = {"venue": venue_name, "title": title, "date": current_date.isoformat(), "url": url_}
             continue
-        url_ = a["href"] if a.has_attr("href") else url
-        shows.append({"venue": venue_name, "title": title, "date": current_date.isoformat(), "url": url_})
+        # a.tw-buy-tix-btn
+        sold_out = "tw_soldout" in classes or "sold out" in node.get_text(strip=True).lower()
+        flush_pending(sold_out)
+        pending_show = None
+
+    flush_pending(False)
     return shows
 
 
@@ -503,7 +529,7 @@ def fetch_sfjazz_events() -> list[dict]:
         if not (name and event_date):
             continue
         url = f"https://www.sfjazz.org{detail_path}" if detail_path.startswith("/") else (detail_path or SFJAZZ_CALENDAR_URL)
-        shows.append({"venue": "SFJAZZ", "title": name, "date": event_date, "url": url})
+        shows.append({"venue": "SFJAZZ", "title": name, "date": event_date, "url": url, "sold_out": bool(ev.get("isSoldOut"))})
     return shows
 
 
@@ -559,7 +585,8 @@ def fetch_the_midway_events() -> list[dict]:
         if not (name and event_date):
             continue
         url = ev.get("url") or THE_MIDWAY_CALENDAR_URL
-        shows.append({"venue": "The Midway", "title": name, "date": event_date, "url": url})
+        sold_out = (ev.get("offer") or {}).get("state") == "SOLD_OUT"
+        shows.append({"venue": "The Midway", "title": name, "date": event_date, "url": url, "sold_out": sold_out})
     return shows
 
 
@@ -727,12 +754,19 @@ def main() -> None:
             new_shows.append(show)
             shows_state[sid] = {
                 **show,
+                "sold_out": show.get("sold_out", False),
                 "first_seen": today.isoformat(),
                 "new_notified": False,
                 "reminder_notified": False,
             }
         else:
             shows_state[sid]["url"] = show["url"]
+            # sold-out status is a live signal from this run's fetch, not
+            # sticky like first_seen - a show can go from available to sold
+            # out (or occasionally back, e.g. a resale release) after it's
+            # already being tracked.
+            if "sold_out" in show:
+                shows_state[sid]["sold_out"] = show["sold_out"]
 
     reminder_due = []
     for sid, entry in shows_state.items():
