@@ -12,15 +12,19 @@ with no self-serve path) via each venue's own public calendar:
      Chapel, Rickshaw Stop, Cafe du Nord, Neck of the Woods, Bimbo's 365
      Club): bespoke per-site HTML parsers.
   4. Bottom of the Hill: a plain RSS feed.
-  5. Ticketmaster Discovery API (Chase Center, Frost Amphitheatre, SF
-     Symphony/Davies Symphony Hall, Regency Ballroom): venues that are
-     bot-walled on their own sites.
+  5. Ticketmaster Discovery API (Chase Center, Frost Amphitheatre, Regency
+     Ballroom): venues that are bot-walled on their own sites.
   6. SFJAZZ, The Midway: both behind a Cloudflare managed challenge that
      blocks plain HTTP requests, so Playwright drives a real browser past it
      and reads each site's own internal JSON API. SFJAZZ needs one fresh
      page load per lookahead month (a reused session with an injected fetch
      call doesn't pass the challenge); The Midway's single page load +
      WordPress REST endpoint is cheaper.
+  7. SF Symphony/Davies Symphony Hall: sfsymphony.org itself sits behind a
+     Queue-it virtual waiting room, but its calendar is powered by a public
+     Algolia search index with a client-side search-only key - a plain HTTP
+     request, no Playwright needed, and covers the full season (including
+     box-office-only shows that never cross-list on Ticketmaster).
 
 State (which shows have already triggered a notification) is tracked in
 concerts/state.json, committed back to the repo by the GitHub Actions
@@ -101,7 +105,6 @@ BOTTOM_OF_THE_HILL_RSS_URL = "https://bottomofthehill.com/RSS.xml"
 TICKETMASTER_VENUE_IDS = {
     "Chase Center": "KovZ917Ah1H",
     "Frost Amphitheatre": "ZFr9jZdA76",
-    "SF Symphony (Davies Symphony Hall)": "Z6r9jZAAAe",
     "Regency Ballroom": "ZFr9jZ7kv6",
 }
 
@@ -560,6 +563,72 @@ def fetch_the_midway_events() -> list[dict]:
     return shows
 
 
+# sfsymphony.org itself sits behind a Queue-it virtual waiting room, but its
+# calendar is powered by a public Algolia search index - the app ID and
+# search-only API key below are pulled directly from sfsymphony.org's own
+# frontend JS (Scripts/algolia.js) and are meant to be public: Algolia
+# "search" keys are read-only and safe to embed client-side by design, same
+# as SF Symphony itself already does. This is a plain HTTP request, no
+# Playwright needed, and covers box-office-only shows (e.g. St. Vincent's
+# 2026-07-30 date) that never cross-list on Ticketmaster.
+SF_SYMPHONY_ALGOLIA_APP_ID = "3ZVEWSXVK4"
+SF_SYMPHONY_ALGOLIA_API_KEY = "e6c0617a0995d310c9dd600df5af93c2"
+SF_SYMPHONY_ALGOLIA_INDEX = "prod_sfs_calendar"
+SF_SYMPHONY_LOOKAHEAD_DAYS = 550
+
+
+def _clean_sf_symphony_title(raw: str) -> str:
+    import html as html_module
+
+    no_tags = re.sub(r"<[^>]+>", "", raw)
+    return html_module.unescape(no_tags).strip()
+
+
+def fetch_sf_symphony_events() -> list[dict]:
+    today_ts = int(datetime.now(ZoneInfo("America/Los_Angeles")).timestamp())
+    end_ts = today_ts + SF_SYMPHONY_LOOKAHEAD_DAYS * 86400
+
+    shows = []
+    page = 0
+    while True:
+        params = (
+            f"hitsPerPage=100&page={page}"
+            f'&facetFilters=%5B%5B%22excludeFromCalendar%3Afalse%22%5D%5D&query='
+            f'&numericFilters=%5B%22startDate%3E%3D{today_ts}%22%2C%22startDate%3C%3D{end_ts}%22%5D'
+        )
+        resp = requests.post(
+            f"https://{SF_SYMPHONY_ALGOLIA_APP_ID.lower()}-dsn.algolia.net/1/indexes/*/queries",
+            params={
+                "x-algolia-agent": "Algolia for JavaScript",
+                "x-algolia-api-key": SF_SYMPHONY_ALGOLIA_API_KEY,
+                "x-algolia-application-id": SF_SYMPHONY_ALGOLIA_APP_ID,
+            },
+            json={"requests": [{"indexName": SF_SYMPHONY_ALGOLIA_INDEX, "params": params}]},
+            timeout=20,
+        )
+        resp.raise_for_status()
+        result = resp.json()["results"][0]
+
+        for hit in result.get("hits", []):
+            if hit.get("venue") != "Davies Symphony Hall":
+                continue
+            title = _clean_sf_symphony_title(hit.get("title", ""))
+            event_date = (hit.get("performanceDate") or "")[:10]
+            kentico_url = hit.get("kenticoUrl") or ""
+            if not (title and event_date):
+                continue
+            url = f"https://www.sfsymphony.org{kentico_url}" if kentico_url.startswith("/") else "https://www.sfsymphony.org/Calendar"
+            shows.append({"venue": "SF Symphony (Davies Symphony Hall)", "title": title, "date": event_date, "url": url})
+
+        page += 1
+        if page >= result.get("nbPages", 1):
+            break
+
+    if not shows:
+        raise ValueError("no SF Symphony events found via Algolia - index name or schema may have changed")
+    return shows
+
+
 def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
     fetchers: list[tuple[str, Callable[[], list[dict]]]] = []
 
@@ -580,6 +649,7 @@ def build_venue_fetchers() -> list[tuple[str, Callable[[], list[dict]]]]:
         fetchers.append((venue_name, lambda v=venue_name, i=venue_id: fetch_ticketmaster_by_venue_id(v, i)))
     fetchers.append(("SFJAZZ", fetch_sfjazz_events))
     fetchers.append(("The Midway", fetch_the_midway_events))
+    fetchers.append(("SF Symphony (Davies Symphony Hall)", fetch_sf_symphony_events))
 
     return fetchers
 
