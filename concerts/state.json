@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T17:13:21.938700-07:00",
+  "last_updated": "2026-07-18T17:29:30.769657-07:00",
   "schema_version": 1,
   "shows": {
     "august-hall:2026-07-18:off-campus-night": {
@@ -421,6 +421,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Ella Mai",
       "url": "https://apeconcerts.com/events/ella-mai-260718/",
       "venue": "Bill Graham Civic Auditorium"
@@ -430,6 +431,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Yeat",
       "url": "https://apeconcerts.com/events/yeat-260813/",
       "venue": "Bill Graham Civic Auditorium"
@@ -439,6 +441,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "CORTIS",
       "url": "https://apeconcerts.com/events/cortis-260815/",
       "venue": "Bill Graham Civic Auditorium"
@@ -448,6 +451,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "CORTIS",
       "url": "https://apeconcerts.com/events/cortis-260816/",
       "venue": "Bill Graham Civic Auditorium"
@@ -457,6 +461,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "wave to earth",
       "url": "https://apeconcerts.com/events/wave-to-earth-260908/",
       "venue": "Bill Graham Civic Auditorium"
@@ -466,6 +471,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Steve Aoki",
       "url": "https://apeconcerts.com/events/steve-aoki-260220/",
       "venue": "Bill Graham Civic Auditorium"
@@ -475,6 +481,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Jay Park with special guest LNGSHOT",
       "url": "https://apeconcerts.com/events/jay-park-260922/",
       "venue": "Bill Graham Civic Auditorium"
@@ -484,6 +491,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ken Carson",
       "url": "https://apeconcerts.com/events/ken-carson-260923/",
       "venue": "Bill Graham Civic Auditorium"
@@ -493,6 +501,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "JACK WHITE",
       "url": "https://apeconcerts.com/events/jack-white-260924/",
       "venue": "Bill Graham Civic Auditorium"
@@ -502,6 +511,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Madeon",
       "url": "https://apeconcerts.com/events/madeon-261002/",
       "venue": "Bill Graham Civic Auditorium"
@@ -511,6 +521,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "The Neighbourhood",
       "url": "https://apeconcerts.com/events/the-neighbourhood-261007/",
       "venue": "Bill Graham Civic Auditorium"
@@ -520,6 +531,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HOLY PRIEST",
       "url": "https://apeconcerts.com/events/holy-priest-261009/",
       "venue": "Bill Graham Civic Auditorium"
@@ -529,6 +541,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Bonnie Raitt",
       "url": "https://apeconcerts.com/events/bonnie-raitt-261010/",
       "venue": "Bill Graham Civic Auditorium"
@@ -538,6 +551,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "RAWAYANA",
       "url": "https://apeconcerts.com/events/rawayana-261015/",
       "venue": "Bill Graham Civic Auditorium"
@@ -547,6 +561,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Sara Bareilles",
       "url": "https://apeconcerts.com/events/sara-bareilles-261016/",
       "venue": "Bill Graham Civic Auditorium"
@@ -556,6 +571,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sara Bareilles",
       "url": "https://apeconcerts.com/events/sara-bareilles-261017/",
       "venue": "Bill Graham Civic Auditorium"
@@ -565,6 +581,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MONSTA X",
       "url": "https://apeconcerts.com/events/monsta-x-261022/",
       "venue": "Bill Graham Civic Auditorium"
@@ -574,6 +591,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dermot Kennedy",
       "url": "https://apeconcerts.com/events/dermot-kennedy-261024/",
       "venue": "Bill Graham Civic Auditorium"
@@ -583,6 +601,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Brand New",
       "url": "https://apeconcerts.com/events/brand-new-261111/",
       "venue": "Bill Graham Civic Auditorium"
@@ -592,6 +611,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "WORSHIP",
       "url": "https://apeconcerts.com/events/worship-261114/",
       "venue": "Bill Graham Civic Auditorium"
@@ -601,6 +621,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "The Neighbourhood",
       "url": "https://apeconcerts.com/events/the-neighbourhood-261202/",
       "venue": "Bill Graham Civic Auditorium"
@@ -610,6 +631,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Balu Brigada",
       "url": "https://bimbos365club.com/tm-event/balu-brigada/",
       "venue": "Bimbo's 365 Club"
@@ -619,6 +641,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lady Camden's The Peach Pit Cabaret with Suzie Toot & Special Guests",
       "url": "https://bimbos365club.com/tm-event/lady-camdens-the-peach-pit-cabaret-with-suzie-toot-special-guests/",
       "venue": "Bimbo's 365 Club"
@@ -628,6 +651,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Mustache Harbor",
       "url": "https://bimbos365club.com/tm-event/mustache-harbor-8/",
       "venue": "Bimbo's 365 Club"
@@ -637,6 +661,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Super Diamond",
       "url": "https://bimbos365club.com/tm-event/super-diamond-5/",
       "venue": "Bimbo's 365 Club"
@@ -646,6 +671,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Haute & Freddy \u2013 MOVED TO THE CASTRO THEATRE",
       "url": "https://bimbos365club.com/tm-event/haute-freddy/",
       "venue": "Bimbo's 365 Club"
@@ -655,6 +681,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lido Pimienta",
       "url": "https://bimbos365club.com/tm-event/lido-pimienta/",
       "venue": "Bimbo's 365 Club"
@@ -664,6 +691,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Elder Island",
       "url": "https://bimbos365club.com/tm-event/elder-island/",
       "venue": "Bimbo's 365 Club"
@@ -673,6 +701,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tokyo Tea Room",
       "url": "https://bimbos365club.com/tm-event/tokyo-tea-room/",
       "venue": "Bimbo's 365 Club"
@@ -682,6 +711,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Emei",
       "url": "https://bimbos365club.com/tm-event/emei/",
       "venue": "Bimbo's 365 Club"
@@ -691,6 +721,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "DOMi\u00a0&\u00a0JD\u00a0BECK\u00a0\u2013 WHO ASKED? Tour",
       "url": "https://bimbos365club.com/tm-event/domi-jd-beck-who-asked-tour/",
       "venue": "Bimbo's 365 Club"
@@ -700,6 +731,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MARO \u2013 (MOVED FROM THE CASTRO)",
       "url": "https://bimbos365club.com/tm-event/maro-moved-from-the-castro/",
       "venue": "Bimbo's 365 Club"
@@ -709,6 +741,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FIGHTMASTER",
       "url": "https://bimbos365club.com/tm-event/fightmaster/",
       "venue": "Bimbo's 365 Club"
@@ -718,6 +751,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "World Famous Pets",
       "url": "https://bimbos365club.com/tm-event/world-famous-pets/",
       "venue": "Bimbo's 365 Club"
@@ -727,6 +761,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lewis OfMan",
       "url": "https://bimbos365club.com/tm-event/lewis-ofman/",
       "venue": "Bimbo's 365 Club"
@@ -736,6 +771,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Stella Lefty",
       "url": "https://bimbos365club.com/tm-event/stella-lefty/",
       "venue": "Bimbo's 365 Club"
@@ -745,6 +781,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Murray Hill",
       "url": "https://bimbos365club.com/tm-event/murray-hill/",
       "venue": "Bimbo's 365 Club"
@@ -754,6 +791,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Ezra Collective \u2013 Here Because of Hope Tour",
       "url": "https://bimbos365club.com/tm-event/ezra-collective-here-because-of-hope-tour/",
       "venue": "Bimbo's 365 Club"
@@ -763,6 +801,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HUG feat. Gyan Riley, Devendra Banhart, Noah Georgeson",
       "url": "https://bimbos365club.com/tm-event/hug-gyan-riley-devendra-banhart-noah-georgeson/",
       "venue": "Bimbo's 365 Club"
@@ -772,6 +811,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "An Evening with Squirrel Nut Zippers: Christmas Caravan 2026",
       "url": "https://bimbos365club.com/tm-event/an-evening-with-squirrel-nut-zippers-christmas-caravan-2026/",
       "venue": "Bimbo's 365 Club"
@@ -781,6 +821,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pokey LaFarge",
       "url": "https://bimbos365club.com/tm-event/pokey-lafarge/",
       "venue": "Bimbo's 365 Club"
@@ -1780,6 +1821,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": true,
       "title": "The Mainliners",
       "url": "https://cafedunord.com/tm-event/the-mainliners/",
       "venue": "Cafe du Nord"
@@ -1789,6 +1831,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Vacation Manor",
       "url": "https://cafedunord.com/tm-event/vacation-manor-with-jettee-and-nolen-durham/",
       "venue": "Cafe du Nord"
@@ -1798,6 +1841,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "LELO",
       "url": "https://cafedunord.com/tm-event/lelos-mastiff-pink-tiles-tour/",
       "venue": "Cafe du Nord"
@@ -1807,6 +1851,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Big Brain Lectures - SF",
       "url": "https://cafedunord.com/tm-event/redesigning-the-stories-that-hold-you-back-in-life/",
       "venue": "Cafe du Nord"
@@ -1816,6 +1861,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Devon BaldwinandElla Collier",
       "url": "https://cafedunord.com/tm-event/devon-baldwin-and-ella-collier-with-daisy-bear/",
       "venue": "Cafe du Nord"
@@ -1825,6 +1871,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Mack Keane",
       "url": "https://cafedunord.com/tm-event/mack-keane-the-wide-eyed-tour-cafe-du-nord/",
       "venue": "Cafe du Nord"
@@ -1834,6 +1881,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Black Milk",
       "url": "https://cafedunord.com/tm-event/black-milk/",
       "venue": "Cafe du Nord"
@@ -1843,6 +1891,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tommy Newport",
       "url": "https://cafedunord.com/tm-event/tommy-newport-face-to-face-tour/",
       "venue": "Cafe du Nord"
@@ -1852,6 +1901,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Hannah Frances",
       "url": "https://cafedunord.com/tm-event/hannah-frances/",
       "venue": "Cafe du Nord"
@@ -1861,6 +1911,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Paris Jackson",
       "url": "https://cafedunord.com/tm-event/paris-jackson-zombies-tour/",
       "venue": "Cafe du Nord"
@@ -1870,6 +1921,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Out of Office",
       "url": "https://cafedunord.com/tm-event/out-of-office/",
       "venue": "Cafe du Nord"
@@ -1879,6 +1931,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Will Swinton",
       "url": "https://cafedunord.com/tm-event/will-swinton-will-swinton-live/",
       "venue": "Cafe du Nord"
@@ -1888,6 +1941,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lynae Vanee",
       "url": "https://cafedunord.com/tm-event/lynae-vanee/",
       "venue": "Cafe du Nord"
@@ -1897,6 +1951,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Just Surrender",
       "url": "https://cafedunord.com/tm-event/just-surrender/",
       "venue": "Cafe du Nord"
@@ -1906,6 +1961,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BAILEN",
       "url": "https://cafedunord.com/tm-event/bailen-swim-at-your-own-risk-tour/",
       "venue": "Cafe du Nord"
@@ -1915,6 +1971,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "DWLLRS",
       "url": "https://cafedunord.com/tm-event/dwllrs-one-of-those-nights-tour-with-thebandfriday/",
       "venue": "Cafe du Nord"
@@ -1924,6 +1981,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Charities",
       "url": "https://cafedunord.com/tm-event/the-charities-with-mae-powell/",
       "venue": "Cafe du Nord"
@@ -1933,6 +1991,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lenka",
       "url": "https://cafedunord.com/tm-event/lenka/",
       "venue": "Cafe du Nord"
@@ -1951,6 +2010,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Vacation Manor with Jettee, and Nolen Durham",
       "url": "https://cafedunord.com/tm-event/vacation-manor-with-jettee-and-nolen-durham/",
       "venue": "Cafe du Nord"
@@ -1960,6 +2020,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Zoh Amba",
       "url": "https://cafedunord.com/tm-event/zoh-amba/",
       "venue": "Cafe du Nord"
@@ -2239,6 +2300,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": true,
       "title": "Widespread Panic",
       "url": "https://apeconcerts.com/events/widespread-panic-260718/",
       "venue": "Fox Theater"
@@ -2248,6 +2310,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Poppy",
       "url": "https://apeconcerts.com/events/poppy-260805/",
       "venue": "Fox Theater"
@@ -2257,6 +2320,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Little Feat",
       "url": "https://apeconcerts.com/events/little-feat-260810/",
       "venue": "Fox Theater"
@@ -2266,6 +2330,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Passion Pit",
       "url": "https://apeconcerts.com/events/passion-pit-260816/",
       "venue": "Fox Theater"
@@ -2275,6 +2340,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Brandon Flowers",
       "url": "https://apeconcerts.com/events/brandon-flowers-260905/",
       "venue": "Fox Theater"
@@ -2284,6 +2350,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Slayyyter",
       "url": "https://apeconcerts.com/events/slayyyter-260909/",
       "venue": "Fox Theater"
@@ -2293,6 +2360,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Michael Blaustein: The Taste Me Tour: The Final Leg",
       "url": "https://apeconcerts.com/events/michael-blaustein-260911/",
       "venue": "Fox Theater"
@@ -2302,6 +2370,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Thievery Corporation",
       "url": "https://apeconcerts.com/events/thievery-corporation-260912/",
       "venue": "Fox Theater"
@@ -2311,6 +2380,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Masego",
       "url": "https://apeconcerts.com/events/masego-260913/",
       "venue": "Fox Theater"
@@ -2320,6 +2390,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ravyn Lenae",
       "url": "https://apeconcerts.com/events/ravyn-lenae-260916/",
       "venue": "Fox Theater"
@@ -2329,6 +2400,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Jack Harlow",
       "url": "https://apeconcerts.com/events/jack-harlow-260918/",
       "venue": "Fox Theater"
@@ -2338,6 +2410,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Kruder & Dorfmeister",
       "url": "https://apeconcerts.com/events/kruder-and-dorfmeister-260925/",
       "venue": "Fox Theater"
@@ -2347,6 +2420,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Insecure feat. Issa Rae, Prentice Penny and the cast",
       "url": "https://apeconcerts.com/events/insecure-260926/",
       "venue": "Fox Theater"
@@ -2356,6 +2430,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Social Distortion",
       "url": "https://apeconcerts.com/events/social-distortion-260929/",
       "venue": "Fox Theater"
@@ -2365,6 +2440,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "HASAN HATES RONNY | RONNY HATES HASAN",
       "url": "https://apeconcerts.com/events/hasan-ronny-261002-late/",
       "venue": "Fox Theater"
@@ -2374,6 +2450,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HASAN HATES RONNY | RONNY HATES HASAN",
       "url": "https://apeconcerts.com/events/hasan-minhaj-ronny-chieng-261003/",
       "venue": "Fox Theater"
@@ -2383,6 +2460,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Cavetown",
       "url": "https://apeconcerts.com/events/cavetown-261006/",
       "venue": "Fox Theater"
@@ -2392,6 +2470,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ilana Glazer Live!",
       "url": "https://apeconcerts.com/events/ilana-glazer-261007/",
       "venue": "Fox Theater"
@@ -2401,6 +2480,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Mastodon",
       "url": "https://apeconcerts.com/events/mastodon-261009/",
       "venue": "Fox Theater"
@@ -2410,6 +2490,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sons of Legion",
       "url": "https://apeconcerts.com/events/sons-of-legion-261010/",
       "venue": "Fox Theater"
@@ -2419,6 +2500,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Brit Floyd",
       "url": "https://apeconcerts.com/events/brit-floyd-261014/",
       "venue": "Fox Theater"
@@ -2428,6 +2510,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Boy Harsher",
       "url": "https://apeconcerts.com/events/boy-harsher-261015/",
       "venue": "Fox Theater"
@@ -2437,6 +2520,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Fortune Feimster: Takin\u2019 Care of Biscuits Comedy Tour",
       "url": "https://apeconcerts.com/events/fortune-feimster-261017/",
       "venue": "Fox Theater"
@@ -2446,6 +2530,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Epik High",
       "url": "https://apeconcerts.com/events/epik-high-261018/",
       "venue": "Fox Theater"
@@ -2455,6 +2540,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Geese",
       "url": "https://apeconcerts.com/events/geese-261019/",
       "venue": "Fox Theater"
@@ -2464,6 +2550,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Geese",
       "url": "https://apeconcerts.com/events/geese-261020/",
       "venue": "Fox Theater"
@@ -2473,6 +2560,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Malcolm Todd",
       "url": "https://apeconcerts.com/events/malcolm-todd-261021/",
       "venue": "Fox Theater"
@@ -2482,6 +2570,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Malcolm Todd",
       "url": "https://apeconcerts.com/events/malcolm-todd-261022/",
       "venue": "Fox Theater"
@@ -2491,6 +2580,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Gary Clark Jr.",
       "url": "https://apeconcerts.com/events/gary-clark-jr-261023/",
       "venue": "Fox Theater"
@@ -2500,6 +2590,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "William Black",
       "url": "https://apeconcerts.com/events/william-black-261024/",
       "venue": "Fox Theater"
@@ -2509,6 +2600,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "LENNY PEARCE",
       "url": "https://apeconcerts.com/events/lenny-pearce-261027/",
       "venue": "Fox Theater"
@@ -2518,6 +2610,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Shpongle",
       "url": "https://apeconcerts.com/events/shpongle-261030/",
       "venue": "Fox Theater"
@@ -2527,6 +2620,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Shpongle",
       "url": "https://apeconcerts.com/events/shpongle-261031/",
       "venue": "Fox Theater"
@@ -2536,6 +2630,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Bonobo",
       "url": "https://apeconcerts.com/events/bonobo-261114/",
       "venue": "Fox Theater"
@@ -2545,6 +2640,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Thundercat",
       "url": "https://apeconcerts.com/events/thundercat-261117/",
       "venue": "Fox Theater"
@@ -2554,6 +2650,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pretty Lights",
       "url": "https://apeconcerts.com/events/pretty-lights-261119/",
       "venue": "Fox Theater"
@@ -2563,6 +2660,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pretty Lights",
       "url": "https://apeconcerts.com/events/pretty-lights-261120/",
       "venue": "Fox Theater"
@@ -2572,6 +2670,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pretty Lights",
       "url": "https://apeconcerts.com/events/pretty-lights-261121/",
       "venue": "Fox Theater"
@@ -2581,6 +2680,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Angine de Poitrine",
       "url": "https://apeconcerts.com/events/angine-de-poitrine-261208/",
       "venue": "Fox Theater"
@@ -2590,6 +2690,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ali Siddiq: The Custom Fit Tour",
       "url": "https://apeconcerts.com/events/ali-siddiq-261219/",
       "venue": "Fox Theater"
@@ -2599,6 +2700,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sylvan Esso",
       "url": "https://apeconcerts.com/events/sylvan-esso-270225/",
       "venue": "Fox Theater"
@@ -2608,6 +2710,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Nothing But Thieves",
       "url": "https://apeconcerts.com/events/nothing-but-thieves-270403/",
       "venue": "Fox Theater"
@@ -2653,6 +2756,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Gabe Bondoc, Jeremy Passion",
       "url": "https://wl.seetickets.us/event/gabe-bondoc-jeremy-passion/684467?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2662,6 +2766,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Gothicumbia",
       "url": "https://wl.seetickets.us/event/gothicumbia/691864?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2671,6 +2776,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Ringo Deathstarr",
       "url": "https://wl.seetickets.us/event/ringo-deathstarr/690124?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2680,6 +2786,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Black Moth Super Rainbow",
       "url": "https://wl.seetickets.us/event/black-moth-super-rainbow/685251?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2689,6 +2796,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "of Montreal",
       "url": "https://wl.seetickets.us/event/of-montreal/678640?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2698,6 +2806,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MELVIN SEALS & JGB",
       "url": "https://wl.seetickets.us/event/melvin-seals-and-jgb/695546?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2707,6 +2816,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "AXIAL TILT",
       "url": "https://wl.seetickets.us/event/axial-tilt/692737?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2716,6 +2826,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "AXIAL TILT: 2-Show Pass",
       "url": "https://wl.seetickets.us/event/axial-tilt-2-show-pass/692743?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2725,6 +2836,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "AXIAL TILT",
       "url": "https://wl.seetickets.us/event/axial-tilt/692741?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2734,6 +2846,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Oakwood",
       "url": "https://wl.seetickets.us/event/oakwood/690145?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2743,6 +2856,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Fenix Flexin",
       "url": "https://wl.seetickets.us/event/fenix-flexin/697339?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
@@ -2752,6 +2866,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Rainbow Kitten Surprise",
       "url": "https://apeconcerts.com/events/rainbow-kitten-surprise-260718/",
       "venue": "Greek Theatre"
@@ -2761,6 +2876,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Young the Giant",
       "url": "https://apeconcerts.com/events/young-the-giant-260719/",
       "venue": "Greek Theatre"
@@ -2770,6 +2886,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "The Fray",
       "url": "https://apeconcerts.com/events/the-fray-260723/",
       "venue": "Greek Theatre"
@@ -2779,6 +2896,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dark Star Orchestra",
       "url": "https://apeconcerts.com/events/dark-star-orchestra-260731/",
       "venue": "Greek Theatre"
@@ -2788,6 +2906,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dark Star Orchestra",
       "url": "https://apeconcerts.com/events/dark-star-orchestra-260801/",
       "venue": "Greek Theatre"
@@ -2797,6 +2916,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tedeschi Trucks Band",
       "url": "https://apeconcerts.com/events/tedeschi-trucks-band-260812/",
       "venue": "Greek Theatre"
@@ -2806,6 +2926,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Thee Sacred Souls",
       "url": "https://apeconcerts.com/events/thee-sacred-souls-260815/",
       "venue": "Greek Theatre"
@@ -2815,6 +2936,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "David Byrne",
       "url": "https://apeconcerts.com/events/david-byrne-260825/",
       "venue": "Greek Theatre"
@@ -2824,6 +2946,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tori Amos",
       "url": "https://apeconcerts.com/events/tori-amos-260829/",
       "venue": "Greek Theatre"
@@ -2833,6 +2956,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Liz Phair & Sleater-Kinney",
       "url": "https://apeconcerts.com/events/liz-phair-sleater-kinney-260909/",
       "venue": "Greek Theatre"
@@ -2842,6 +2966,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Foster The People",
       "url": "https://apeconcerts.com/events/foster-the-people-260911/",
       "venue": "Greek Theatre"
@@ -2851,6 +2976,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Johnny Blue Skies & The Dark Clouds",
       "url": "https://apeconcerts.com/events/johnny-blue-skies-260915/",
       "venue": "Greek Theatre"
@@ -2860,6 +2986,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Bleachers",
       "url": "https://apeconcerts.com/events/bleachers-260917/",
       "venue": "Greek Theatre"
@@ -2869,6 +2996,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Erykah Badu",
       "url": "https://apeconcerts.com/events/erykah-badu-260927/",
       "venue": "Greek Theatre"
@@ -2878,6 +3006,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Jack Johnson",
       "url": "https://apeconcerts.com/events/jack-johnson-260930/",
       "venue": "Greek Theatre"
@@ -2887,6 +3016,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Jack Johnson",
       "url": "https://apeconcerts.com/events/jack-johnson-251001/",
       "venue": "Greek Theatre"
@@ -2896,6 +3026,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Jon Batiste",
       "url": "https://apeconcerts.com/events/jon-batiste-261003/",
       "venue": "Greek Theatre"
@@ -2905,6 +3036,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "JUNGLE \u2013 World Tour 2026",
       "url": "https://apeconcerts.com/events/jungle-261006/",
       "venue": "Greek Theatre"
@@ -2914,6 +3046,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "JUNGLE \u2013 World Tour 2026",
       "url": "https://apeconcerts.com/events/jungle-261007/",
       "venue": "Greek Theatre"
@@ -2923,6 +3056,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Vulfpeck",
       "url": "https://apeconcerts.com/events/vulfpeck-261016/",
       "venue": "Greek Theatre"
@@ -2932,6 +3066,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Role Model",
       "url": "https://apeconcerts.com/events/role-model-261018/",
       "venue": "Greek Theatre"
@@ -2941,6 +3076,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HUGEL",
       "url": "https://apeconcerts.com/events/hugel-261107/",
       "venue": "Greek Theatre"
@@ -2959,6 +3095,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Iced Wrist/ Global Disgust/ Dotcursor/ Butane/ Street Sweeper",
       "url": "https://www.neckofthewoodssf.com/tm-event/iced-wrist-global-disgust-dotcursor-butane-street-sweeper/",
       "venue": "Neck of the Woods"
@@ -2968,6 +3105,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Karaoke Tuesday",
       "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-3/",
       "venue": "Neck of the Woods"
@@ -2977,6 +3115,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Popstar Booty Camp Dance Performance",
       "url": "https://www.neckofthewoodssf.com/tm-event/popstar-booty-camp-dance-performance-2/",
       "venue": "Neck of the Woods"
@@ -2986,6 +3125,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Neck of the Woods SF Open Mic Wednesdays",
       "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-29/",
       "venue": "Neck of the Woods"
@@ -2995,6 +3135,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Slay Squad/ Bruhmanegod/ Blackpunks/ Bodyshot/ Hash Gordon/ Bent Outta Shape",
       "url": "https://www.neckofthewoodssf.com/tm-event/slay-squad-bruhmanegod-blackpunks-bodyshot-hash-gordon-bent-outta-shape/",
       "venue": "Neck of the Woods"
@@ -3004,6 +3145,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "No Right/ Opposing Force/ What Counts/ Fight Back/ Blockade/ xMagdalenex",
       "url": "https://www.neckofthewoodssf.com/tm-event/no-right-opposing-force-what-counts-fight-back-blockade-xmagdalenex/",
       "venue": "Neck of the Woods"
@@ -3013,6 +3155,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Jonny's Day Out/ Over Under/ For Horses",
       "url": "https://www.neckofthewoodssf.com/tm-event/jonnys-day-out-over-under-for-horses/",
       "venue": "Neck of the Woods"
@@ -3022,6 +3165,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Miguel Kultura",
       "url": "https://www.neckofthewoodssf.com/tm-event/miguel-kultura/",
       "venue": "Neck of the Woods"
@@ -3031,6 +3175,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Solene",
       "url": "https://www.neckofthewoodssf.com/tm-event/solene/",
       "venue": "Neck of the Woods"
@@ -3040,6 +3185,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Corpse Pile/ Iron Front/ Barbarous/ Straggler/ Violent Imagry",
       "url": "https://www.neckofthewoodssf.com/tm-event/corpse-pile-iron-front-barbarous-straggler-violent-imagry/",
       "venue": "Neck of the Woods"
@@ -3049,6 +3195,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Karaoke Tuesday",
       "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-4/",
       "venue": "Neck of the Woods"
@@ -3058,6 +3205,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Neck of the Woods SF Open Mic Wednesdays",
       "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-30/",
       "venue": "Neck of the Woods"
@@ -3067,6 +3215,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Roast Battle League: Bay Area",
       "url": "https://www.neckofthewoodssf.com/tm-event/roast-battle-league-bay-area/",
       "venue": "Neck of the Woods"
@@ -3076,6 +3225,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sleepyhead: An Indie Sleaze Dance Party",
       "url": "https://www.neckofthewoodssf.com/tm-event/sleepyhead-an-indie-sleaze-dance-party-2/",
       "venue": "Neck of the Woods"
@@ -3085,6 +3235,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Mortal/ Manhunt/ Egregious/ Headhunter/ Apraxia",
       "url": "https://www.neckofthewoodssf.com/tm-event/mortal-manhunt-egregious-headhunter-apraxia/",
       "venue": "Neck of the Woods"
@@ -3094,6 +3245,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Karaoke Tuesday",
       "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-5/",
       "venue": "Neck of the Woods"
@@ -3103,6 +3255,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Neck of the Woods SF Open Mic Wednesdays",
       "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-31/",
       "venue": "Neck of the Woods"
@@ -3112,6 +3265,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Weathy Women/ Failed Sun/ SHR\u00d8UD/ Field of Fear",
       "url": "https://www.neckofthewoodssf.com/tm-event/weathy-women-failed-sun-shroud-field-of-fear/",
       "venue": "Neck of the Woods"
@@ -3382,6 +3536,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "EMO NITE at Rickshaw Stop - San Francisco, CA",
       "url": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/696009?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3391,6 +3546,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "NOW THAT'S WHAT I CALL ITALO DISCO Vol. 23",
       "url": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-23/695893?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3400,6 +3556,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "SPACEMOTH (Album Release Show)",
       "url": "https://wl.seetickets.us/event/spacemoth-album-release-show/687668?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3409,6 +3566,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "RAY AND PAUL",
       "url": "https://wl.seetickets.us/event/ray-and-paul/689144?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3418,6 +3576,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "LARRY & HIS FLASK",
       "url": "https://wl.seetickets.us/event/larry-and-his-flask/695193?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3427,6 +3586,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "DEAD HEAT",
       "url": "https://wl.seetickets.us/event/dead-heat/695625?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3436,6 +3596,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "VILLANELLE",
       "url": "https://wl.eventim.us/event/villanelle/696703?afflky=POPSCENEPresents",
       "venue": "Rickshaw Stop"
@@ -3445,6 +3606,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "KONTRAVOID",
       "url": "https://wl.seetickets.us/event/kontravoid/692996?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3454,6 +3616,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SUPER GREENS",
       "url": "https://wl.seetickets.us/event/super-greens/686946?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3463,6 +3626,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "DEADHEAD DISCO",
       "url": "https://urldefense.com/v3/__https://www.eventbrite.com/e/deadhead-disco-jerrys-birthday-celebration-san-francisco-tickets-1988579666313?aff=odcleoeventsincollection__;!!AEl5w8WD!ou6iBBMcZ_7gcVrZ7-DbtN4nhAhBeGPxZI9fe-Vb_Pfr6G_LgHXv5K_ih1S2x9GWqQCy6txH17jfysjZ-yGJBc5imgm6FtE$",
       "venue": "Rickshaw Stop"
@@ -3472,6 +3636,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "AUSTIN TV",
       "url": "https://wl.seetickets.us/event/austin-tv/692765?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3481,6 +3646,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BROADWAY RAVE",
       "url": "https://wl.seetickets.us/event/broadway-rave/694433?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3490,6 +3656,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SPORTS",
       "url": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064D1F73A9A7B?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet*20__;JQ!!AEl5w8WD!uBg4x6bo5safuvF-TzIICmQocig85zNBIm-Jx6fZsPXLyU528fb732ebeQzSF99rv0triWIPkgtfJBcl7H1klcFN-kpVlRg$",
       "venue": "Rickshaw Stop"
@@ -3499,6 +3666,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PLAYLUNCH",
       "url": "https://wl.seetickets.us/event/playlunch/682338?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3508,6 +3676,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BABYMOROCCO",
       "url": "https://wl.eventim.us/event/babymorocco/690327?afflky=POPSCENEPresents",
       "venue": "Rickshaw Stop"
@@ -3517,6 +3686,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ALEX AMEN",
       "url": "https://www.ticketmaster.com/event/1C0064A8D643F6B4?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet",
       "venue": "Rickshaw Stop"
@@ -3526,6 +3696,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SMOKED OUT SOUL",
       "url": "https://wl.seetickets.us/event/smoked-out-soul/687319?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3535,6 +3706,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HAUS PARTY SAN FRANCISCO",
       "url": "https://wl.seetickets.us/event/haus-party-san-francisco/699067?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3544,6 +3716,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Nerd Nite SF #163",
       "url": "https://wl.seetickets.us/event/nerd-nite-sf-163/699215?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3553,6 +3726,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "DEB NEVER",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/deb-never/698553?afflky=POPSCENEPresents__;!!AEl5w8WD!r1jyOojOh-e7j6-qk5WCh8LghKCSKS22-5IrIbCq8jpJc0pFy_3o7ehuq1UrIXq2xuMdhqDrW1iw7CI6RO6VoRz4q8fHa1I$",
       "venue": "Rickshaw Stop"
@@ -3562,6 +3736,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BEACH GOTH NIGHT",
       "url": "https://wl.seetickets.us/event/beach-goth-night/695626?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3571,6 +3746,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "LCD Soundsystem vs Daft Punk night",
       "url": "https://wl.seetickets.us/event/lcd-soundsystem-vs-daft-punk-night/694083?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3580,6 +3756,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HIPPIE DEATH CULT",
       "url": "https://wl.seetickets.us/event/hippie-death-cult/692946?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3589,6 +3766,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BLACK MARBLE",
       "url": "https://wl.eventim.us/event/black-marble/690324?afflky=POPSCENEPresents",
       "venue": "Rickshaw Stop"
@@ -3598,6 +3776,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Witch Whores of Satan",
       "url": "https://wl.seetickets.us/event/witch-whores-of-satan/691480?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3607,6 +3786,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "OTHA",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/otha/684517?afflky=POPSCENEPresents__;!!AEl5w8WD!sYUUBSjtfJz8glKJhclYeZiHdZmMqVtyCM7u6uDMJSrEJWuAhwgM5Q9usG6ktoSUlxYCqBJ3q1OrCYyVdHKa9xu2t2GJZpY$",
       "venue": "Rickshaw Stop"
@@ -3616,6 +3796,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MY NEW BAND BELIEVE",
       "url": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3625,6 +3806,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MINI TREES",
       "url": "https://wl.seetickets.us/event/mini-trees/689148?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3634,6 +3816,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ALAN VUONG",
       "url": "https://wl.seetickets.us/event/alan-vuong/694428?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3643,6 +3826,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "YUMA ABE",
       "url": "https://wl.seetickets.us/event/yuma-abe/692760?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3652,6 +3836,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "THE BUG CLUB",
       "url": "https://wl.seetickets.us/event/the-bug-club/696618?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3661,6 +3846,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "CHANPAN",
       "url": "https://wl.seetickets.us/event/chanpan/694072?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3670,6 +3856,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HOUSE OF HEAVY",
       "url": "https://wl.seetickets.us/event/house-of-heavy/694434?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3679,6 +3866,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ALI",
       "url": "https://wl.seetickets.us/event/ali/692759?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3688,6 +3876,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "AMERICAN AQUARIUM",
       "url": "https://wl.seetickets.us/event/american-aquarium/695263?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3697,6 +3886,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SWEEPING PROMISES",
       "url": "https://wl.seetickets.us/event/sweeping-promises/691105?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3706,6 +3896,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BE YOUR OWN PET",
       "url": "https://wl.seetickets.us/event/be-your-own-pet/690464?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3715,6 +3906,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SOLYA",
       "url": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3724,6 +3916,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FRIKO",
       "url": "https://wl.seetickets.us/event/friko/685919?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3733,6 +3926,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "CAIN CULTO",
       "url": "https://wl.seetickets.us/event/cain-culto/698041?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3742,6 +3936,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BRIAN FALLON & THE PAINKILLERS",
       "url": "https://wl.seetickets.us/event/brian-fallon-and-the-painkillers/695727?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3751,6 +3946,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PORCH LIGHT - Hush Tour",
       "url": "https://www.ticketmaster.com/event/1C0064EAB3281ACF?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet",
       "venue": "Rickshaw Stop"
@@ -3760,6 +3956,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "THE BENDS",
       "url": "https://wl.eventim.us/event/the-bends/687944?afflky=POPSCENEPresents",
       "venue": "Rickshaw Stop"
@@ -3769,6 +3966,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ECCA VANDAL",
       "url": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064B4F434F589?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet__;!!AEl5w8WD!v8DoOL_-e_yldW92CtT4gHg2koziISAw7Er8owVYLJNrXqgqokBpGgzXd13neAhU-TVVuAtbD_aTJW5w-MYjU5P3Uy_qCas$",
       "venue": "Rickshaw Stop"
@@ -3778,6 +3976,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "STEPHEN DAWES presents The Skin to Skin Tour",
       "url": "https://wl.seetickets.us/event/stephen-dawes-presents-the-skin-to-skin-tour/697876?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3787,6 +3986,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PALOMA MORPHY",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/paloma-morphy/689810?afflky=POPSCENEPresents__;!!AEl5w8WD!pDQPuTyGaZB85bnLDZ_3dvt46vSPVodQTvxf0kqgBrWAYCxVlef2T6-kBW9vRcXZB5DR1R2tiKcBLIzU0KYFvMs1kbZ3BAE$",
       "venue": "Rickshaw Stop"
@@ -3796,6 +3996,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "TIM ATLAS",
       "url": "https://wl.seetickets.us/event/tim-atlas/692999?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3805,6 +4006,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour",
       "url": "https://wl.seetickets.us/event/edgar-alejandro-todo-lo-bueno-toma-tiempo-tour/697863?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3814,6 +4016,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ZOLITA",
       "url": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064C2069884E3?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet__;!!AEl5w8WD!pTB5j4ha87vlT1TpQ3IE6Ov3BKIFIekNo6BcSbh62TQOjTo9JTWndCcKI0o7nSV_qVAhVLrB8DRCTDcq5GWO8igC0zrppjI$",
       "venue": "Rickshaw Stop"
@@ -3823,6 +4026,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PSYCHED! FEST with DILES QUE NO ME MATEN",
       "url": "https://wl.seetickets.us/event/psyched-fest-with-diles-que-no-me-maten/687568?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3832,6 +4036,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FLOWER FACE",
       "url": "https://wl.eventim.us/event/flower-face/690076?afflky=POPSCENEPresents",
       "venue": "Rickshaw Stop"
@@ -3841,6 +4046,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BEBE STOCKWELL",
       "url": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064ADC2979C35?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet__;!!AEl5w8WD!rzKYOs85sP-1WsdiAgDoiP9FAZNDCHs_5srkpch3ZaJWWuSP3eeZmensN5EfX7qRY7EPzl7dzsthkNUyTJ7T4nkEEy8Vf_0$",
       "venue": "Rickshaw Stop"
@@ -3850,6 +4056,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "KYLE GORDON",
       "url": "https://wl.seetickets.us/event/kyle-gordon/692750?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3859,6 +4066,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PSYCHED! FEST with WINE LIPS",
       "url": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3868,6 +4076,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "VIOLET GROHL",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/violet-grohl/693274?afflky=POPSCENEPresents__;!!AEl5w8WD!p9v37rYECgcUycNd4O1DijnAYAj_bppSafHmFOJ-1fWrXpbswkZSj5uwkCgel5TNQOxBOBYlPCx1YvPmeVw0p6tmi2ujzmc$",
       "venue": "Rickshaw Stop"
@@ -3877,6 +4086,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "WE ARE SCIENTISTS",
       "url": "https://wl.seetickets.us/event/we-are-scientists/694279?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3886,6 +4096,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "THE TUBS",
       "url": "https://wl.seetickets.us/event/the-tubs/696006?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3895,6 +4106,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "mary in the junkyard",
       "url": "https://wl.seetickets.us/event/mary-in-the-junkyard/691949?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3904,6 +4116,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "GENESIS OWUSU",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/genesis-owusu/692608?afflky=POPSCENEPresents__;!!AEl5w8WD!uEGhLNN9F-qvrDXpcUREkqidpnoUdpJ0VoGznZ4fZsy_WQ_nuYVBhf5DMBcaA3I6ppm0KOcqNpqSANr0zfaGzAYIlGMjI2M$",
       "venue": "Rickshaw Stop"
@@ -3913,6 +4126,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "JAKE MINCH - Getting Big Tour",
       "url": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3922,6 +4136,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "THE HAILS",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/the-hails/696075?afflky=POPSCENEPresents__;!!AEl5w8WD!rWPFuASes953YoXBaKrbWTsWzGXY6eGOwK1-k1ssH8pNg6Vwil6j25YHJOXYKzattqG8BAwxu2p6NFlw9guSg2iSQTKEivk$",
       "venue": "Rickshaw Stop"
@@ -3931,6 +4146,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FRANCISCA VALENZUELA",
       "url": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064B4BCB55F8A?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet__;!!AEl5w8WD!v8DoOL_-e_yldW92CtT4gHg2koziISAw7Er8owVYLJNrXqgqokBpGgzXd13neAhU-TVVuAtbD_aTJW5w-MYjU5P3_o3YiK0$",
       "venue": "Rickshaw Stop"
@@ -3940,6 +4156,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Natural Child",
       "url": "https://wl.seetickets.us/event/natural-child/688788?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3949,6 +4166,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "L'RAIN",
       "url": "https://wl.seetickets.us/event/lrain/697892?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3958,6 +4176,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "JESSICA LEA MAYFIELD",
       "url": "https://wl.seetickets.us/event/jessica-lea-mayfield/698043?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3967,6 +4186,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "OLIVER HAZARD",
       "url": "https://wl.seetickets.us/event/oliver-hazard/694276?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3976,6 +4196,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ruby Haunt",
       "url": "https://wl.seetickets.us/event/ruby-haunt/697882?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3985,6 +4206,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SMALL BROWN BIKE",
       "url": "https://wl.seetickets.us/event/small-brown-bike/695336?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -3994,6 +4216,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "VALENCIA GRACE",
       "url": "https://wl.seetickets.us/event/valencia-grace/697858?afflky=RickshawStop",
       "venue": "Rickshaw Stop"
@@ -5425,6 +5648,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "San Francisco Jewish Film Festival 46",
       "url": "https://apeconcerts.com/events/san-francisco-jewish-film-festival-46/",
       "venue": "The Castro"
@@ -5434,6 +5658,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Hook",
       "url": "https://apeconcerts.com/events/hook-260719/",
       "venue": "The Castro"
@@ -5443,6 +5668,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Mrs. Doubtfire",
       "url": "https://apeconcerts.com/events/mrs-doubtfire-260719/",
       "venue": "The Castro"
@@ -5452,6 +5678,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Totally Tubular Festival",
       "url": "https://apeconcerts.com/events/totally-tubular-festival-260722/",
       "venue": "The Castro"
@@ -5461,6 +5688,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "The Birdcage",
       "url": "https://apeconcerts.com/events/the-birdcage-260723/",
       "venue": "The Castro"
@@ -5470,6 +5698,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Masters of the Universe",
       "url": "https://apeconcerts.com/events/masters-of-the-universe-260725/",
       "venue": "The Castro"
@@ -5479,6 +5708,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "But I\u2019m a Cheerleader",
       "url": "https://apeconcerts.com/events/but-im-a-cheerleader-260726/",
       "venue": "The Castro"
@@ -5488,6 +5718,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Kim Gordon",
       "url": "https://apeconcerts.com/events/kim-gordon-260729/",
       "venue": "The Castro"
@@ -5497,6 +5728,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Glitter 25th Anniversary",
       "url": "https://apeconcerts.com/events/glitter-260731/",
       "venue": "The Castro"
@@ -5506,6 +5738,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Fixx",
       "url": "https://apeconcerts.com/events/the-fixx-260801/",
       "venue": "The Castro"
@@ -5515,6 +5748,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Modest Mouse",
       "url": "https://apeconcerts.com/events/modest-mouse-260806/",
       "venue": "The Castro"
@@ -5524,6 +5758,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Comedy Bang! Bang! Ground Beefing Tour 2026",
       "url": "https://apeconcerts.com/events/comedy-bang-bang-260812/",
       "venue": "The Castro"
@@ -5533,6 +5768,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Hedwig and the Angry Inch",
       "url": "https://apeconcerts.com/events/hedwig-and-the-angry-inch-260813/",
       "venue": "The Castro"
@@ -5542,6 +5778,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Quicksand & Bane",
       "url": "https://apeconcerts.com/events/quicksand-bane-260815/",
       "venue": "The Castro"
@@ -5551,6 +5788,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "The Breeders",
       "url": "https://apeconcerts.com/events/the-breeders-260822/",
       "venue": "The Castro"
@@ -5560,6 +5798,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "The Breeders",
       "url": "https://apeconcerts.com/events/the-breeders-260823/",
       "venue": "The Castro"
@@ -5569,6 +5808,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Greyboy Allstars",
       "url": "https://apeconcerts.com/events/greyboy-allstars-260828/",
       "venue": "The Castro"
@@ -5578,6 +5818,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "LP",
       "url": "https://apeconcerts.com/events/lp-260902/",
       "venue": "The Castro"
@@ -5587,6 +5828,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Charlatans UK",
       "url": "https://apeconcerts.com/events/the-charlatans-260907/",
       "venue": "The Castro"
@@ -5596,6 +5838,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Naomi Sharon",
       "url": "https://apeconcerts.com/events/naomi-sharon-260910/",
       "venue": "The Castro"
@@ -5605,6 +5848,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Haute & Freddy",
       "url": "https://apeconcerts.com/events/haute-freddy-260914/",
       "venue": "The Castro"
@@ -5614,6 +5858,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Jeff Bernat",
       "url": "https://apeconcerts.com/events/jeff-bernat-260915/",
       "venue": "The Castro"
@@ -5623,6 +5868,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "JOSH THOMAS: JIGGLE, JIGGLE",
       "url": "https://apeconcerts.com/events/josh-thomas-260917/",
       "venue": "The Castro"
@@ -5632,6 +5878,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Growlers",
       "url": "https://apeconcerts.com/events/the-growlers-260918/",
       "venue": "The Castro"
@@ -5641,6 +5888,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Growlers",
       "url": "https://apeconcerts.com/events/the-growlers-260919/",
       "venue": "The Castro"
@@ -5650,6 +5898,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Melanie C",
       "url": "https://apeconcerts.com/events/melanie-c-260922/",
       "venue": "The Castro"
@@ -5659,6 +5908,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "S\u00e9bastien Tellier",
       "url": "https://apeconcerts.com/events/sebastien-tellier-260923/",
       "venue": "The Castro"
@@ -5668,6 +5918,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Aldous Harding",
       "url": "https://apeconcerts.com/events/aldous-harding-260928/",
       "venue": "The Castro"
@@ -5677,6 +5928,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Michelle Branch",
       "url": "https://apeconcerts.com/events/michelle-branch-261001/",
       "venue": "The Castro"
@@ -5686,6 +5938,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Michelle Branch",
       "url": "https://apeconcerts.com/events/michelle-branch-261002/",
       "venue": "The Castro"
@@ -5695,6 +5948,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Geordie Greep",
       "url": "https://apeconcerts.com/events/geordie-greep-261003/",
       "venue": "The Castro"
@@ -5704,6 +5958,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "She & Him",
       "url": "https://apeconcerts.com/events/she-him-261005/",
       "venue": "The Castro"
@@ -5713,6 +5968,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sammy Rae & The Friends",
       "url": "https://apeconcerts.com/events/sammy-rae-261006/",
       "venue": "The Castro"
@@ -5722,6 +5978,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Sammy Rae & The Friends",
       "url": "https://apeconcerts.com/events/sammy-rae-and-the-friends-261007/",
       "venue": "The Castro"
@@ -5731,6 +5988,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Mon Rov\u00eea",
       "url": "https://apeconcerts.com/events/mon-rovia-261008/",
       "venue": "The Castro"
@@ -5740,6 +5998,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Jacob Collier",
       "url": "https://apeconcerts.com/events/jacob-collier-261010/",
       "venue": "The Castro"
@@ -5749,6 +6008,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Finn Wolfhard",
       "url": "https://apeconcerts.com/events/finn-wolfhard-261014/",
       "venue": "The Castro"
@@ -5758,6 +6018,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Iron & Wine",
       "url": "https://apeconcerts.com/events/iron-and-wine-261016/",
       "venue": "The Castro"
@@ -5767,6 +6028,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Blondshell",
       "url": "https://apeconcerts.com/events/blondshell-261017/",
       "venue": "The Castro"
@@ -5776,6 +6038,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dinosaur Jr.",
       "url": "https://apeconcerts.com/events/dinosaur-jr-261018/",
       "venue": "The Castro"
@@ -5785,6 +6048,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "almost monday",
       "url": "https://apeconcerts.com/events/almost-monday-261019/",
       "venue": "The Castro"
@@ -5794,6 +6058,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Shakey Graves",
       "url": "https://apeconcerts.com/events/shakey-graves-261020/",
       "venue": "The Castro"
@@ -5803,6 +6068,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Todd Rundgren",
       "url": "https://apeconcerts.com/events/todd-rundgren-261021/",
       "venue": "The Castro"
@@ -5812,6 +6078,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Julia Jacklin",
       "url": "https://apeconcerts.com/events/julia-jacklin-261023/",
       "venue": "The Castro"
@@ -5821,6 +6088,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Julia Jacklin",
       "url": "https://apeconcerts.com/events/julia-jacklin-261024/",
       "venue": "The Castro"
@@ -5830,6 +6098,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
       "url": "https://apeconcerts.com/events/fred-armisen-261027/",
       "venue": "The Castro"
@@ -5839,6 +6108,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
       "url": "https://apeconcerts.com/events/fred-armisen-261028/",
       "venue": "The Castro"
@@ -5848,6 +6118,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Da\u00f0i Freyr",
       "url": "https://apeconcerts.com/events/dadi-freyr-261029/",
       "venue": "The Castro"
@@ -5857,6 +6128,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "SYML",
       "url": "https://apeconcerts.com/events/syml-261106/",
       "venue": "The Castro"
@@ -5866,6 +6138,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PJ Morton",
       "url": "https://apeconcerts.com/events/pj-morton-261107/",
       "venue": "The Castro"
@@ -5875,6 +6148,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Sienna Spiro",
       "url": "https://apeconcerts.com/events/sienna-spiro-261109/",
       "venue": "The Castro"
@@ -5884,6 +6158,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "\u00d3lafur Arnalds",
       "url": "https://apeconcerts.com/events/olafur-arnalds-261111/",
       "venue": "The Castro"
@@ -5893,6 +6168,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "\u00d3lafur Arnalds",
       "url": "https://apeconcerts.com/events/olafur-arnalds-261112/",
       "venue": "The Castro"
@@ -5902,6 +6178,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Paul Cauthen",
       "url": "https://apeconcerts.com/events/paul-cauthen-261114/",
       "venue": "The Castro"
@@ -5911,6 +6188,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Rodrigo y Gabriela",
       "url": "https://apeconcerts.com/events/rodrigo-y-gabriela-261115/",
       "venue": "The Castro"
@@ -5920,6 +6198,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BERTHA: Grateful Drag",
       "url": "https://apeconcerts.com/events/bertha-grateful-drag-261121/",
       "venue": "The Castro"
@@ -5929,6 +6208,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dweezil Zappa",
       "url": "https://apeconcerts.com/events/dweezil-zappa-261129/",
       "venue": "The Castro"
@@ -5938,6 +6218,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sandra Bernhard",
       "url": "https://apeconcerts.com/events/sandra-bernhard-261203/",
       "venue": "The Castro"
@@ -5947,6 +6228,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Angine de Poitrine",
       "url": "https://apeconcerts.com/events/angine-de-poitrine-261207/",
       "venue": "The Castro"
@@ -5956,6 +6238,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tiny Habits",
       "url": "https://apeconcerts.com/events/tiny-habits-261212/",
       "venue": "The Castro"
@@ -5965,6 +6248,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Yaelokre",
       "url": "https://apeconcerts.com/events/yaelokre-261213/",
       "venue": "The Castro"
@@ -5974,6 +6258,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Futurebirds",
       "url": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel",
       "venue": "The Chapel"
@@ -5983,6 +6268,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Babe Rainbow",
       "url": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
       "venue": "The Chapel"
@@ -5992,6 +6278,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "LOVE SUPREME Summer Day Party Series",
       "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6001,6 +6288,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Friendship",
       "url": "https://wl.seetickets.us/event/friendship/693120?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6010,6 +6298,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Natural Information Society & Bitchin Bajas",
       "url": "https://wl.seetickets.us/event/natural-information-society-and-bitchin-bajas/684112?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6019,6 +6308,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "James McMurtry and the Martial Law Review",
       "url": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685861?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6028,6 +6318,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "James McMurtry and the Martial Law Review",
       "url": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685865?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6037,6 +6328,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Meatbodies",
       "url": "https://wl.seetickets.us/event/meatbodies/692739?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6046,6 +6338,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Crosseyed",
       "url": "https://wl.seetickets.us/event/the-crosseyed/692844?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6055,6 +6348,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "CORDUROY - The Pearl Jam Experience",
       "url": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6064,6 +6358,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Alela Diane",
       "url": "https://wl.seetickets.us/event/alela-diane/688615?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6073,6 +6368,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Robots of the Ancient World",
       "url": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6082,6 +6378,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Cobweb Cabaret",
       "url": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6091,6 +6388,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Deradoorian",
       "url": "https://wl.seetickets.us/event/deradoorian/694766?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6100,6 +6398,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Man Man",
       "url": "https://wl.seetickets.us/event/man-man/685629?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6109,6 +6408,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "YPC After Dark ft. David Harness",
       "url": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6118,6 +6418,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "LOVE SUPREME Summer Day Party Series",
       "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6127,6 +6428,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Valerie June",
       "url": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6136,6 +6438,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Valerie June",
       "url": "https://wl.seetickets.us/event/valerie-june/686251?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6145,6 +6448,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Black Joe Lewis & The Honeybears",
       "url": "https://wl.seetickets.us/event/black-joe-lewis-and-the-honeybears/690098?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6154,6 +6458,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Electric Duke, Temptation - Tribute to New Order",
       "url": "https://wl.seetickets.us/event/electric-duke-temptation-tribute-to-new-order/693149?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6163,6 +6468,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Cocteaufest SF Night #2 with Simon Raymonde (DJ Set)",
       "url": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-simon-raymonde-dj-set/684955?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6172,6 +6478,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Built to Spill",
       "url": "https://wl.seetickets.us/event/built-to-spill/683036?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6181,6 +6488,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Built to Spill",
       "url": "https://wl.seetickets.us/event/built-to-spill/683043?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6190,6 +6498,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Built to Spill",
       "url": "https://wl.seetickets.us/event/built-to-spill/683046?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6199,6 +6508,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "OSEES ft. Brigid Dawson",
       "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672239?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6208,6 +6518,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "OSEES ft. Brigid Dawson",
       "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672246?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6217,6 +6528,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "OSEES ft. Brigid Dawson",
       "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672247?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6226,6 +6538,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "OSEES ft. Brigid Dawson",
       "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6235,6 +6548,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pink Breath of Heaven",
       "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699433?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6244,6 +6558,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "An Evening With Drink The Sea",
       "url": "https://wl.seetickets.us/event/an-evening-with-drink-the-sea/691451?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6253,6 +6568,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pink Breath of Heaven",
       "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699436?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6262,6 +6578,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Acid Tongue: The Farewell Show",
       "url": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6271,6 +6588,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Carla dal Forno",
       "url": "https://wl.seetickets.us/event/carla-dal-forno/689760?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6280,6 +6598,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Magic Sword",
       "url": "https://wl.seetickets.us/event/magic-sword/698674?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6289,6 +6608,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Shawn James",
       "url": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6298,6 +6618,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "LOVE SUPREME Summer Day Party Series",
       "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697838?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6307,6 +6628,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Marlon Magn\u00e9e (of La Femme)",
       "url": "https://wl.seetickets.us/event/marlon-magnee-of-la-femme/670503?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6316,6 +6638,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Temples: The BLISS Tour",
       "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687358?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6325,6 +6648,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Temples: The BLISS Tour",
       "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6334,6 +6658,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sophie Truax",
       "url": "https://wl.seetickets.us/event/sophie-truax/697003?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6343,6 +6668,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FAILURE: Rising Skyline 2026",
       "url": "https://wl.seetickets.us/event/failure-rising-skyline-2026/688890?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6352,6 +6678,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Soda Blonde",
       "url": "https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6361,6 +6688,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lyrics Born",
       "url": "https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6370,6 +6698,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Rum Jungle",
       "url": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6379,6 +6708,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Lilyisthatyou",
       "url": "https://wl.seetickets.us/event/lilyisthatyou/689080?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6388,6 +6718,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "An Evening With Lloyd Cole (Solo Electric)",
       "url": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6397,6 +6728,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Militarie Gun",
       "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6406,6 +6738,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Hot Flash Heat Wave",
       "url": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6415,6 +6748,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Am\u00e9lie Farren, Lilith Max, Rabbitology",
       "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6424,6 +6758,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "LOVE SUPREME Summer Day Party Series",
       "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697839?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6433,6 +6768,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Hovvdy",
       "url": "https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6442,6 +6778,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Devil Makes Three",
       "url": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6451,6 +6788,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Devil Makes Three",
       "url": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6460,6 +6798,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Justin Nozuka",
       "url": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6469,6 +6808,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Weatherday: Hornet Disaster Tour 2026",
       "url": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6478,6 +6818,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The War And Treaty",
       "url": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6487,6 +6828,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Theo Katzman (Solo)",
       "url": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6496,6 +6838,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Katie Pruitt",
       "url": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6505,6 +6848,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Limi\u00f1anas",
       "url": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6514,6 +6858,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Squirrel Flower",
       "url": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6523,6 +6868,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Alex Cameron",
       "url": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6532,6 +6878,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Celebrating 50 Years of Buzzcocks",
       "url": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6541,6 +6888,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Marc Broussard",
       "url": "https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6550,6 +6898,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Other Lives",
       "url": "https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6559,6 +6908,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Cactus Blossoms",
       "url": "https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6568,6 +6918,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "An Evening With Craig Finn & The Band of Forgiveness",
       "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6577,6 +6928,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Margaret Glaspy",
       "url": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6586,6 +6938,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MADDIE ZAHM",
       "url": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6595,6 +6948,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Buck Meek",
       "url": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6604,6 +6958,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Book of Love: 40th Anniversary Tour",
       "url": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/689091?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6613,6 +6968,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Book of Love: 40th Anniversary Tour",
       "url": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/691276?afflky=TheChapel",
       "venue": "The Chapel"
@@ -6622,6 +6978,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pete Floyd",
       "url": "https://wl.seetickets.us/event/pete-floyd/698706?afflky=TheChapel",
       "venue": "The Chapel"
@@ -7063,6 +7420,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Los Tranquilos",
       "url": "https://apeconcerts.com/events/los-tranquilos-260718/",
       "venue": "The Independent"
@@ -7072,6 +7430,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Chinese American Bear",
       "url": "https://apeconcerts.com/events/chinese-american-bear-260719/",
       "venue": "The Independent"
@@ -7081,6 +7440,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Riff Wood",
       "url": "https://apeconcerts.com/events/riff-wood-260723/",
       "venue": "The Independent"
@@ -7090,6 +7450,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Diggy Graves",
       "url": "https://apeconcerts.com/events/diggy-graves/",
       "venue": "The Independent"
@@ -7099,6 +7460,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "WU LYF",
       "url": "https://apeconcerts.com/events/wu-lyf-260507/",
       "venue": "The Independent"
@@ -7108,6 +7470,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "chandol",
       "url": "https://apeconcerts.com/events/chandol-260731/",
       "venue": "The Independent"
@@ -7117,6 +7480,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "US Air Guitar National Finals",
       "url": "https://apeconcerts.com/events/us-air-guitar-260801/",
       "venue": "The Independent"
@@ -7126,6 +7490,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Clipse",
       "url": "https://apeconcerts.com/events/clipse-260806/",
       "venue": "The Independent"
@@ -7135,6 +7500,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "GRiZ",
       "url": "https://apeconcerts.com/events/griz-260807/",
       "venue": "The Independent"
@@ -7144,6 +7510,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Goldie Boutilier",
       "url": "https://apeconcerts.com/events/goldie-boutilier-260808/",
       "venue": "The Independent"
@@ -7153,6 +7520,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ben B\u00f6hmer",
       "url": "https://apeconcerts.com/events/ben-bohmer-260809/",
       "venue": "The Independent"
@@ -7162,6 +7530,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Greg Mendez",
       "url": "https://apeconcerts.com/events/greg-mendez-260812/",
       "venue": "The Independent"
@@ -7171,6 +7540,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FOUR SQUARE VOL 2",
       "url": "https://apeconcerts.com/events/frak-260814/",
       "venue": "The Independent"
@@ -7180,6 +7550,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Krooked Kings",
       "url": "https://apeconcerts.com/events/krooked-kings-260815/",
       "venue": "The Independent"
@@ -7189,6 +7560,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Angine de Poitrine",
       "url": "https://apeconcerts.com/events/angine-de-poitrine-260819/",
       "venue": "The Independent"
@@ -7198,6 +7570,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "G Flip",
       "url": "https://apeconcerts.com/events/g-flip-260820/",
       "venue": "The Independent"
@@ -7207,6 +7580,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Niina Soleil",
       "url": "https://apeconcerts.com/events/niina-soleil-260821/",
       "venue": "The Independent"
@@ -7216,6 +7590,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Pearl & The Oysters",
       "url": "https://apeconcerts.com/events/pearl-and-the-oysters-260822/",
       "venue": "The Independent"
@@ -7225,6 +7600,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Son Rompe Pera",
       "url": "https://apeconcerts.com/events/son-rompe-pera-260827/",
       "venue": "The Independent"
@@ -7234,6 +7610,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Wax + DJ Hoppa",
       "url": "https://apeconcerts.com/events/wax-and-dj-hoppa-260828/",
       "venue": "The Independent"
@@ -7243,6 +7620,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Brenn!",
       "url": "https://apeconcerts.com/events/brenn-260829/",
       "venue": "The Independent"
@@ -7252,6 +7630,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tonic Walter",
       "url": "https://apeconcerts.com/events/tonic-walter-260904/",
       "venue": "The Independent"
@@ -7261,6 +7640,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Emo Night Tour",
       "url": "https://apeconcerts.com/events/the-emo-night-tour-260905/",
       "venue": "The Independent"
@@ -7270,6 +7650,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "PawPaw Rod",
       "url": "https://apeconcerts.com/events/pawpaw-rod-260908/",
       "venue": "The Independent"
@@ -7279,6 +7660,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Kevin Atwater",
       "url": "https://apeconcerts.com/events/kevin-atwater-260909/",
       "venue": "The Independent"
@@ -7288,6 +7670,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Rules",
       "url": "https://apeconcerts.com/events/rules-260910/",
       "venue": "The Independent"
@@ -7297,6 +7680,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Arlo",
       "url": "https://apeconcerts.com/events/arlo-260911/",
       "venue": "The Independent"
@@ -7306,6 +7690,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BL3SS",
       "url": "https://apeconcerts.com/events/bl3ss-260912/",
       "venue": "The Independent"
@@ -7315,6 +7700,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Towa Bird",
       "url": "https://apeconcerts.com/events/towa-bird-260913/",
       "venue": "The Independent"
@@ -7324,6 +7710,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Tear Garden",
       "url": "https://apeconcerts.com/events/the-tear-garden-260915/",
       "venue": "The Independent"
@@ -7333,6 +7720,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Mustard Service",
       "url": "https://apeconcerts.com/events/mustard-service-260917/",
       "venue": "The Independent"
@@ -7342,6 +7730,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Daniel Avery Live",
       "url": "https://apeconcerts.com/events/daniel-avery-live-260918/",
       "venue": "The Independent"
@@ -7351,6 +7740,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "EVAN GIIA",
       "url": "https://apeconcerts.com/events/evan-giia-260919/",
       "venue": "The Independent"
@@ -7360,6 +7750,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "deca joins",
       "url": "https://apeconcerts.com/events/deca-joins-260920/",
       "venue": "The Independent"
@@ -7369,6 +7760,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sondre Lerche",
       "url": "https://apeconcerts.com/events/sondre-lerche-260921/",
       "venue": "The Independent"
@@ -7378,6 +7770,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dana and Alden",
       "url": "https://apeconcerts.com/events/dana-and-alden-260922/",
       "venue": "The Independent"
@@ -7387,6 +7780,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ghostly Kisses",
       "url": "https://apeconcerts.com/events/ghostly-kisses-260923/",
       "venue": "The Independent"
@@ -7396,6 +7790,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "WesGhost & Red Leather",
       "url": "https://apeconcerts.com/events/wesghost-and-red-leather-260924/",
       "venue": "The Independent"
@@ -7405,6 +7800,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "In Color",
       "url": "https://apeconcerts.com/events/in-color-260925/",
       "venue": "The Independent"
@@ -7414,6 +7810,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "West 22nd",
       "url": "https://apeconcerts.com/events/west-22nd-260926/",
       "venue": "The Independent"
@@ -7423,6 +7820,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Way Dynamic",
       "url": "https://apeconcerts.com/events/way-dynamic-260929/",
       "venue": "The Independent"
@@ -7432,6 +7830,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Chasing Abbey",
       "url": "https://apeconcerts.com/events/chasing-abbey-260930/",
       "venue": "The Independent"
@@ -7441,6 +7840,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "Mari Froes",
       "url": "https://apeconcerts.com/events/mari-froes-261001/",
       "venue": "The Independent"
@@ -7450,6 +7850,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ROYA",
       "url": "https://apeconcerts.com/events/roya-261003/",
       "venue": "The Independent"
@@ -7459,6 +7860,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "rusowsky",
       "url": "https://apeconcerts.com/events/rusowsky-261004/",
       "venue": "The Independent"
@@ -7468,6 +7870,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Enter Shikari",
       "url": "https://apeconcerts.com/events/enter-shikari-261006/",
       "venue": "The Independent"
@@ -7477,6 +7880,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Deer Tick",
       "url": "https://apeconcerts.com/events/deer-tick-261007/",
       "venue": "The Independent"
@@ -7486,6 +7890,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Devon Gilfillian",
       "url": "https://apeconcerts.com/events/devon-gilfillian-261009/",
       "venue": "The Independent"
@@ -7495,6 +7900,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "dublon",
       "url": "https://apeconcerts.com/events/dublon-261010/",
       "venue": "The Independent"
@@ -7504,6 +7910,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Santiago Cruz",
       "url": "https://apeconcerts.com/events/santiago-cruz-261011/",
       "venue": "The Independent"
@@ -7513,6 +7920,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "KiNG MALA",
       "url": "https://apeconcerts.com/events/king-mala-261012/",
       "venue": "The Independent"
@@ -7522,6 +7930,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Automatic",
       "url": "https://apeconcerts.com/events/automatic-261013/",
       "venue": "The Independent"
@@ -7531,6 +7940,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Juice",
       "url": "https://apeconcerts.com/events/juice-261014/",
       "venue": "The Independent"
@@ -7540,6 +7950,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "This is Lorelei",
       "url": "https://apeconcerts.com/events/this-is-lorelai-261016/",
       "venue": "The Independent"
@@ -7549,6 +7960,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Asha Banks",
       "url": "https://apeconcerts.com/events/asha-banks-261017/",
       "venue": "The Independent"
@@ -7558,6 +7970,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "New Constellations",
       "url": "https://apeconcerts.com/events/new-constellations-261019/",
       "venue": "The Independent"
@@ -7567,6 +7980,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sawyer Hill",
       "url": "https://apeconcerts.com/events/sawyer-hill-261020/",
       "venue": "The Independent"
@@ -7576,6 +7990,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "City of the Sun",
       "url": "https://apeconcerts.com/events/city-of-the-sun-261021/",
       "venue": "The Independent"
@@ -7585,6 +8000,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Frankie Cosmos \u2013 Celebrating 10 Years of Next Thing",
       "url": "https://apeconcerts.com/events/frankie-cosmos-261022/",
       "venue": "The Independent"
@@ -7594,6 +8010,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Frog",
       "url": "https://apeconcerts.com/events/frog-261023/",
       "venue": "The Independent"
@@ -7603,6 +8020,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Everclear",
       "url": "https://apeconcerts.com/events/everclear-261024/",
       "venue": "The Independent"
@@ -7612,6 +8030,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BALTHVS",
       "url": "https://apeconcerts.com/events/balthvs-261025/",
       "venue": "The Independent"
@@ -7621,6 +8040,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "The Wldlfe",
       "url": "https://apeconcerts.com/events/the-wldlfe-261027/",
       "venue": "The Independent"
@@ -7630,6 +8050,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Freak Slug",
       "url": "https://apeconcerts.com/events/freak-slug-261028/",
       "venue": "The Independent"
@@ -7639,6 +8060,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "High Step Society",
       "url": "https://apeconcerts.com/events/high-step-society-261030/",
       "venue": "The Independent"
@@ -7648,6 +8070,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Gilla Band",
       "url": "https://apeconcerts.com/events/gilla-band-261103/",
       "venue": "The Independent"
@@ -7657,6 +8080,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "INOHA",
       "url": "https://apeconcerts.com/events/inoha-261104/",
       "venue": "The Independent"
@@ -7666,6 +8090,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "King Buffalo",
       "url": "https://apeconcerts.com/events/king-buffalo-261106/",
       "venue": "The Independent"
@@ -7675,6 +8100,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Karina Rykman",
       "url": "https://apeconcerts.com/events/karina-rykman-261107/",
       "venue": "The Independent"
@@ -7684,6 +8110,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Stop Light Observations",
       "url": "https://apeconcerts.com/events/stop-light-observations-261111/",
       "venue": "The Independent"
@@ -7693,6 +8120,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Stephen Day",
       "url": "https://apeconcerts.com/events/stephen-day-261112/",
       "venue": "The Independent"
@@ -7702,6 +8130,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Sean Hayes",
       "url": "https://apeconcerts.com/events/sean-hayes-261114/",
       "venue": "The Independent"
@@ -7711,6 +8140,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "strongboi",
       "url": "https://apeconcerts.com/events/strongboi-261115/",
       "venue": "The Independent"
@@ -7720,6 +8150,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Silverada",
       "url": "https://apeconcerts.com/events/silverada-261117/",
       "venue": "The Independent"
@@ -7729,6 +8160,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dan Whitlam",
       "url": "https://apeconcerts.com/events/dan-whitlam-261120/",
       "venue": "The Independent"
@@ -7738,6 +8170,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MEEK",
       "url": "https://apeconcerts.com/events/meek-261203/",
       "venue": "The Independent"
@@ -7747,6 +8180,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dragon Smoke",
       "url": "https://apeconcerts.com/events/dragon-smoke-261205/",
       "venue": "The Independent"
@@ -7756,6 +8190,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Fireworks",
       "url": "https://apeconcerts.com/events/fireworks-261206/",
       "venue": "The Independent"
@@ -7765,6 +8200,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "feeble little horse",
       "url": "https://apeconcerts.com/events/feeble-little-horse-261209/",
       "venue": "The Independent"
@@ -7774,6 +8210,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "feeble little horse",
       "url": "https://apeconcerts.com/events/feeble-little-horse-261210/",
       "venue": "The Independent"
@@ -7783,6 +8220,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "THE BOBBY LEES",
       "url": "https://apeconcerts.com/events/the-bobby-lees-261211/",
       "venue": "The Independent"
@@ -7792,6 +8230,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Swervedriver",
       "url": "https://apeconcerts.com/events/swervedriver-261213/",
       "venue": "The Independent"
@@ -7801,6 +8240,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Willi Carlisle",
       "url": "https://apeconcerts.com/events/willi-carlisle-261214/",
       "venue": "The Independent"
@@ -7810,6 +8250,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Com Truise b2b Matthew Dear",
       "url": "https://apeconcerts.com/events/com-truise-and-matthew-dear-270108/",
       "venue": "The Independent"
@@ -7819,6 +8260,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Odezenne",
       "url": "https://apeconcerts.com/events/odezenne-260218/",
       "venue": "The Independent"
@@ -7828,6 +8270,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Dan and Peggy Reeder",
       "url": "https://apeconcerts.com/events/dan-and-peggy-reeder-270325/",
       "venue": "The Independent"
@@ -8224,6 +8667,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Bed By 10PM",
       "url": "https://www.tixr.com/groups/midwaysf/events/bed-by-10pm-185830",
       "venue": "The Midway"
@@ -8233,6 +8677,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Intimate Night with Pixel",
       "url": "https://www.tixr.com/groups/midwaysf/events/intimate-night-with-pixel-194118",
       "venue": "The Midway"
@@ -8242,6 +8687,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Uncle Waffles - The Midway's 9 Year Anniversary",
       "url": "https://www.tixr.com/groups/midwaysf/events/uncle-waffles-the-midway-s-9-year-anniversary-186889",
       "venue": "The Midway"
@@ -8251,6 +8697,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Super Perreo - Latin Rave Experience",
       "url": "https://www.tixr.com/groups/midwaysf/events/super-perreo-latin-rave-experience-193469",
       "venue": "The Midway"
@@ -8260,6 +8707,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Deb\u00ed BaiLAr M\u00e1S PerrEO (Bad Bunny + More - Dance Night)",
       "url": "https://www.tixr.com/groups/midwaysf/events/deb-bailar-m-s-perreo-bad-bunny-more-dance-night--191364",
       "venue": "The Midway"
@@ -8269,6 +8717,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "Dirtwire, Savej & Thug Shells at 888 Garage",
       "url": "https://www.tixr.com/groups/midwaysf/events/dirtwire-savej-thug-shells-at-888-garage-195240",
       "venue": "The Midway"
@@ -8278,6 +8727,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "NIIKO X SWAE",
       "url": "https://www.tixr.com/groups/midwaysf/events/niiko-x-swae-187871",
       "venue": "The Midway"
@@ -8287,6 +8737,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": true,
       "title": "Party Pupils x Goshfather - Disco House vs . Yacht House",
       "url": "https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-disco-house-vs-yacht-house-190125",
       "venue": "The Midway"
@@ -8296,6 +8747,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
+      "sold_out": false,
       "title": "PERREOLAND - The Ultimate Reggaeton Experience",
       "url": "https://www.tixr.com/groups/midwaysf/events/perreoland-the-ultimate-reggaeton-experience-193284",
       "venue": "The Midway"
@@ -8305,6 +8757,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Emmit Fenn",
       "url": "https://www.tixr.com/groups/midwaysf/events/emmit-fenn-194640",
       "venue": "The Midway"
@@ -8314,6 +8767,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "House of Joy: Sanjoy + ARINI",
       "url": "https://www.tixr.com/groups/midwaysf/events/house-of-joy-sanjoy-arini-199004",
       "venue": "The Midway"
@@ -8323,6 +8777,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Ero808",
       "url": "https://www.tixr.com/groups/midwaysf/events/ero808-195341",
       "venue": "The Midway"
@@ -8332,6 +8787,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "R&B Fest",
       "url": "https://www.tixr.com/groups/midwaysf/events/r-b-fest-186654",
       "venue": "The Midway"
@@ -8341,6 +8797,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Beyond The Fence Playa Bound Trunk Show",
       "url": "https://www.tixr.com/groups/midwaysf/events/beyond-the-fence-playa-bound-trunk-show-195506",
       "venue": "The Midway"
@@ -8350,6 +8807,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Zack Fox",
       "url": "https://www.tixr.com/groups/midwaysfgv/events/zack-fox-182813",
       "venue": "The Midway"
@@ -8359,6 +8817,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": true,
       "title": "CIRCUS AETERNUS",
       "url": "https://www.tixr.com/groups/midwaysf/events/circus-aeternus-198666",
       "venue": "The Midway"
@@ -8368,6 +8827,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Project 52 Wrap Party w/ Anjali Asha",
       "url": "https://www.tixr.com/groups/midwaysf/events/project-52-wrap-party-w-anjali-asha-196011",
       "venue": "The Midway"
@@ -8377,6 +8837,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "DMC USA FINALS 2026 - SAN FRANCISCO",
       "url": "https://www.tixr.com/groups/midwaysf/events/dmc-usa-finals-2026-san-francisco-188791",
       "venue": "The Midway"
@@ -8386,6 +8847,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Vini Vici",
       "url": "https://www.tixr.com/groups/midwaysf/events/vini-vici-194353",
       "venue": "The Midway"
@@ -8395,6 +8857,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Monstercat 15 Year",
       "url": "https://www.tixr.com/groups/midwaysf/events/monstercat-15-year-198021",
       "venue": "The Midway"
@@ -8404,6 +8867,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Reggaeton Rave",
       "url": "https://www.tixr.com/groups/midwaysf/events/reggaeton-rave-195526",
       "venue": "The Midway"
@@ -8413,6 +8877,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "2000's Rave",
       "url": "https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874",
       "venue": "The Midway"
@@ -8422,6 +8887,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Bass Brunch by Thematic Entertainment",
       "url": "https://www.tixr.com/groups/midwaysf/events/bass-brunch-by-thematic-entertainment-192386",
       "venue": "The Midway"
@@ -8431,6 +8897,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "FIGHT NIGHT: LIVE WRESTLING RAVE - CAGE MATCH",
       "url": "https://www.tixr.com/groups/midwaysf/events/fight-night-live-wrestling-rave-cage-match-198643",
       "venue": "The Midway"
@@ -8440,6 +8907,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Caravan Oasis",
       "url": "https://www.tixr.com/groups/midwaysf/events/caravan-oasis-197994",
       "venue": "The Midway"
@@ -8449,6 +8917,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "THANK U NEXT (Ariana Grande Dance Night)",
       "url": "https://www.tixr.com/groups/midwaysf/events/thank-u-next-ariana-grande-dance-night--199030",
       "venue": "The Midway"
@@ -8458,6 +8927,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "DISCIP",
       "url": "https://www.tixr.com/groups/midwaysf/events/discip-189250",
       "venue": "The Midway"
@@ -8467,6 +8937,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "5th Annual Green Party",
       "url": "https://www.tixr.com/groups/midwaysf/events/5th-annual-green-party-196640",
       "venue": "The Midway"
@@ -8476,6 +8947,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MOLLY SANTANA X NORTH WEST KIMOKAWAII TOUR",
       "url": "https://www.tixr.com/groups/midwaysf/events/molly-santana-x-north-west-kimokawaii-tour-194651",
       "venue": "The Midway"
@@ -8485,6 +8957,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "bradeazy",
       "url": "https://www.tixr.com/groups/midwaysf/events/bradeazy-194330",
       "venue": "The Midway"
@@ -8494,6 +8967,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "BRESH",
       "url": "https://www.tixr.com/groups/midwaysf/events/bresh-194319",
       "venue": "The Midway"
@@ -8503,6 +8977,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MADVKTM - AMALGAMATION",
       "url": "https://www.tixr.com/groups/midwaysf/events/madvktm-amalgamation-178537",
       "venue": "The Midway"
@@ -8512,6 +8987,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "KASBO Labyrinth Tour",
       "url": "https://www.tixr.com/groups/midwaysf/events/kasbo-labyrinth-tour-188803",
       "venue": "The Midway"
@@ -8521,6 +8997,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Black Tiger Sex Machine & Kai Wachi Block Party",
       "url": "https://www.tixr.com/groups/midwaysf/events/black-tiger-sex-machine-kai-wachi-block-party-193518",
       "venue": "The Midway"
@@ -8530,6 +9007,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Costa",
       "url": "https://www.tixr.com/groups/midwaysf/events/costa-195355",
       "venue": "The Midway"
@@ -8539,6 +9017,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Electroluxx Block Party: Purple Disco Machine, RuPaul + MORE",
       "url": "https://www.tixr.com/groups/midwaysf/events/electroluxx-block-party-purple-disco-machine-rupaul-more-188276",
       "venue": "The Midway"
@@ -8548,6 +9027,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "R&B and RIBS Block Party with Lloyd, Keri Hilson, Soulja Boy",
       "url": "https://www.tixr.com/groups/midwaysf/events/r-b-and-ribs-block-party-with-lloyd-keri-hilson-soulja-boy-197276",
       "venue": "The Midway"
@@ -8557,6 +9037,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "HIERO DAY",
       "url": "https://www.tixr.com/groups/midwaysf/events/hiero-day-189661",
       "venue": "The Midway"
@@ -8566,6 +9047,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Flux Pavilion",
       "url": "https://www.tixr.com/groups/midwaysf/events/flux-pavilion-188802",
       "venue": "The Midway"
@@ -8575,6 +9057,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Chai & Beats: San Francisco",
       "url": "https://www.tixr.com/groups/midwaysf/events/chai-beats-san-francisco-193865",
       "venue": "The Midway"
@@ -8584,6 +9067,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Whales",
       "url": "https://www.tixr.com/groups/midwaysf/events/whales-196023",
       "venue": "The Midway"
@@ -8593,6 +9077,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Satin Jackets",
       "url": "https://www.tixr.com/groups/midwaysf/events/satin-jackets-194168",
       "venue": "The Midway"
@@ -8602,6 +9087,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Taiwan Golden Melody Night",
       "url": "https://www.tixr.com/groups/midwaysf/events/taiwan-golden-melody-night-196850",
       "venue": "The Midway"
@@ -8611,6 +9097,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Whipped Cream",
       "url": "https://www.tixr.com/groups/midwaysf/events/whipped-cream-189011",
       "venue": "The Midway"
@@ -8620,6 +9107,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Polo & Pan - Americas Tour Block Party",
       "url": "https://www.tixr.com/groups/midwaysf/events/polo-pan-americas-tour-block-party-191131",
       "venue": "The Midway"
@@ -8629,6 +9117,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Tinlicker Live",
       "url": "https://www.tixr.com/groups/midwaysfgv/events/tinlicker-live-186833",
       "venue": "The Midway"
@@ -8638,6 +9127,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Yheti & Toadface present Sleight of Sound Tour",
       "url": "https://www.tixr.com/groups/midwaysf/events/yheti-toadface-present-sleight-of-sound-tour-197309",
       "venue": "The Midway"
@@ -8647,6 +9137,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Chief Keef",
       "url": "https://www.tixr.com/groups/midwaysf/events/chief-keef-197581",
       "venue": "The Midway"
@@ -8656,6 +9147,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Marc Rebillet, Franc Moody & Chromeo Block Party",
       "url": "https://www.tixr.com/groups/midwaysf/events/marc-rebillet-franc-moody-chromeo-block-party-195529",
       "venue": "The Midway"
@@ -8665,6 +9157,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "MONO Music Conference 2026",
       "url": "https://www.tixr.com/groups/midwaysf/events/mono-music-conference-2026-194158",
       "venue": "The Midway"
@@ -8674,6 +9167,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "Valentino Khan",
       "url": "https://www.tixr.com/groups/midwaysf/events/valentino-khan-192686",
       "venue": "The Midway"
@@ -8683,6 +9177,7 @@
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
+      "sold_out": false,
       "title": "ZINGARA - The Aliens Are Making Sounds",
       "url": "https://www.tixr.com/groups/midwaysf/events/zingara-the-aliens-are-making-sounds-198168",
       "venue": "The Midway"
