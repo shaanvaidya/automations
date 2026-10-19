@@ -1,54 +1,7 @@
 {
-  "last_updated": "2026-10-12T18:13:36.016008-07:00",
+  "last_updated": "2026-10-19T15:54:42.382051-07:00",
   "schema_version": 1,
   "shows": {
-    "august-hall:2026-10-12:love-spells": {
-      "date": "2026-10-12",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Love Spells",
-      "url": "https://www.livenation.com/event/G5vYZ_udNvSDL/love-spells",
-      "venue": "August Hall"
-    },
-    "august-hall:2026-10-15:sim-hooman-world-tour": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "SiM - HOOMAN WORLD TOUR",
-      "url": "https://www.livenation.com/event/G5vYZ_1Hatgwr/sim-hooman-world-tour",
-      "venue": "August Hall"
-    },
-    "august-hall:2026-10-16:actress": {
-      "date": "2026-10-16",
-      "first_seen": "2026-08-03",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Actress",
-      "url": "https://www.livenation.com/event/G5vYZ_2Sato57/actress",
-      "venue": "August Hall"
-    },
-    "august-hall:2026-10-17:akeem-ali-the-texture-tour": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Akeem Ali - The Texture Tour",
-      "url": "https://www.livenation.com/event/G5vYZ_6DKxTks/akeem-ali-the-texture-tour",
-      "venue": "August Hall"
-    },
-    "august-hall:2026-10-18:nice-as-f-k-back-as-f-k-nice-as-ever": {
-      "date": "2026-10-18",
-      "first_seen": "2026-09-14",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "NICE AS F*#K - BACK AS F**K NICE AS EVER",
-      "url": "https://www.livenation.com/event/G5vYZ_3KgDy6X/nice-as-f-k-back-as-f-k-nice-as-ever",
-      "venue": "August Hall"
-    },
     "august-hall:2026-10-20:hazlett": {
       "date": "2026-10-20",
       "first_seen": "2026-07-18",
@@ -81,7 +34,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "SLIFT",
       "url": "https://www.livenation.com/event/G5vYZ_FDrVv2X/slift",
       "venue": "August Hall"
@@ -90,7 +43,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Protomartyr",
       "url": "https://www.livenation.com/event/G5vYZ_CCxpQM1/protomartyr",
       "venue": "August Hall"
@@ -99,7 +52,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-08-24",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Lil Pete: Real Is Back Tour",
       "url": "https://www.livenation.com/event/G5vYZ_o2ail3S/lil-pete-real-is-back-tour",
@@ -109,7 +62,7 @@
       "date": "2026-10-26",
       "first_seen": "2026-09-21",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Lil Pete: Real Is Back Tour",
       "url": "https://www.livenation.com/event/G5vYZ_Kd2cK1B/lil-pete-real-is-back-tour",
@@ -119,7 +72,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
       "url": "https://www.livenation.com/event/G5vYZ_1mcGTKW/ax-and-the-hatchetmen-the-late-checkout-tour-2026",
       "venue": "August Hall"
@@ -128,7 +81,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "A Twink and A Redhead",
       "url": "https://www.livenation.com/event/G5vYZ_ddJBzT9/a-twink-and-a-redhead",
       "venue": "August Hall"
@@ -478,36 +431,6 @@
       "url": "https://www.livenation.com/event/G5vYZ_2Kc8aP9/the-pre-show-speakeasy-with-hazlett",
       "venue": "August Hall"
     },
-    "bill-graham-civic-auditorium:2026-10-15:rawayana": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "RAWAYANA",
-      "url": "https://apeconcerts.com/events/rawayana-261015/",
-      "venue": "Bill Graham Civic Auditorium"
-    },
-    "bill-graham-civic-auditorium:2026-10-16:sara-bareilles": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Sara Bareilles",
-      "url": "https://apeconcerts.com/events/sara-bareilles-261016/",
-      "venue": "Bill Graham Civic Auditorium"
-    },
-    "bill-graham-civic-auditorium:2026-10-17:sara-bareilles": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Sara Bareilles",
-      "url": "https://apeconcerts.com/events/sara-bareilles-261017/",
-      "venue": "Bill Graham Civic Auditorium"
-    },
     "bill-graham-civic-auditorium:2026-10-22:monsta-x": {
       "date": "2026-10-22",
       "first_seen": "2026-07-18",
@@ -522,7 +445,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Dermot Kennedy",
       "url": "https://apeconcerts.com/events/dermot-kennedy-261024/",
@@ -668,71 +591,11 @@
       "url": "https://apeconcerts.com/events/fontaines-dc-270512/",
       "venue": "Bill Graham Civic Auditorium"
     },
-    "bimbo-s-365-club:2026-10-12:maro-moved-from-the-castro": {
-      "date": "2026-10-12",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "MARO \u2013 (MOVED FROM THE CASTRO)",
-      "url": "https://bimbos365club.com/tm-event/maro-moved-from-the-castro/",
-      "venue": "Bimbo's 365 Club"
-    },
-    "bimbo-s-365-club:2026-10-14:fightmaster": {
-      "date": "2026-10-14",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "FIGHTMASTER",
-      "url": "https://bimbos365club.com/tm-event/fightmaster/",
-      "venue": "Bimbo's 365 Club"
-    },
-    "bimbo-s-365-club:2026-10-15:world-famous-pets": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "World Famous Pets",
-      "url": "https://bimbos365club.com/tm-event/world-famous-pets/",
-      "venue": "Bimbo's 365 Club"
-    },
-    "bimbo-s-365-club:2026-10-16:tainted-love": {
-      "date": "2026-10-16",
-      "first_seen": "2026-08-03",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Tainted Love",
-      "url": "https://bimbos365club.com/tm-event/tainted-love-8/",
-      "venue": "Bimbo's 365 Club"
-    },
-    "bimbo-s-365-club:2026-10-17:lewis-ofman": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lewis OfMan",
-      "url": "https://bimbos365club.com/tm-event/lewis-ofman/",
-      "venue": "Bimbo's 365 Club"
-    },
-    "bimbo-s-365-club:2026-10-17:lewis-ofman-lealani": {
-      "date": "2026-10-17",
-      "first_seen": "2026-10-12",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lewis OfMan, Lealani",
-      "url": "https://bimbos365club.com/tm-event/lewis-ofman/",
-      "venue": "Bimbo's 365 Club"
-    },
     "bimbo-s-365-club:2026-10-28:aliza-kelly-s-haunted-tea-party-the-spooky-season-astrology-tour": {
       "date": "2026-10-28",
       "first_seen": "2026-08-03",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "ALIZA KELLY\u2019S HAUNTED TEA PARTY: The Spooky Season Astrology Tour",
       "url": "https://bimbos365club.com/tm-event/aliza-kellys-haunted-tea-party-the-spooky-season-astrology-tour/",
@@ -742,7 +605,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-08-31",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Lady Camden Presents: The Peach Pit Cabaret with Willow Pill & Special Guests",
       "url": "https://bimbos365club.com/tm-event/lady-camden-presents-the-peach-pit-cabaret-with-willow-pill-special-guests/",
@@ -888,6 +751,16 @@
       "url": "https://bimbos365club.com/tm-event/jd-mcpherson-socks-a-rock-n-roll-christmas-tour-with-special-guest-melissa-carper/",
       "venue": "Bimbo's 365 Club"
     },
+    "bimbo-s-365-club:2026-12-14:criminal-presents-don-t-worry-with-phoebe-judge": {
+      "date": "2026-12-14",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "CRIMINAL PRESENTS: DON'T WORRY WITH PHOEBE JUDGE",
+      "url": "https://bimbos365club.com/tm-event/criminal-presents-an-evening-with-phoebe-judge/",
+      "venue": "Bimbo's 365 Club"
+    },
     "bimbo-s-365-club:2026-12-16:pokey-lafarge": {
       "date": "2026-12-16",
       "first_seen": "2026-07-18",
@@ -898,110 +771,35 @@
       "url": "https://bimbos365club.com/tm-event/pokey-lafarge/",
       "venue": "Bimbo's 365 Club"
     },
-    "bottom-of-the-hill:2026-10-12:triclops-wife-gumby-s-junk": {
-      "date": "2026-10-12",
-      "first_seen": "2026-09-07",
+    "bimbo-s-365-club:2026-12-19:shaun-cassidy-unwrapped-songs-stories-for-the-holidays": {
+      "date": "2026-12-19",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "Triclops! ~ Wife ~ Gumby's Junk",
-      "url": "http://www.bottomofthehill.com/20261012.html",
-      "venue": "Bottom of the Hill"
+      "title": "Shaun Cassidy \u2013 UNWRAPPED: Songs & Stories For The Holidays",
+      "url": "https://bimbos365club.com/tm-event/shaun-cassidy-unwrapped-songs-stories-for-the-holidays/",
+      "venue": "Bimbo's 365 Club"
     },
-    "bottom-of-the-hill:2026-10-13:wolves-of-glendale-cor64": {
-      "date": "2026-10-13",
-      "first_seen": "2026-08-10",
+    "bimbo-s-365-club:2027-02-01:vansire-eliza-mclamb": {
+      "date": "2027-02-01",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "Wolves of Glendale : Cor64",
-      "url": "http://www.bottomofthehill.com/20261013.html",
-      "venue": "Bottom of the Hill"
+      "title": "Vansire, Eliza McLamb",
+      "url": "https://bimbos365club.com/tm-event/vansire/",
+      "venue": "Bimbo's 365 Club"
     },
-    "bottom-of-the-hill:2026-10-13:wolves-of-glendale-tba": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-18",
+    "bimbo-s-365-club:2027-03-01:marian-hill-act-two-the-tour": {
+      "date": "2027-03-01",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
-      "title": "Wolves of Glendale ~ TBA",
-      "url": "http://www.bottomofthehill.com/20261013.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-14:ee-punxsutawney-spa": {
-      "date": "2026-10-14",
-      "first_seen": "2026-09-07",
-      "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "Ee ~ Punxsutawney ~ Spa",
-      "url": "http://www.bottomofthehill.com/20261014.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-15:imperial-teen-crows": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-20",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Imperial Teen :: Crows",
-      "url": "http://www.bottomofthehill.com/20261015.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-15:imperial-teen-kids-on-a-crime-spree-tba": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Imperial Teen ~ Kids on a Crime Spree ~ TBA",
-      "url": "http://www.bottomofthehill.com/20261015.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-16:the-seshen-sweet-lew-cardboard-people": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "The Seshen ~ Sweet Lew ~ Cardboard People",
-      "url": "http://www.bottomofthehill.com/20261016.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-17:heavens-to-betsy-street-eaters-the-lilies": {
-      "date": "2026-10-17",
-      "first_seen": "2026-08-24",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "heavens to betsy : Street Eaters ~ The Lilies",
-      "url": "http://www.bottomofthehill.com/20261017.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-17:heavens-to-betsy-tba-tba": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "heavens to betsy ~ TBA ~ TBA",
-      "url": "http://www.bottomofthehill.com/20261017.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-18:heavens-to-betsy-for-horses-cut-rate-druggist": {
-      "date": "2026-10-18",
-      "first_seen": "2026-08-24",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "heavens to betsy : For Horses ~ Cut-Rate Druggist",
-      "url": "http://www.bottomofthehill.com/20261018.html",
-      "venue": "Bottom of the Hill"
-    },
-    "bottom-of-the-hill:2026-10-18:heavens-to-betsy-tba-tba": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "heavens to betsy ~ TBA ~ TBA",
-      "url": "http://www.bottomofthehill.com/20261018.html",
-      "venue": "Bottom of the Hill"
+      "title": "Marian Hill ACT TWO: THE TOUR",
+      "url": "https://bimbos365club.com/tm-event/marian-hill-act-two-the-tour/",
+      "venue": "Bimbo's 365 Club"
     },
     "bottom-of-the-hill:2026-10-21:kepi-ghoulie-electric-the-bloodtypes-pussy-velour": {
       "date": "2026-10-21",
@@ -1032,6 +830,16 @@
       "url": "http://www.bottomofthehill.com/20261022.html",
       "venue": "Bottom of the Hill"
     },
+    "bottom-of-the-hill:2026-10-22:fabio-frizzi-sasquatch-borracho": {
+      "date": "2026-10-22",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "Fabio Frizzi :: Sasquatch Borracho",
+      "url": "http://www.bottomofthehill.com/20261022.html",
+      "venue": "Bottom of the Hill"
+    },
     "bottom-of-the-hill:2026-10-22:fabio-frizzi-tba": {
       "date": "2026-10-22",
       "first_seen": "2026-10-05",
@@ -1046,7 +854,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-09-21",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "K.Flay",
       "url": "http://www.bottomofthehill.com/20261023.html",
@@ -1056,7 +864,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "K.Flay : Yogurt",
       "url": "http://www.bottomofthehill.com/20261023.html",
@@ -1066,7 +874,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-09-21",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "K.Flay",
       "url": "http://www.bottomofthehill.com/20261024.html",
@@ -1076,7 +884,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "K.Flay : Yogurt",
       "url": "http://www.bottomofthehill.com/20261024.html",
@@ -1086,7 +894,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Castle ~ Nite ~ Three Towers",
       "url": "http://www.bottomofthehill.com/20261025.html",
       "venue": "Bottom of the Hill"
@@ -1095,7 +903,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Slothrust ~ Um, Jennifer?",
       "url": "http://www.bottomofthehill.com/20261027.html",
       "venue": "Bottom of the Hill"
@@ -1104,7 +912,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Slothrust ~ Um, Jennifer?",
       "url": "http://www.bottomofthehill.com/20261028.html",
       "venue": "Bottom of the Hill"
@@ -1113,7 +921,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-08-03",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Astro Zombies ~ Rusty Chains ~ Caution",
       "url": "http://www.bottomofthehill.com/20261029.html",
@@ -1262,6 +1070,16 @@
       "reminder_notified": false,
       "title": "Hit The Lights ~ Forever Came Calling ~ Fox Royale",
       "url": "http://www.bottomofthehill.com/20261110.html",
+      "venue": "Bottom of the Hill"
+    },
+    "bottom-of-the-hill:2026-11-11:lowercase-shearling-wife": {
+      "date": "2026-11-11",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "lowercase : Shearling ~ Wife",
+      "url": "http://www.bottomofthehill.com/20261111.html",
       "venue": "Bottom of the Hill"
     },
     "bottom-of-the-hill:2026-11-11:lowercase-tba-tba": {
@@ -1519,6 +1337,16 @@
       "url": "http://www.bottomofthehill.com/20261129.html",
       "venue": "Bottom of the Hill"
     },
+    "bottom-of-the-hill:2026-12-01:fat-evil-children-tba-tba": {
+      "date": "2026-12-01",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Fat, Evil Children ~ TBA ~ TBA",
+      "url": "http://www.bottomofthehill.com/20261201.html",
+      "venue": "Bottom of the Hill"
+    },
     "bottom-of-the-hill:2026-12-02:emo-night-karaoke": {
       "date": "2026-12-02",
       "first_seen": "2026-07-18",
@@ -1536,6 +1364,26 @@
       "sold_out": false,
       "title": "Hazzard's Cure ~ Genghis Bong and friends ~ Supernaut",
       "url": "http://www.bottomofthehill.com/20261203.html",
+      "venue": "Bottom of the Hill"
+    },
+    "bottom-of-the-hill:2026-12-04:ultra-q-cross-stitch": {
+      "date": "2026-12-04",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Ultra Q : Cross Stitch",
+      "url": "http://www.bottomofthehill.com/20261204.html",
+      "venue": "Bottom of the Hill"
+    },
+    "bottom-of-the-hill:2026-12-04:ultra-q-tba": {
+      "date": "2026-12-04",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Ultra Q ~ TBA",
+      "url": "http://www.bottomofthehill.com/20261204.html",
       "venue": "Bottom of the Hill"
     },
     "bottom-of-the-hill:2026-12-05:sonny-his-rhinestone-sunsets-kelly-mcfarling-noelle-the-deserters": {
@@ -1577,6 +1425,16 @@
       "url": "http://www.bottomofthehill.com/20261212.html",
       "venue": "Bottom of the Hill"
     },
+    "bottom-of-the-hill:2026-12-15:the-velvet-teen-shutups-pocket-full-of-crumbs": {
+      "date": "2026-12-15",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "The Velvet Teen ~ Shutups ~ Pocket Full of Crumbs",
+      "url": "http://www.bottomofthehill.com/20261215.html",
+      "venue": "Bottom of the Hill"
+    },
     "bottom-of-the-hill:2026-12-17:christopher-owens-tba-tba": {
       "date": "2026-12-17",
       "first_seen": "2026-10-05",
@@ -1585,6 +1443,16 @@
       "sold_out": false,
       "title": "Christopher Owens  ~ TBA ~ TBA",
       "url": "http://www.bottomofthehill.com/20261217.html",
+      "venue": "Bottom of the Hill"
+    },
+    "bottom-of-the-hill:2026-12-18:two-gallants-tba-tba": {
+      "date": "2026-12-18",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Two Gallants ~ TBA ~ TBA",
+      "url": "http://www.bottomofthehill.com/20261218.html",
       "venue": "Bottom of the Hill"
     },
     "bottom-of-the-hill:2026-12-21:voodoo-dolly-the-reptile-house-debased": {
@@ -1606,96 +1474,6 @@
       "title": "Swingin' Utters ~ Western Addiction ~ Seized Up",
       "url": "http://www.bottomofthehill.com/20261223.html",
       "venue": "Bottom of the Hill"
-    },
-    "cafe-du-nord:2026-10-12:love-spells": {
-      "date": "2026-10-12",
-      "first_seen": "2026-09-21",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Love Spells",
-      "url": "https://cafedunord.com/tm-event/love-spells-love-is-the-law-world-tour/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-12:vaultboy-are-you-ever-coming-back-tour-with-alexa-cappelli": {
-      "date": "2026-10-12",
-      "first_seen": "2026-09-21",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "vaultboy \u2013 ARE YOU EVER COMING BACK? TOUR with Alexa Cappelli",
-      "url": "https://cafedunord.com/tm-event/vaultboy-are-you-ever-coming-back/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-13:isabel-larosa": {
-      "date": "2026-10-13",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Isabel LaRosa",
-      "url": "https://cafedunord.com/tm-event/isabel-larosa-dollparts-tour/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-15:syd-taylor": {
-      "date": "2026-10-15",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Syd Taylor",
-      "url": "https://cafedunord.com/tm-event/syd-taylor/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-16:allan-rayman": {
-      "date": "2026-10-16",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Allan Rayman",
-      "url": "https://cafedunord.com/tm-event/allan-rayman-hotelallanthe10yearanniversarytour/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-16:renny-conti": {
-      "date": "2026-10-16",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Renny Conti",
-      "url": "https://cafedunord.com/tm-event/renny-conti-split-second-tour-with-james-eichman/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-17:tom-hamilton-of-american-babies": {
-      "date": "2026-10-17",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Tom Hamilton (of American Babies)",
-      "url": "https://cafedunord.com/tm-event/tom-hamilton-2/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-18:pertinence": {
-      "date": "2026-10-18",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Pertinence",
-      "url": "https://cafedunord.com/tm-event/pertinence/",
-      "venue": "Cafe du Nord"
-    },
-    "cafe-du-nord:2026-10-18:tobi-lou-same-old-jeans-tour": {
-      "date": "2026-10-18",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "tobi lou \u2013 Same Old Jeans Tour",
-      "url": "https://cafedunord.com/tm-event/tobi-lou-same-old-jeans-tour/",
-      "venue": "Cafe du Nord"
     },
     "cafe-du-nord:2026-10-19:post-sex-nachos": {
       "date": "2026-10-19",
@@ -1741,7 +1519,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Kelsey Kindall",
       "url": "https://cafedunord.com/tm-event/kelsey-kindall/",
@@ -1751,7 +1529,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Blessing Offor",
       "url": "https://cafedunord.com/tm-event/blessing-offor-heart-so-real-tour-pt-2/",
@@ -1761,7 +1539,7 @@
       "date": "2026-10-26",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Blu DeTiger",
       "url": "https://cafedunord.com/tm-event/blu-detiger-the-want-you-baby-tonight-tour-6-special-nights/",
@@ -1771,7 +1549,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Great Lake Swimmers",
       "url": "https://cafedunord.com/tm-event/great-lake-swimmers/",
@@ -1781,7 +1559,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Francis of Delirium",
       "url": "https://cafedunord.com/tm-event/francis-of-delirium/",
@@ -1817,55 +1595,6 @@
       "url": "https://cafedunord.com/tm-event/sobs/",
       "venue": "Cafe du Nord"
     },
-    "chase-center:2026-10-14:wnba-playoffs-round-2-home-game-e-valkyries-v-aces": {
-      "date": "2026-10-14",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "WNBA Playoffs Round 2 Home Game E: Valkyries V Aces",
-      "url": "https://www.ticketmaster.com/wnba-playoffs-round-2-home-game-san-francisco-california-10-14-2026/event/1C006529C5D2348C",
-      "venue": "Chase Center"
-    },
-    "chase-center:2026-10-15:young-miko-late-checkout-tour": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Young Miko - Late Checkout Tour",
-      "url": "https://www.ticketmaster.com/young-miko-late-checkout-tour-san-francisco-california-10-15-2026/event/1C00647FF914B4FF",
-      "venue": "Chase Center"
-    },
-    "chase-center:2026-10-16:golden-state-warriors-vs-portland-trail-blazers": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-20",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Golden State Warriors vs. Portland Trail Blazers",
-      "url": "https://www.ticketmaster.com/golden-state-warriors-vs-portland-trail-san-francisco-california-10-16-2026/event/1C0064EABC62392E",
-      "venue": "Chase Center"
-    },
-    "chase-center:2026-10-17:wnba-playoffs-round-3-home-game-f-valkyries-v-atlanta-dream": {
-      "date": "2026-10-17",
-      "first_seen": "2026-10-12",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "WNBA Playoffs Round 3 Home Game F: Valkyries V Atlanta Dream",
-      "url": "https://www.ticketmaster.com/wnba-playoffs-round-3-home-game-san-francisco-california-10-17-2026/event/1C006529C5D8349C",
-      "venue": "Chase Center"
-    },
-    "chase-center:2026-10-18:golden-state-warriors-open-practice": {
-      "date": "2026-10-18",
-      "first_seen": "2026-10-12",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Golden State Warriors Open Practice",
-      "url": "https://www.ticketmaster.com/golden-state-warriors-open-practice-san-francisco-california-10-18-2026/event/1C00654288E9A67D",
-      "venue": "Chase Center"
-    },
     "chase-center:2026-10-19:doja-cat-tour-ma-vie-world-tour": {
       "date": "2026-10-19",
       "first_seen": "2026-07-18",
@@ -1873,6 +1602,16 @@
       "reminder_notified": true,
       "title": "Doja Cat - Tour Ma Vie World Tour",
       "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-francisco-california-10-19-2026/event/1C0063390D157FFD",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-19:wnba-playoffs-round-3-game-2-valkyries-v-dream": {
+      "date": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "WNBA Playoffs Round 3 Game 2: Valkyries V Dream",
+      "url": "https://www.ticketmaster.com/wnba-playoffs-round-3-game-2-san-francisco-california-10-19-2026/event/1C006529C5DF34AD",
       "venue": "Chase Center"
     },
     "chase-center:2026-10-19:wnba-playoffs-round-3-home-game-g-valkyries-v-atlanta-dream": {
@@ -1889,7 +1628,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-08-17",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Golden State Warriors vs. Memphis Grizzlies",
       "url": "https://www.ticketmaster.com/golden-state-warriors-vs-memphis-grizzlies-san-francisco-california-10-23-2026/event/1C00650AB372D7AA",
@@ -1899,17 +1638,27 @@
       "date": "2026-10-25",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Doja Cat - Tour Ma Vie World Tour",
       "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-francisco-california-10-25-2026/event/1C0063390D157FFD",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-26:wnba-playoffs-round-3-game-5-valkyries-v-dream": {
+      "date": "2026-10-26",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "WNBA Playoffs Round 3 Game 5: Valkyries V Dream",
+      "url": "https://www.ticketmaster.com/wnba-playoffs-round-3-game-5-san-francisco-california-10-26-2026/event/1C006529C5E534B4",
       "venue": "Chase Center"
     },
     "chase-center:2026-10-26:wnba-playoffs-round-3-home-game-h-valkyries-v-atlanta-dream": {
       "date": "2026-10-26",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "WNBA Playoffs Round 3 Home Game H: Valkyries V Atlanta Dream",
       "url": "https://www.ticketmaster.com/wnba-playoffs-round-3-home-game-san-francisco-california-10-26-2026/event/1C006529C5E534B4",
@@ -1919,7 +1668,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Phoebe Bridgers: The Lost Tour",
       "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-san-francisco-california-10-27-2026/event/1C0064B9DBA0E43F",
       "venue": "Chase Center"
@@ -1928,7 +1677,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Phoebe Bridgers: The Lost Tour",
       "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-san-francisco-california-10-28-2026/event/1C0064C59A9BFAED",
       "venue": "Chase Center"
@@ -1941,6 +1690,16 @@
       "sold_out": false,
       "title": "Golden State Warriors vs. Los Angeles Lakers",
       "url": "https://www.ticketmaster.com/golden-state-warriors-vs-los-angeles-san-francisco-california-10-30-2026/event/1C00650AB377D7BD",
+      "venue": "Chase Center"
+    },
+    "chase-center:2026-10-31:wnba-playoffs-round-3-game-7-valkyries-v-dream": {
+      "date": "2026-10-31",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "WNBA Playoffs Round 3 Game 7: Valkyries V Dream",
+      "url": "https://www.ticketmaster.com/wnba-playoffs-round-3-game-7-san-francisco-california-10-31-2026/event/1C006529C5EA34C4",
       "venue": "Chase Center"
     },
     "chase-center:2026-10-31:wnba-playoffs-round-3-home-game-i-valkyries-v-atlanta-dream": {
@@ -2400,6 +2159,16 @@
       "url": "https://www.ticketmaster.com/golden-state-warriors-vs-portland-trail-san-francisco-california-03-19-2027/event/1C00650AB351D74D",
       "venue": "Chase Center"
     },
+    "chase-center:2027-03-20:jimmy-o-yang-has-no-friends-tour": {
+      "date": "2027-03-20",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Jimmy O. Yang Has No Friends Tour",
+      "url": "https://www.ticketmaster.com/jimmy-o-yang-has-no-friends-san-francisco-california-03-20-2027/event/1C006542E26194E4",
+      "venue": "Chase Center"
+    },
     "chase-center:2027-03-22:golden-state-warriors-vs-atlanta-hawks": {
       "date": "2027-03-22",
       "first_seen": "2026-08-17",
@@ -2489,66 +2258,6 @@
       "url": "https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-san-francisco-california-07-13-2027/event/1C006531E959B015",
       "venue": "Chase Center"
     },
-    "fox-theater:2026-10-13:audrey-hobert": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-27",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Audrey Hobert",
-      "url": "https://apeconcerts.com/events/audrey-hobert-261013/",
-      "venue": "Fox Theater"
-    },
-    "fox-theater:2026-10-14:brit-floyd": {
-      "date": "2026-10-14",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Brit Floyd",
-      "url": "https://apeconcerts.com/events/brit-floyd-261014/",
-      "venue": "Fox Theater"
-    },
-    "fox-theater:2026-10-15:boy-harsher": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Boy Harsher",
-      "url": "https://apeconcerts.com/events/boy-harsher-261015/",
-      "venue": "Fox Theater"
-    },
-    "fox-theater:2026-10-16:schoolboy-q": {
-      "date": "2026-10-16",
-      "first_seen": "2026-08-03",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "ScHoolboy Q",
-      "url": "https://apeconcerts.com/events/schoolboy-q-261016/",
-      "venue": "Fox Theater"
-    },
-    "fox-theater:2026-10-17:fortune-feimster-takin-care-of-biscuits-comedy-tour": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Fortune Feimster: Takin\u2019 Care of Biscuits Comedy Tour",
-      "url": "https://apeconcerts.com/events/fortune-feimster-261017/",
-      "venue": "Fox Theater"
-    },
-    "fox-theater:2026-10-18:epik-high": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Epik High",
-      "url": "https://apeconcerts.com/events/epik-high-261018/",
-      "venue": "Fox Theater"
-    },
     "fox-theater:2026-10-19:geese": {
       "date": "2026-10-19",
       "first_seen": "2026-07-18",
@@ -2593,7 +2302,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Gary Clark Jr.",
       "url": "https://apeconcerts.com/events/gary-clark-jr-261023/",
@@ -2603,7 +2312,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "William Black",
       "url": "https://apeconcerts.com/events/william-black-261024/",
@@ -2613,7 +2322,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-08-31",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "fakemink",
       "url": "https://apeconcerts.com/events/fakemink-261025/",
@@ -2623,7 +2332,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "LENNY PEARCE",
       "url": "https://apeconcerts.com/events/lenny-pearce-261027/",
@@ -2677,6 +2386,16 @@
       "sold_out": false,
       "title": "Isaiah Rashad",
       "url": "https://apeconcerts.com/events/isaiah-rashad-261112/",
+      "venue": "Fox Theater"
+    },
+    "fox-theater:2026-11-13:tyla": {
+      "date": "2026-11-13",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Tyla",
+      "url": "https://apeconcerts.com/events/tyla-261113-fox/",
       "venue": "Fox Theater"
     },
     "fox-theater:2026-11-14:bonobo": {
@@ -2859,65 +2578,15 @@
       "url": "https://apeconcerts.com/events/nothing-but-thieves-270403/",
       "venue": "Fox Theater"
     },
-    "frost-amphitheatre:2026-10-18:muna-gets-so-hot-tour": {
-      "date": "2026-10-18",
-      "first_seen": "2026-09-14",
+    "fox-theater:2027-05-13:tinashe": {
+      "date": "2027-05-13",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "MUNA - Gets So Hot Tour",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pe1b",
-      "venue": "Frost Amphitheatre"
-    },
-    "great-american-music-hall:2026-10-13:provoker": {
-      "date": "2026-10-13",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Provoker",
-      "url": "https://wl.seetickets.us/event/provoker/703886?afflky=GreatAmericanMusicHall",
-      "venue": "Great American Music Hall"
-    },
-    "great-american-music-hall:2026-10-14:mexican-institute-of-sound": {
-      "date": "2026-10-14",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Mexican Institute of Sound",
-      "url": "https://wl.seetickets.us/event/mexican-institute-of-sound/701759?afflky=GreatAmericanMusicHall",
-      "venue": "Great American Music Hall"
-    },
-    "great-american-music-hall:2026-10-15:kelsey-lu": {
-      "date": "2026-10-15",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Kelsey Lu",
-      "url": "https://wl.seetickets.us/event/kelsey-lu/694273?afflky=GreatAmericanMusicHall",
-      "venue": "Great American Music Hall"
-    },
-    "great-american-music-hall:2026-10-16:the-jungle-giants": {
-      "date": "2026-10-16",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "The Jungle Giants",
-      "url": "https://wl.seetickets.us/event/the-jungle-giants/690946?afflky=GreatAmericanMusicHall",
-      "venue": "Great American Music Hall"
-    },
-    "great-american-music-hall:2026-10-18:peaches": {
-      "date": "2026-10-18",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Peaches",
-      "url": "https://wl.seetickets.us/event/peaches/704246?afflky=GreatAmericanMusicHall",
-      "venue": "Great American Music Hall"
+      "title": "Tinashe",
+      "url": "https://apeconcerts.com/events/tinashe-270513/",
+      "venue": "Fox Theater"
     },
     "great-american-music-hall:2026-10-19:dj-x-ces": {
       "date": "2026-10-19",
@@ -2969,32 +2638,82 @@
       "url": "https://wl.seetickets.us/event/substance-festival-2026-4-day-passes/698275?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
     },
+    "great-american-music-hall:2026-10-23:julia-wolf-moved-to-the-warfield": {
+      "date": "2026-10-23",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "Julia Wolf (MOVED TO THE WARFIELD)",
+      "url": "https://www.axs.com/events/1407735/julia-wolf-tickets?skin=goldenvoice",
+      "venue": "Great American Music Hall"
+    },
     "great-american-music-hall:2026-10-23:tr-st-dj-set-buzz-kull": {
       "date": "2026-10-23",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "TR/ST (DJ set) , Buzz Kull",
       "url": "https://wl.seetickets.us/event/trst-dj-set-buzz-kull/698251?afflky=GreatAmericanMusicHall",
       "venue": "Great American Music Hall"
     },
-    "greek-theatre:2026-10-16:vulfpeck": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
+    "great-american-music-hall:2026-10-24:illuminati-hotties": {
+      "date": "2026-10-24",
+      "first_seen": "2026-10-19",
       "new_notified": true,
       "reminder_notified": true,
       "sold_out": false,
-      "title": "Vulfpeck",
-      "url": "https://apeconcerts.com/events/vulfpeck-261016/",
-      "venue": "Greek Theatre"
+      "title": "Illuminati Hotties",
+      "url": "https://wl.seetickets.us/event/illuminati-hotties/698113?afflky=GreatAmericanMusicHall",
+      "venue": "Great American Music Hall"
     },
-    "greek-theatre:2026-10-18:role-model": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
+    "great-american-music-hall:2026-10-25:postponed-ali-amran": {
+      "date": "2026-10-25",
+      "first_seen": "2026-10-19",
       "new_notified": true,
       "reminder_notified": true,
-      "sold_out": true,
+      "sold_out": false,
+      "title": "*POSTPONED* Ali Amran",
+      "url": "https://wl.seetickets.us/event/postponed-ali-amran/700561?afflky=GreatAmericanMusicHall",
+      "venue": "Great American Music Hall"
+    },
+    "great-american-music-hall:2026-10-26:inner-wave": {
+      "date": "2026-10-26",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "Inner Wave",
+      "url": "https://wl.seetickets.us/event/inner-wave/702861?afflky=GreatAmericanMusicHall",
+      "venue": "Great American Music Hall"
+    },
+    "great-american-music-hall:2026-10-27:wand": {
+      "date": "2026-10-27",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "Wand",
+      "url": "https://wl.seetickets.us/event/wand/703349?afflky=GreatAmericanMusicHall",
+      "venue": "Great American Music Hall"
+    },
+    "great-american-music-hall:2026-10-28:pixel-grip": {
+      "date": "2026-10-28",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "Pixel Grip",
+      "url": "https://wl.seetickets.us/event/pixel-grip/701809?afflky=GreatAmericanMusicHall",
+      "venue": "Great American Music Hall"
+    },
+    "greek-theatre:2026-10-19:role-model": {
+      "date": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
       "title": "Role Model",
       "url": "https://apeconcerts.com/events/role-model-261018/",
       "venue": "Greek Theatre"
@@ -3038,76 +2757,6 @@
       "title": "The Red Clay Strays",
       "url": "https://apeconcerts.com/events/the-red-clay-strays-270812/",
       "venue": "Greek Theatre"
-    },
-    "neck-of-the-woods:2026-10-12:salsa-crazy-mondays": {
-      "date": "2026-10-12",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Salsa Crazy Mondays",
-      "url": "https://www.neckofthewoodssf.com/tm-event/salsa-crazy-mondays-10/",
-      "venue": "Neck of the Woods"
-    },
-    "neck-of-the-woods:2026-10-13:karaoke-tuesday": {
-      "date": "2026-10-13",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Karaoke Tuesday",
-      "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-15/",
-      "venue": "Neck of the Woods"
-    },
-    "neck-of-the-woods:2026-10-14:neck-of-the-woods-sf-open-mic-wednesdays": {
-      "date": "2026-10-14",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Neck of the Woods SF Open Mic Wednesdays",
-      "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-41/",
-      "venue": "Neck of the Woods"
-    },
-    "neck-of-the-woods:2026-10-15:clement-st-comedy": {
-      "date": "2026-10-15",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Clement St Comedy",
-      "url": "https://www.neckofthewoodssf.com/tm-event/clement-st-comedy-11/",
-      "venue": "Neck of the Woods"
-    },
-    "neck-of-the-woods:2026-10-15:moral-law-a-year-ago-today-a-life-spent-altar-xmagdalenex": {
-      "date": "2026-10-15",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "\u200b\u200b\u200b\u200b\u200b\u200b\u200bMoral Law/ A Year Ago Today/ A Life Spent/ altar/ xMagdalenex",
-      "url": "https://www.neckofthewoodssf.com/tm-event/moral-law-a-year-ago-today-a-life-spent-altar-xmagdalenex/",
-      "venue": "Neck of the Woods"
-    },
-    "neck-of-the-woods:2026-10-16:blind-illusion-hemotoxin-parabellum": {
-      "date": "2026-10-16",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Blind Illusion/ Hemotoxin/ Parabellum",
-      "url": "https://www.neckofthewoodssf.com/tm-event/blind-illusion-hemotoxin-parabellum/",
-      "venue": "Neck of the Woods"
-    },
-    "neck-of-the-woods:2026-10-17:lil-darkie-album-release-show": {
-      "date": "2026-10-17",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lil Darkie (album release show)",
-      "url": "https://www.neckofthewoodssf.com/tm-event/lil-darkie-album-release-show/",
-      "venue": "Neck of the Woods"
     },
     "neck-of-the-woods:2026-10-19:salsa-crazy-mondays": {
       "date": "2026-10-19",
@@ -3173,7 +2822,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Etch/ Vicious Cycle/ Wink/ Here at the End/ Sucios",
       "url": "https://www.neckofthewoodssf.com/tm-event/etch-vicious-cycle-wink-here-at-the-end-sucios/",
@@ -3183,7 +2832,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
       "url": "https://www.neckofthewoodssf.com/tm-event/flipabeatclub-presents-wav-forum-4th-fridays-at-neck-of-the-woods-sf-2/",
@@ -3193,7 +2842,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Till I'm Dead Fest 2",
       "url": "https://www.neckofthewoodssf.com/tm-event/till-im-dead-fest-2/",
@@ -3203,9 +2852,19 @@
       "date": "2026-10-25",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Smush/ Sofia & The Afterglow",
+      "url": "https://www.neckofthewoodssf.com/tm-event/smush-tba/",
+      "venue": "Neck of the Woods"
+    },
+    "neck-of-the-woods:2026-10-25:smush-sofia-the-afterglow-brother-m": {
+      "date": "2026-10-25",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": true,
+      "sold_out": false,
+      "title": "Smush/ Sofia & The Afterglow/ Brother M",
       "url": "https://www.neckofthewoodssf.com/tm-event/smush-tba/",
       "venue": "Neck of the Woods"
     },
@@ -3213,58 +2872,81 @@
       "date": "2026-10-26",
       "first_seen": "2026-10-12",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Salsa Crazy Mondays",
       "url": "https://www.neckofthewoodssf.com/tm-event/salsa-crazy-mondays-12/",
       "venue": "Neck of the Woods"
     },
-    "regency-ballroom:2026-10-13:mico": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Mico",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70I80",
-      "venue": "Regency Ballroom"
-    },
-    "regency-ballroom:2026-10-15:the-blasting-company": {
-      "date": "2026-10-15",
-      "first_seen": "2026-08-03",
+    "neck-of-the-woods:2026-10-27:karaoke-tuesday": {
+      "date": "2026-10-27",
+      "first_seen": "2026-10-19",
       "new_notified": true,
       "reminder_notified": true,
       "sold_out": false,
-      "title": "The Blasting Company",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PzAA",
-      "venue": "Regency Ballroom"
+      "title": "Karaoke Tuesday",
+      "url": "https://www.neckofthewoodssf.com/tm-event/karaoke-tuesday-17/",
+      "venue": "Neck of the Woods"
     },
-    "regency-ballroom:2026-10-16:moe": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "moe.",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7P8qK",
-      "venue": "Regency Ballroom"
-    },
-    "regency-ballroom:2026-10-17:notd-lonely-in-paradise-tour-ages-18": {
-      "date": "2026-10-17",
-      "first_seen": "2026-08-31",
+    "neck-of-the-woods:2026-10-28:neck-of-the-woods-sf-open-mic-wednesdays": {
+      "date": "2026-10-28",
+      "first_seen": "2026-10-19",
       "new_notified": true,
       "reminder_notified": true,
       "sold_out": false,
-      "title": "NOTD: Lonely In Paradise Tour - Ages 18+",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ3Gw",
-      "venue": "Regency Ballroom"
+      "title": "Neck of the Woods SF Open Mic Wednesdays",
+      "url": "https://www.neckofthewoodssf.com/tm-event/neck-of-the-woods-sf-open-mic-wednesdays-43/",
+      "venue": "Neck of the Woods"
     },
-    "regency-ballroom:2026-10-18:she-wants-revenge": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
+    "neck-of-the-woods:2026-10-29:clement-st-comedy-halloween-special": {
+      "date": "2026-10-29",
+      "first_seen": "2026-10-19",
       "new_notified": true,
       "reminder_notified": true,
-      "title": "She Wants Revenge",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70OaI",
-      "venue": "Regency Ballroom"
+      "sold_out": false,
+      "title": "Clement St Comedy: Halloween Special",
+      "url": "https://www.neckofthewoodssf.com/tm-event/clement-st-comedy-13/",
+      "venue": "Neck of the Woods"
+    },
+    "neck-of-the-woods:2026-10-30:60-juno-misandrist-still-ruins-algoslave": {
+      "date": "2026-10-30",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "60 Juno/ Misandrist/ Still Ruins/ Algoslave",
+      "url": "https://www.neckofthewoodssf.com/tm-event/60-juno-misandrist-still-ruins-algoslave/",
+      "venue": "Neck of the Woods"
+    },
+    "neck-of-the-woods:2026-10-30:lazer-beam-bloodsugar-modern-monsters-bombshell": {
+      "date": "2026-10-30",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Lazer Beam/ Bloodsugar/ Modern Monsters/ Bombshell",
+      "url": "https://www.neckofthewoodssf.com/tm-event/lazer-beam-bloodsugar-modern-monsters-bombshell/",
+      "venue": "Neck of the Woods"
+    },
+    "neck-of-the-woods:2026-10-31:halloween-show": {
+      "date": "2026-10-31",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Halloween Show!",
+      "url": "https://www.neckofthewoodssf.com/tm-event/halloween-show/",
+      "venue": "Neck of the Woods"
+    },
+    "neck-of-the-woods:2026-11-01:the-undying-kink-shamer-deliria-broken-glass-sanctuary-13-thrones": {
+      "date": "2026-11-01",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "The Undying/ Kink Shamer/ Deliria/ Broken Glass Sanctuary/ 13 Thrones",
+      "url": "https://www.neckofthewoodssf.com/tm-event/the-undying-kink-shamer-deliria-broken-glass-sanctuary-13-thrones/",
+      "venue": "Neck of the Woods"
     },
     "regency-ballroom:2026-10-20:artms": {
       "date": "2026-10-20",
@@ -3300,7 +2982,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-08-03",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Jai Wolf (18 and Over)",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PzO7",
@@ -3310,7 +2992,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-08-31",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Shyne w/ Barrington Levy",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZp7N",
@@ -3320,7 +3002,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-08-24",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "bleood",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZz4f",
@@ -3596,46 +3278,6 @@
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAevZy",
       "venue": "Regency Ballroom"
     },
-    "rickshaw-stop:2026-10-13:zolita": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "ZOLITA",
-      "url": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064C2069884E3?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet__;!!AEl5w8WD!pTB5j4ha87vlT1TpQ3IE6Ov3BKIFIekNo6BcSbh62TQOjTo9JTWndCcKI0o7nSV_qVAhVLrB8DRCTDcq5GWO8igC0zrppjI$",
-      "venue": "Rickshaw Stop"
-    },
-    "rickshaw-stop:2026-10-15:abracadabra": {
-      "date": "2026-10-15",
-      "first_seen": "2026-09-14",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "ABRACADABRA",
-      "url": "https://wl.seetickets.us/event/abracadabra/704942?afflky=RickshawStop",
-      "venue": "Rickshaw Stop"
-    },
-    "rickshaw-stop:2026-10-16:psyched-fest-with-diles-que-no-me-maten": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "PSYCHED! FEST with DILES QUE NO ME MATEN",
-      "url": "https://wl.seetickets.us/event/psyched-fest-with-diles-que-no-me-maten/687568?afflky=RickshawStop",
-      "venue": "Rickshaw Stop"
-    },
-    "rickshaw-stop:2026-10-17:flower-face": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "FLOWER FACE",
-      "url": "https://wl.eventim.us/event/flower-face/690076?afflky=POPSCENEPresents",
-      "venue": "Rickshaw Stop"
-    },
     "rickshaw-stop:2026-10-19:bebe-stockwell": {
       "date": "2026-10-19",
       "first_seen": "2026-07-18",
@@ -3680,7 +3322,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-09-28",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "GIMME GIMME DISCO - HALLOWEEN DANCE PARTY",
       "url": "https://wl.seetickets.us/event/gimme-gimme-disco-halloween-dance-party/706220?afflky=RickshawStop",
@@ -3690,7 +3332,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-09-07",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Mission Delirium",
       "url": "https://wl.seetickets.us/event/mission-delirium/704451?afflky=RickshawStop",
@@ -3700,7 +3342,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "KYLE GORDON",
       "url": "https://wl.seetickets.us/event/kyle-gordon/692750?afflky=RickshawStop",
@@ -3710,7 +3352,7 @@
       "date": "2026-10-26",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "PSYCHED! FEST with WINE LIPS",
       "url": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688?afflky=RickshawStop",
@@ -3720,7 +3362,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "VIOLET GROHL",
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/violet-grohl/693274?afflky=POPSCENEPresents__;!!AEl5w8WD!p9v37rYECgcUycNd4O1DijnAYAj_bppSafHmFOJ-1fWrXpbswkZSj5uwkCgel5TNQOxBOBYlPCx1YvPmeVw0p6tmi2ujzmc$",
@@ -3730,7 +3372,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "WE ARE SCIENTISTS",
       "url": "https://wl.seetickets.us/event/we-are-scientists/694279?afflky=RickshawStop",
@@ -3740,7 +3382,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "THE TUBS",
       "url": "https://wl.seetickets.us/event/the-tubs/696006?afflky=RickshawStop",
@@ -4096,51 +3738,6 @@
       "url": "https://urldefense.com/v3/__https://wl.eventim.us/event/paloma-morphy/689810?afflky=POPSCENEPresents__;!!AEl5w8WD!pDQPuTyGaZB85bnLDZ_3dvt46vSPVodQTvxf0kqgBrWAYCxVlef2T6-kBW9vRcXZB5DR1R2tiKcBLIzU0KYFvMs1kbZ3BAE$",
       "venue": "Rickshaw Stop"
     },
-    "sf-symphony-davies-symphony-hall:2026-10-12:ludovico-einaudi-solo-piano": {
-      "date": "2026-10-12",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Ludovico Einaudi: Solo Piano",
-      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Ludovico-Einaudi",
-      "venue": "SF Symphony (Davies Symphony Hall)"
-    },
-    "sf-symphony-davies-symphony-hall:2026-10-15:batiashvili-capu-on-thibaudet-trio": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Batiashvili/Capu\u00e7on/Thibaudet Trio",
-      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Batiashvili-Capucon-Thibaudet",
-      "venue": "SF Symphony (Davies Symphony Hall)"
-    },
-    "sf-symphony-davies-symphony-hall:2026-10-16:dvo-k-symphony-no-8": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Dvo\u0159\u00e1k Symphony No. 8",
-      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dvorak-Symphony-8",
-      "venue": "SF Symphony (Davies Symphony Hall)"
-    },
-    "sf-symphony-davies-symphony-hall:2026-10-17:dvo-k-symphony-no-8": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Dvo\u0159\u00e1k Symphony No. 8",
-      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dvorak-Symphony-8",
-      "venue": "SF Symphony (Davies Symphony Hall)"
-    },
-    "sf-symphony-davies-symphony-hall:2026-10-18:dvo-k-symphony-no-8": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Dvo\u0159\u00e1k Symphony No. 8",
-      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Dvorak-Symphony-8",
-      "venue": "SF Symphony (Davies Symphony Hall)"
-    },
     "sf-symphony-davies-symphony-hall:2026-10-20:the-ring-film-with-live-orchestra": {
       "date": "2026-10-20",
       "first_seen": "2026-07-18",
@@ -4163,7 +3760,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Hisaishi Conducts Hisaishi",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hisaishi-Conducts-Hisaishi",
       "venue": "SF Symphony (Davies Symphony Hall)"
@@ -4172,7 +3769,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Hisaishi Conducts Hisaishi",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Hisaishi-Conducts-Hisaishi",
       "venue": "SF Symphony (Davies Symphony Hall)"
@@ -4181,7 +3778,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Music for Families",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Music-for-Families-Oct",
       "venue": "SF Symphony (Davies Symphony Hall)"
@@ -4190,7 +3787,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Orchestre Symphonique de Montr\u00e9al",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Montreal-Symphony-Orchestra",
       "venue": "SF Symphony (Davies Symphony Hall)"
@@ -4199,7 +3796,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Elim Chan Conducts Adams and Mendelssohn",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Doctor-Atomic-and-Mendelssohn",
       "venue": "SF Symphony (Davies Symphony Hall)"
@@ -4208,7 +3805,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Open Rehearsal: Elim Chan Conducts Adams and Mendelssohn",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Doctor-Atomic-and-Mendelssohn-OR",
       "venue": "SF Symphony (Davies Symphony Hall)"
@@ -4824,12 +4421,42 @@
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-OR",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
+    "sf-symphony-davies-symphony-hall:2027-02-25:open-rehearsal-van-zweden-conducts-dvo-k-new-world": {
+      "date": "2027-02-25",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Open Rehearsal: Van Zweden Conducts Dvo\u0159\u00e1k New World",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-OR",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-25:van-zweden-conducts-dvo-k-new-world": {
+      "date": "2027-02-25",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Van Zweden Conducts Dvo\u0159\u00e1k New World",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-conducts",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
     "sf-symphony-davies-symphony-hall:2027-02-27:jaap-van-zweden-and-the-san-francisco-symphony": {
       "date": "2027-02-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": false,
       "title": "Jaap van Zweden and the San Francisco Symphony",
+      "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-conducts",
+      "venue": "SF Symphony (Davies Symphony Hall)"
+    },
+    "sf-symphony-davies-symphony-hall:2027-02-27:van-zweden-conducts-dvo-k-new-world": {
+      "date": "2027-02-27",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Van Zweden Conducts Dvo\u0159\u00e1k New World",
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Jaap-van-Zweden-conducts",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
@@ -5378,86 +5005,6 @@
       "url": "https://www.sfsymphony.org/Buy-Tickets/2026-27/Bronfman-Plays-Rachmaninoff",
       "venue": "SF Symphony (Davies Symphony Hall)"
     },
-    "sfjazz:2026-10-15:lila-downs": {
-      "date": "2026-10-15",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lila Downs",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/lila-downs/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-15:mathis-picard-trio": {
-      "date": "2026-10-15",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Mathis Picard Trio",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/mathis-picard-trio/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-16:lila-downs": {
-      "date": "2026-10-16",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lila Downs",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/lila-downs/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-16:zaccai-curtis-sextet": {
-      "date": "2026-10-16",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Zaccai Curtis Sextet",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/zaccai-curtis-sextet/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-17:lila-downs": {
-      "date": "2026-10-17",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lila Downs",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/lila-downs/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-17:zaccai-curtis-sextet": {
-      "date": "2026-10-17",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Zaccai Curtis Sextet",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/zaccai-curtis-sextet/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-18:lila-downs": {
-      "date": "2026-10-18",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lila Downs",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/lila-downs/",
-      "venue": "SFJAZZ"
-    },
-    "sfjazz:2026-10-18:marina-crouse": {
-      "date": "2026-10-18",
-      "first_seen": "2026-08-10",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Marina Crouse",
-      "url": "https://www.sfjazz.org/tickets/productions/26-27/marina-crouse/",
-      "venue": "SFJAZZ"
-    },
     "sfjazz:2026-10-19:julian-lage-quartet": {
       "date": "2026-10-19",
       "first_seen": "2026-08-10",
@@ -5472,7 +5019,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Edward Simon: Femeninas",
       "url": "https://www.sfjazz.org/tickets/productions/26-27/edward-simon-femeninas/",
@@ -5482,7 +5029,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Troy Roberts Nu-Jive",
       "url": "https://www.sfjazz.org/tickets/productions/26-27/troy-roberts-nu-jive/",
@@ -5492,7 +5039,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Connected",
       "url": "https://www.sfjazz.org/tickets/productions/26-27/connected/",
@@ -5502,7 +5049,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Charles Tolliver",
       "url": "https://www.sfjazz.org/tickets/productions/26-27/charles-tolliver-africa-brass/",
@@ -5512,7 +5059,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Connected",
       "url": "https://www.sfjazz.org/tickets/productions/26-27/connected/",
@@ -5522,7 +5069,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "David S\u00e1nchez\u2019s Carib presents Tamb\u00f3",
       "url": "https://www.sfjazz.org/tickets/productions/26-27/david-sanchez-tambo/",
@@ -6788,46 +6335,6 @@
       "url": "https://www.sfjazz.org/tickets/productions/26-27/chucho-valdes/",
       "venue": "SFJAZZ"
     },
-    "the-castro:2026-10-14:finn-wolfhard": {
-      "date": "2026-10-14",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Finn Wolfhard",
-      "url": "https://apeconcerts.com/events/finn-wolfhard-261014/",
-      "venue": "The Castro"
-    },
-    "the-castro:2026-10-16:iron-wine": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Iron & Wine",
-      "url": "https://apeconcerts.com/events/iron-and-wine-261016/",
-      "venue": "The Castro"
-    },
-    "the-castro:2026-10-17:blondshell": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Blondshell",
-      "url": "https://apeconcerts.com/events/blondshell-261017/",
-      "venue": "The Castro"
-    },
-    "the-castro:2026-10-18:dinosaur-jr": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Dinosaur Jr.",
-      "url": "https://apeconcerts.com/events/dinosaur-jr-261018/",
-      "venue": "The Castro"
-    },
     "the-castro:2026-10-19:almost-monday": {
       "date": "2026-10-19",
       "first_seen": "2026-07-18",
@@ -6872,7 +6379,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": true,
       "title": "Julia Jacklin",
       "url": "https://apeconcerts.com/events/julia-jacklin-261023/",
@@ -6882,7 +6389,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Julia Jacklin",
       "url": "https://apeconcerts.com/events/julia-jacklin-261024/",
@@ -6892,7 +6399,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-07-27",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Joy Oladokun",
       "url": "https://apeconcerts.com/events/joy-oladokun-261025/",
@@ -6902,7 +6409,7 @@
       "date": "2026-10-26",
       "first_seen": "2026-07-27",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": true,
       "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
       "url": "https://apeconcerts.com/events/fred-armisen-261026/",
@@ -6912,7 +6419,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": true,
       "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
       "url": "https://apeconcerts.com/events/fred-armisen-261027/",
@@ -6922,7 +6429,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": true,
       "title": "Fred Armisen: Comedy For Musicians But Everyone Is Welcome",
       "url": "https://apeconcerts.com/events/fred-armisen-261028/",
@@ -6932,7 +6439,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Da\u00f0i Freyr",
       "url": "https://apeconcerts.com/events/dadi-freyr-261029/",
@@ -7006,6 +6513,16 @@
       "sold_out": false,
       "title": "PJ Morton",
       "url": "https://apeconcerts.com/events/pj-morton-261107/",
+      "venue": "The Castro"
+    },
+    "the-castro:2026-11-08:edward-said-between-worlds": {
+      "date": "2026-11-08",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Edward Said: Between Worlds",
+      "url": "https://apeconcerts.com/events/edward-said-between-worlds/",
       "venue": "The Castro"
     },
     "the-castro:2026-11-09:sienna-spiro": {
@@ -7188,14 +6705,24 @@
       "url": "https://apeconcerts.com/events/julio-torres-261130/",
       "venue": "The Castro"
     },
+    "the-castro:2026-12-01:small-town-gay-bar": {
+      "date": "2026-12-01",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Small Town Gay Bar",
+      "url": "https://apeconcerts.com/events/small-town-gay-bar/",
+      "venue": "The Castro"
+    },
     "the-castro:2026-12-02:cameron-winter-at-carnegie-hall": {
       "date": "2026-12-02",
       "first_seen": "2026-08-31",
       "new_notified": true,
       "reminder_notified": false,
-      "sold_out": true,
+      "sold_out": false,
       "title": "Cameron Winter at Carnegie Hall",
-      "url": "https://apeconcerts.com/events/cameron-winter-at-carnegie-hall-261202/",
+      "url": "https://apeconcerts.com/events/cameron-winter-at-carnegie-hall-261202-late/",
       "venue": "The Castro"
     },
     "the-castro:2026-12-03:sandra-bernhard": {
@@ -7348,6 +6875,26 @@
       "url": "https://apeconcerts.com/events/sleepaway-camp-270107/",
       "venue": "The Castro"
     },
+    "the-castro:2027-01-08:2001-a-space-odyssey": {
+      "date": "2027-01-08",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "2001: A Space Odyssey",
+      "url": "https://apeconcerts.com/events/2001-a-space-odyssey-270108/",
+      "venue": "The Castro"
+    },
+    "the-castro:2027-01-09:chicago": {
+      "date": "2027-01-09",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Chicago",
+      "url": "https://apeconcerts.com/events/chicago-270109/",
+      "venue": "The Castro"
+    },
     "the-castro:2027-01-15:sts9": {
       "date": "2027-01-15",
       "first_seen": "2026-08-31",
@@ -7376,6 +6923,26 @@
       "sold_out": false,
       "title": "DJ Meredith Marks",
       "url": "https://apeconcerts.com/events/dj-meredith-marks-270120/",
+      "venue": "The Castro"
+    },
+    "the-castro:2027-02-12:the-hip-abduction": {
+      "date": "2027-02-12",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "The Hip Abduction",
+      "url": "https://apeconcerts.com/events/the-hip-abduction-270212/",
+      "venue": "The Castro"
+    },
+    "the-castro:2027-02-13:richard-thompson-band": {
+      "date": "2027-02-13",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Richard Thompson & Band",
+      "url": "https://apeconcerts.com/events/richard-thompson-270213/",
       "venue": "The Castro"
     },
     "the-castro:2027-02-20:la-roux": {
@@ -7498,86 +7065,6 @@
       "url": "https://apeconcerts.com/events/agnes-obel-270520/",
       "venue": "The Castro"
     },
-    "the-chapel:2026-10-12:militarie-gun": {
-      "date": "2026-10-12",
-      "first_seen": "2026-10-12",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Militarie Gun",
-      "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-13:militarie-gun": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Militarie Gun",
-      "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-14:dummy": {
-      "date": "2026-10-14",
-      "first_seen": "2026-08-17",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Dummy",
-      "url": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-15:hot-flash-heat-wave": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Hot Flash Heat Wave",
-      "url": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-16:am-lie-farren-lilith-max-rabbitology": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Am\u00e9lie Farren, Lilith Max, Rabbitology",
-      "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-18:love-supreme-summer-day-party-series": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "LOVE SUPREME Summer Day Party Series",
-      "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697839?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-18:women-s-rebel-voices-film-music-tour-event-ft-miko-marks": {
-      "date": "2026-10-18",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "WOMEN\u2019S REBEL VOICES FILM + MUSIC TOUR EVENT ft. MIKO MARKS",
-      "url": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-event-ft-miko-marks/706154?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
-    "the-chapel:2026-10-18:women-s-rebel-voices-film-music-tour-feat-miko-marks": {
-      "date": "2026-10-18",
-      "first_seen": "2026-09-28",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "WOMEN\u2019S REBEL VOICES FILM + MUSIC TOUR feat. MIKO MARKS",
-      "url": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-feat-miko-marks/706154?afflky=TheChapel",
-      "venue": "The Chapel"
-    },
     "the-chapel:2026-10-19:hovvdy": {
       "date": "2026-10-19",
       "first_seen": "2026-07-18",
@@ -7622,7 +7109,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-09-14",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Haunted Riot with Frightwig",
       "url": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
@@ -7632,7 +7119,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Weatherday: Hornet Disaster Tour 2026",
       "url": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
@@ -7642,7 +7129,7 @@
       "date": "2026-10-26",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "The War And Treaty",
       "url": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
@@ -7652,7 +7139,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Theo Katzman (Solo)",
       "url": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
@@ -7662,7 +7149,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Katie Pruitt",
       "url": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
@@ -7696,6 +7183,16 @@
       "sold_out": false,
       "title": "ChapelMania",
       "url": "https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
+    "the-chapel:2026-11-01:postponed-chapelmania": {
+      "date": "2026-11-01",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "POSTPONED: ChapelMania",
+      "url": "https://wl.seetickets.us/event/postponed-chapelmania/705677?afflky=TheChapel",
       "venue": "The Chapel"
     },
     "the-chapel:2026-11-04:the-limi-anas": {
@@ -7836,6 +7333,16 @@
       "sold_out": false,
       "title": "Poi Dog Pondering",
       "url": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
+    "the-chapel:2026-11-25:moonalice": {
+      "date": "2026-11-25",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Moonalice",
+      "url": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
       "venue": "The Chapel"
     },
     "the-chapel:2026-11-27:sleepless-nights-xx-a-tribute-to-gram-parsons": {
@@ -7988,6 +7495,26 @@
       "url": "https://wl.seetickets.us/event/pete-floyd/698706?afflky=TheChapel",
       "venue": "The Chapel"
     },
+    "the-chapel:2027-01-29:ty-segall": {
+      "date": "2027-01-29",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Ty Segall",
+      "url": "https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
+    "the-chapel:2027-01-30:ty-segall": {
+      "date": "2027-01-30",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Ty Segall",
+      "url": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
     "the-chapel:2027-02-09:fat-tuesday-celebration-with-rebirth-brass-band": {
       "date": "2027-02-09",
       "first_seen": "2026-08-17",
@@ -7996,6 +7523,36 @@
       "sold_out": false,
       "title": "Fat Tuesday Celebration With Rebirth Brass Band",
       "url": "https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-brass-band/701503?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
+    "the-chapel:2027-02-12:lael-neale": {
+      "date": "2027-02-12",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Lael Neale",
+      "url": "https://wl.seetickets.us/event/lael-neale/707903?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
+    "the-chapel:2027-03-18:helena-deland": {
+      "date": "2027-03-18",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Helena Deland",
+      "url": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
+      "venue": "The Chapel"
+    },
+    "the-chapel:2027-03-19:the-music-of-tom-verlaine": {
+      "date": "2027-03-19",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "The Music of Tom Verlaine",
+      "url": "https://wl.seetickets.us/event/the-music-of-tom-verlaine/707964?afflky=TheChapel",
       "venue": "The Chapel"
     },
     "the-chapel:2027-05-04:jean-michel-blais": {
@@ -8018,38 +7575,11 @@
       "url": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
       "venue": "The Chapel"
     },
-    "the-fillmore:2026-10-16:neurosis": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Neurosis",
-      "url": "https://www.livenation.com/event/G5vYZ_C6BAJNk/neurosis",
-      "venue": "The Fillmore"
-    },
-    "the-fillmore:2026-10-17:neurosis": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Neurosis",
-      "url": "https://www.livenation.com/event/G5vYZ_C6BkJN8/neurosis",
-      "venue": "The Fillmore"
-    },
-    "the-fillmore:2026-10-18:the-wallflowers": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "The Wallflowers",
-      "url": "https://www.livenation.com/event/G5vYZ_6JeBJZ6/the-wallflowers",
-      "venue": "The Fillmore"
-    },
     "the-fillmore:2026-10-23:pouya-the-forever-glades-tour-2026": {
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Pouya - The Forever Glades Tour 2026",
       "url": "https://www.livenation.com/event/G5vYZ_GKTQIqt/pouya-the-forever-glades-tour-2026",
       "venue": "The Fillmore"
@@ -8058,7 +7588,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Amble",
       "url": "https://www.livenation.com/event/G5vYZ_GnTwbU0/amble",
       "venue": "The Fillmore"
@@ -8067,7 +7597,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Kishi Bashi: Sonderlust 10th Anniversary Tour",
       "url": "https://www.livenation.com/event/G5vYZ_6dE8OLN/kishi-bashi-sonderlust-10th-anniversary-tour",
       "venue": "The Fillmore"
@@ -8076,7 +7606,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Slow Pulp",
       "url": "https://www.livenation.com/event/G5vYZ_13KOBrX/slow-pulp",
       "venue": "The Fillmore"
@@ -8085,7 +7615,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Slow Pulp",
       "url": "https://www.livenation.com/event/G5vYZ_CQ8DMUk/slow-pulp",
       "venue": "The Fillmore"
@@ -8094,7 +7624,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Dilated Peoples",
       "url": "https://www.livenation.com/event/G5vYZ_FX4gzvS/dilated-peoples",
       "venue": "The Fillmore"
@@ -8409,6 +7939,16 @@
       "url": "https://www.livenation.com/event/G5vYZ_8n0hnDQ/allman-betts-family-revival-a-decade-of-revival",
       "venue": "The Fillmore"
     },
+    "the-fillmore:2027-01-17:dogs-in-a-pile": {
+      "date": "2027-01-17",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Dogs In A Pile",
+      "url": "https://www.livenation.com/event/G5vYZ_fNGd3J5/dogs-in-a-pile",
+      "venue": "The Fillmore"
+    },
     "the-fillmore:2027-01-23:paco-versailles-the-az-car-tour-2027": {
       "date": "2027-01-23",
       "first_seen": "2026-10-05",
@@ -8489,82 +8029,32 @@
       "url": "https://www.livenation.com/event/G5vYZ_kQ5Ey-u/rhiannon-giddens",
       "venue": "The Fillmore"
     },
-    "the-independent:2026-10-12:king-mala": {
-      "date": "2026-10-12",
-      "first_seen": "2026-07-18",
+    "the-fillmore:2027-02-12:michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document": {
+      "date": "2027-02-12",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "KiNG MALA",
-      "url": "https://apeconcerts.com/events/king-mala-261012/",
-      "venue": "The Independent"
+      "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+      "url": "https://www.livenation.com/event/G5vYZ_KNr5HpR/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document",
+      "venue": "The Fillmore"
     },
-    "the-independent:2026-10-13:automatic": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-18",
+    "the-fillmore:2027-02-13:michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document": {
+      "date": "2027-02-13",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Automatic",
-      "url": "https://apeconcerts.com/events/automatic-261013/",
-      "venue": "The Independent"
-    },
-    "the-independent:2026-10-14:juice": {
-      "date": "2026-10-14",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "Juice",
-      "url": "https://apeconcerts.com/events/juice-261014/",
-      "venue": "The Independent"
-    },
-    "the-independent:2026-10-15:lost-kings": {
-      "date": "2026-10-15",
-      "first_seen": "2026-08-24",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Lost Kings",
-      "url": "https://apeconcerts.com/events/lost-kings-261015/",
-      "venue": "The Independent"
-    },
-    "the-independent:2026-10-16:this-is-lorelei": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "This is Lorelei",
-      "url": "https://apeconcerts.com/events/this-is-lorelai-261016/",
-      "venue": "The Independent"
-    },
-    "the-independent:2026-10-17:asha-banks": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Asha Banks",
-      "url": "https://apeconcerts.com/events/asha-banks-261017/",
-      "venue": "The Independent"
-    },
-    "the-independent:2026-10-18:raaginder": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-27",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": true,
-      "title": "Raaginder",
-      "url": "https://apeconcerts.com/events/raaginder-261018/",
-      "venue": "The Independent"
+      "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+      "url": "https://www.livenation.com/event/G5vYZ_KNrGHpT/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document",
+      "venue": "The Fillmore"
     },
     "the-independent:2026-10-19:new-constellations": {
       "date": "2026-10-19",
       "first_seen": "2026-07-18",
       "new_notified": true,
       "reminder_notified": true,
-      "sold_out": false,
+      "sold_out": true,
       "title": "New Constellations",
       "url": "https://apeconcerts.com/events/new-constellations-261019/",
       "venue": "The Independent"
@@ -8603,7 +8093,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": true,
       "title": "Frog",
       "url": "https://apeconcerts.com/events/frog-261023/",
@@ -8613,7 +8103,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Everclear",
       "url": "https://apeconcerts.com/events/everclear-261024/",
@@ -8623,7 +8113,7 @@
       "date": "2026-10-25",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "BALTHVS",
       "url": "https://apeconcerts.com/events/balthvs-261025/",
@@ -8633,7 +8123,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "The Wldlfe",
       "url": "https://apeconcerts.com/events/the-wldlfe-261027/",
@@ -8643,7 +8133,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Freak Slug",
       "url": "https://apeconcerts.com/events/freak-slug-261028/",
@@ -8653,7 +8143,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-27",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Patrick Wolf",
       "url": "https://apeconcerts.com/events/patrick-wolf-261029/",
@@ -8959,6 +8449,16 @@
       "url": "https://apeconcerts.com/events/meek-261203/",
       "venue": "The Independent"
     },
+    "the-independent:2026-12-04:nirosta-steel": {
+      "date": "2026-12-04",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Nirosta Steel",
+      "url": "https://apeconcerts.com/events/nirosta-steel-261204/",
+      "venue": "The Independent"
+    },
     "the-independent:2026-12-05:dragon-smoke": {
       "date": "2026-12-05",
       "first_seen": "2026-07-18",
@@ -9089,6 +8589,16 @@
       "url": "https://apeconcerts.com/events/petey-usa-261218/",
       "venue": "The Independent"
     },
+    "the-independent:2026-12-23:ray-and-paul": {
+      "date": "2026-12-23",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Ray and Paul",
+      "url": "https://apeconcerts.com/events/ray-and-paul-261223/",
+      "venue": "The Independent"
+    },
     "the-independent:2027-01-07:live-on-the-stoop": {
       "date": "2027-01-07",
       "first_seen": "2026-09-21",
@@ -9109,6 +8619,16 @@
       "url": "https://apeconcerts.com/events/com-truise-and-matthew-dear-270108/",
       "venue": "The Independent"
     },
+    "the-independent:2027-01-09:scott-pemberton-the-westones-boot-juice": {
+      "date": "2027-01-09",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Scott Pemberton + The Westones + Boot Juice",
+      "url": "https://apeconcerts.com/events/scott-pemberton-270109/",
+      "venue": "The Independent"
+    },
     "the-independent:2027-01-15:sister-nancy-the-steady-rock-band": {
       "date": "2027-01-15",
       "first_seen": "2026-09-28",
@@ -9119,6 +8639,16 @@
       "url": "https://apeconcerts.com/events/sister-nancy-270115/",
       "venue": "The Independent"
     },
+    "the-independent:2027-01-16:taper-s-choice": {
+      "date": "2027-01-16",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Taper\u2019s Choice",
+      "url": "https://apeconcerts.com/events/tapers-choice-270116/",
+      "venue": "The Independent"
+    },
     "the-independent:2027-01-17:sts9": {
       "date": "2027-01-17",
       "first_seen": "2026-08-31",
@@ -9127,6 +8657,46 @@
       "sold_out": true,
       "title": "STS9",
       "url": "https://apeconcerts.com/events/sts9-270117/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-01-26:the-flatliners": {
+      "date": "2027-01-26",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "The Flatliners",
+      "url": "https://apeconcerts.com/events/the-flatliners-270126/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-01-27:mollie-elizabeth": {
+      "date": "2027-01-27",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Mollie Elizabeth",
+      "url": "https://apeconcerts.com/events/mollie-elizabeth-270127/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-01-31:winona-fighter": {
+      "date": "2027-01-31",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Winona Fighter",
+      "url": "https://apeconcerts.com/events/winona-fighter-270131/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-02-04:lotus": {
+      "date": "2027-02-04",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Lotus",
+      "url": "https://apeconcerts.com/events/lotus-270204/",
       "venue": "The Independent"
     },
     "the-independent:2027-02-05:odezenne": {
@@ -9219,6 +8789,16 @@
       "url": "https://apeconcerts.com/events/valley-270301/",
       "venue": "The Independent"
     },
+    "the-independent:2027-03-03:tommy-lefroy": {
+      "date": "2027-03-03",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Tommy Lefroy",
+      "url": "https://apeconcerts.com/events/tommy-lefroy-270303/",
+      "venue": "The Independent"
+    },
     "the-independent:2027-03-06:rayland-baxter": {
       "date": "2027-03-06",
       "first_seen": "2026-09-28",
@@ -9227,6 +8807,26 @@
       "sold_out": false,
       "title": "Rayland Baxter",
       "url": "https://apeconcerts.com/events/rayland-baxter-270306/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-03-07:danielle-ponder": {
+      "date": "2027-03-07",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Danielle Ponder",
+      "url": "https://apeconcerts.com/events/danielle-ponder-270307/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-03-13:ruby-waters": {
+      "date": "2027-03-13",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Ruby Waters",
+      "url": "https://apeconcerts.com/events/ruby-waters-270313/",
       "venue": "The Independent"
     },
     "the-independent:2027-03-24:hans-williams": {
@@ -9249,6 +8849,16 @@
       "url": "https://apeconcerts.com/events/dan-and-peggy-reeder-270325/",
       "venue": "The Independent"
     },
+    "the-independent:2027-03-31:camel-power-club": {
+      "date": "2027-03-31",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Camel Power Club",
+      "url": "https://apeconcerts.com/events/camel-power-club-270331/",
+      "venue": "The Independent"
+    },
     "the-independent:2027-04-05:iceage": {
       "date": "2027-04-05",
       "first_seen": "2026-08-10",
@@ -9269,6 +8879,16 @@
       "url": "https://apeconcerts.com/events/too-many-zooz-270509/",
       "venue": "The Independent"
     },
+    "the-independent:2027-05-10:cleopatrick": {
+      "date": "2027-05-10",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "cleopatrick",
+      "url": "https://apeconcerts.com/events/cleopatrick-270510/",
+      "venue": "The Independent"
+    },
     "the-independent:2027-05-17:keo": {
       "date": "2027-05-17",
       "first_seen": "2026-10-05",
@@ -9277,6 +8897,16 @@
       "sold_out": false,
       "title": "Keo",
       "url": "https://apeconcerts.com/events/keo-270517/",
+      "venue": "The Independent"
+    },
+    "the-independent:2027-06-05:cg5-presents-the-gamer-tour": {
+      "date": "2027-06-05",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "CG5\u00a0Presents: The GAMER Tour",
+      "url": "https://apeconcerts.com/events/cg5-270605/",
       "venue": "The Independent"
     },
     "the-independent:2027-07-10:evan-giia": {
@@ -9288,51 +8918,6 @@
       "title": "EVAN GIIA",
       "url": "https://apeconcerts.com/events/evan-giia-260919/",
       "venue": "The Independent"
-    },
-    "the-masonic:2026-10-13:loathe-a-stranger-to-you": {
-      "date": "2026-10-13",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Loathe: A Stranger to You",
-      "url": "https://www.livenation.com/event/G5vYZ_ah_rlf3/loathe-a-stranger-to-you",
-      "venue": "The Masonic"
-    },
-    "the-masonic:2026-10-15:laura-ramoso-the-calm-down-tour": {
-      "date": "2026-10-15",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Laura Ramoso: The Calm Down Tour",
-      "url": "https://www.livenation.com/event/G5vYZ_klrGfm1/laura-ramoso-the-calm-down-tour",
-      "venue": "The Masonic"
-    },
-    "the-masonic:2026-10-16:laura-ramoso-the-calm-down-tour": {
-      "date": "2026-10-16",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Laura Ramoso: The Calm Down Tour",
-      "url": "https://www.livenation.com/event/G5vYZ_klrufmb/laura-ramoso-the-calm-down-tour",
-      "venue": "The Masonic"
-    },
-    "the-masonic:2026-10-17:daniel-sloss-bitter-brand-new-tour": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "url": "https://www.livenation.com/event/G5vYZ_72cR41k/daniel-sloss-bitter-brand-new-tour",
-      "venue": "The Masonic"
-    },
-    "the-masonic:2026-10-18:saint-levant-afandi-world-tour": {
-      "date": "2026-10-18",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "title": "SAINT LEVANT - AFANDI WORLD TOUR",
-      "url": "https://www.livenation.com/event/G5vYZ_CJ596wT/saint-levant-afandi-world-tour",
-      "venue": "The Masonic"
     },
     "the-masonic:2026-10-22:live-105-presents-rise-against-ricochet-2026": {
       "date": "2026-10-22",
@@ -9347,7 +8932,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "Shaboozey - Outlaws Never Die Tour",
       "url": "https://www.livenation.com/event/G5vYZ_a98gQQQ/shaboozey-outlaws-never-die-tour",
       "venue": "The Masonic"
@@ -9356,7 +8941,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-08-03",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
       "url": "https://www.livenation.com/event/G5vYZ_2QPRnJG/jodeci-35th-anniversary-tour-of-forever-my-lady",
@@ -9366,7 +8951,7 @@
       "date": "2026-10-27",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "10 Years of 6LACK Tour",
       "url": "https://www.livenation.com/event/G5vYZ_5QObDmm/10-years-of-6lack-tour",
       "venue": "The Masonic"
@@ -9375,7 +8960,7 @@
       "date": "2026-10-28",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Protocols with Andrew Huberman",
       "url": "https://www.livenation.com/event/G5vYZ_8L82yaZ/protocols-with-andrew-huberman",
@@ -9385,7 +8970,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "title": "THE CHICKS - TAKING THE LONG WAY",
       "url": "https://www.livenation.com/event/G5vYZ_5K9T5FO/the-chicks-taking-the-long-way",
       "venue": "The Masonic"
@@ -9605,6 +9190,16 @@
       "url": "https://www.livenation.com/event/G5vYZ_f1Pp7OB/strangers-friends-and-lovers-a-night-out-with-esther-perel",
       "venue": "The Masonic"
     },
+    "the-masonic:2027-04-25:ang-le-instinct-tour": {
+      "date": "2027-04-25",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "ANG\u00c8LE - INSTINCT TOUR",
+      "url": "https://www.livenation.com/event/G5vYZ_4ecfcPE/angele-instinct-tour",
+      "venue": "The Masonic"
+    },
     "the-masonic:2027-05-07:saint-levant-afandi-world-tour": {
       "date": "2027-05-07",
       "first_seen": "2026-09-07",
@@ -9625,41 +9220,21 @@
       "url": "https://www.livenation.com/event/G5vYZ_f2F7D6s/gianmarco-soresi-the-misery-loves-tour",
       "venue": "The Masonic"
     },
-    "the-midway:2026-10-16:intimate-night-with-perfect-stranger-presents-a-perfect-sphere-album-release-party": {
-      "date": "2026-10-16",
-      "first_seen": "2026-08-31",
+    "the-masonic:2027-11-03:jimmy-carr-killing-jokes": {
+      "date": "2027-11-03",
+      "first_seen": "2026-10-19",
       "new_notified": true,
-      "reminder_notified": true,
+      "reminder_notified": false,
       "sold_out": false,
-      "title": "Intimate night with perfect stranger presents: A Perfect Sphere album release party",
-      "url": "https://www.tixr.com/groups/midwaysf/events/intimate-night-with-perfect-stranger-presents-a-perfect-sphere-album-release-party-205038",
-      "venue": "The Midway"
-    },
-    "the-midway:2026-10-17:made-in-brasil": {
-      "date": "2026-10-17",
-      "first_seen": "2026-10-05",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Made In Brasil",
-      "url": "https://www.tixr.com/groups/midwaysf/events/made-in-brasil-209600",
-      "venue": "The Midway"
-    },
-    "the-midway:2026-10-17:yheti-toadface-present-sleight-of-sound-tour": {
-      "date": "2026-10-17",
-      "first_seen": "2026-07-18",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Yheti & Toadface present Sleight of Sound Tour",
-      "url": "https://www.tixr.com/groups/midwaysf/events/yheti-toadface-present-sleight-of-sound-tour-197309",
-      "venue": "The Midway"
+      "title": "Jimmy Carr: Killing Jokes",
+      "url": "https://www.livenation.com/event/G5vYZ_fM1TgAK/jimmy-carr-killing-jokes",
+      "venue": "The Masonic"
     },
     "the-midway:2026-10-23:chief-keef": {
       "date": "2026-10-23",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Chief Keef",
       "url": "https://www.tixr.com/groups/midwaysf/events/chief-keef-197581",
@@ -9669,7 +9244,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-09-07",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "The Midway Presents: LOVRA",
       "url": "https://www.tixr.com/groups/midwaysf/events/the-midway-presents-lovra-203747",
@@ -9679,7 +9254,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-07-18",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Marc Rebillet, Franc Moody & Chromeo Block Party",
       "url": "https://www.tixr.com/groups/midwaysf/events/marc-rebillet-franc-moody-chromeo-block-party-195529",
@@ -9689,7 +9264,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-08-10",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "The Midway presents: Tokyo Machine",
       "url": "https://www.tixr.com/groups/midwaysf/events/the-midway-presents-tokyo-machine-200971",
@@ -9699,7 +9274,7 @@
       "date": "2026-10-29",
       "first_seen": "2026-09-28",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Perreo El\u00e9ctrico Halloween",
       "url": "https://www.tixr.com/groups/midwaysf/events/perreo-el-ctrico-halloween-208430",
@@ -9995,46 +9570,6 @@
       "url": "https://www.tixr.com/groups/midwaysf/events/chelsea-cutler-is-this-the-end-tour-208667",
       "venue": "The Midway"
     },
-    "the-warfield:2026-10-14:sex-pistols-steve-jones-paul-cook-glen-matlock-feat-frank-carter": {
-      "date": "2026-10-14",
-      "first_seen": "2026-09-07",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock) feat. Frank Carter",
-      "url": "https://www.thewarfieldtheatre.com/events/detail/908696",
-      "venue": "The Warfield"
-    },
-    "the-warfield:2026-10-16:jessie-ware": {
-      "date": "2026-10-16",
-      "first_seen": "2026-09-14",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Jessie Ware",
-      "url": "https://www.thewarfieldtheatre.com/events/detail/1400483",
-      "venue": "The Warfield"
-    },
-    "the-warfield:2026-10-17:jessie-ware-2nd-show-added": {
-      "date": "2026-10-17",
-      "first_seen": "2026-09-14",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Jessie Ware - 2nd Show Added!",
-      "url": "https://www.thewarfieldtheatre.com/events/detail/1413598",
-      "venue": "The Warfield"
-    },
-    "the-warfield:2026-10-18:sunset-rollercoaster": {
-      "date": "2026-10-18",
-      "first_seen": "2026-09-14",
-      "new_notified": true,
-      "reminder_notified": true,
-      "sold_out": false,
-      "title": "Sunset Rollercoaster",
-      "url": "https://www.thewarfieldtheatre.com/events/detail/1385214",
-      "venue": "The Warfield"
-    },
     "the-warfield:2026-10-21:kylie-cantrall": {
       "date": "2026-10-21",
       "first_seen": "2026-09-14",
@@ -10049,7 +9584,7 @@
       "date": "2026-10-23",
       "first_seen": "2026-09-14",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "Julia Wolf",
       "url": "https://www.thewarfieldtheatre.com/events/detail/1407735",
@@ -10059,7 +9594,7 @@
       "date": "2026-10-24",
       "first_seen": "2026-09-14",
       "new_notified": true,
-      "reminder_notified": false,
+      "reminder_notified": true,
       "sold_out": false,
       "title": "fakemink",
       "url": "https://www.thewarfieldtheatre.com/events/detail/1518695",
@@ -10195,6 +9730,16 @@
       "url": "https://www.thewarfieldtheatre.com/events/detail/1619471",
       "venue": "The Warfield"
     },
+    "the-warfield:2026-12-15:xlov": {
+      "date": "2026-12-15",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "XLOV",
+      "url": "https://www.thewarfieldtheatre.com/events/detail/1651188",
+      "venue": "The Warfield"
+    },
     "the-warfield:2026-12-31:deltron-3030-performing-deltron-3030": {
       "date": "2026-12-31",
       "first_seen": "2026-10-12",
@@ -10213,6 +9758,36 @@
       "sold_out": false,
       "title": "ALLEYCVT",
       "url": "https://www.thewarfieldtheatre.com/events/detail/1649341",
+      "venue": "The Warfield"
+    },
+    "the-warfield:2027-01-23:fakemink": {
+      "date": "2027-01-23",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "fakemink",
+      "url": "https://www.thewarfieldtheatre.com/events/detail/1518695",
+      "venue": "The Warfield"
+    },
+    "the-warfield:2027-03-13:foil-arms-and-hog": {
+      "date": "2027-03-13",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "Foil Arms and Hog",
+      "url": "https://www.thewarfieldtheatre.com/events/detail/1633750",
+      "venue": "The Warfield"
+    },
+    "the-warfield:2027-03-14:rupaul-s-drag-race": {
+      "date": "2027-03-14",
+      "first_seen": "2026-10-19",
+      "new_notified": true,
+      "reminder_notified": false,
+      "sold_out": false,
+      "title": "RuPaul's Drag Race",
+      "url": "https://www.thewarfieldtheatre.com/events/detail/1454070",
       "venue": "The Warfield"
     }
   }
